@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "2.0",
-    "message":  "RELEASE",
+    "version":  "3.0",
+    "message":  "ADD BYPASS",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5A3D5D7823F1D5432F19ED5EDA44F7F4B4401B1442E25078DB1D956E34CFCFAE",
-    "arm64_size":  5525096,
+    "arm64_sha256":  "190F0D6A91C323712A6380CC80907C810BFFACC7582622534B6B4F62D9C0032D",
+    "arm64_size":  5533288,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E6D940BF7BA8E7B6DAB0093A883839972287689B7D9A0FB4E0B36B6134DD0176",
+    "armeabi_sha256":  "95D752E97D7DE329DA60EF89DA7F5B3F70A49B901D7DF826B3B0C9872ABAA28C",
     "armeabi_size":  5200736,
-    "updated_at":  "2026-04-26T07:44:59Z"
+    "updated_at":  "2026-04-26T13:10:37Z"
 }
