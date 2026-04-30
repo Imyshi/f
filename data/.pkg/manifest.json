@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "1.1",
-    "message":  "Fix 1.1",
+    "version":  "1.2",
+    "message":  "Patch 1.2",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "676449AFB7815E14DF492E905939406A10A5C886E63F3E609955B0889D5151CC",
-    "arm64_size":  31369256,
+    "arm64_sha256":  "DFB4040C77FDCADC4F023C08411C259FB99490D65DB071C0E3A0B00B98F13A42",
+    "arm64_size":  31373336,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "2C8580BCA283AA541EE41F2CC84B1BAED8B594A668BF2748C0948AB817C0D2DF",
-    "armeabi_size":  5192544,
-    "updated_at":  "2026-04-29T11:03:00Z"
+    "armeabi_sha256":  "C280256E64A0787E70BC05C5BB72E4DBF33FA2DABB04F261F82298DDEC8166B8",
+    "armeabi_size":  5245916,
+    "updated_at":  "2026-04-30T11:55:42Z"
 }
