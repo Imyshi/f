@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "1.7",
-    "message":  "FIX MENU",
+    "version":  "1.9",
+    "message":  "gtw",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "43E73A0B743987FEC1F355BE7B00CCA7285B25582B4C04E9C3DB5DC7FB54B026",
-    "arm64_size":  5545504,
+    "arm64_sha256":  "E202757C0374FA7C9D91E65D9F4F516404B17F247DA0D8E9DEE0EBB085ABDCBC",
+    "arm64_size":  5541408,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C39E259ABF2940837197EC35B047668C561115D37455C06C184385B9056AA17F",
-    "armeabi_size":  5262248,
-    "updated_at":  "2026-05-16T22:19:01Z"
+    "armeabi_sha256":  "968624B9F129446F736DB212EE82A1CDCDC0E3E3EA25B35D4940A2DF02449B4E",
+    "armeabi_size":  5254052,
+    "updated_at":  "2026-05-16T23:18:34Z"
 }
