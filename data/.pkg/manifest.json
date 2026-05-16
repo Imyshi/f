@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "1.4",
-    "message":  "NEW",
+    "version":  "1.5",
+    "message":  "Add Bypass Testing",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "A8CC54D9758DD1530085BE130D801789C2A990E5D8A7E96BCCCF930B7DD62F34",
-    "arm64_size":  5566040,
+    "arm64_sha256":  "66EFC7B063495C2FA0387479A913ED1E65A84AEA398ED5C91CB568E5AD5489F2",
+    "arm64_size":  5574232,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "29A24AB849FADB95B8D2865A2EB99BF1D3B7666B7816A258102653D2E6DBA402",
-    "armeabi_size":  5266396,
-    "updated_at":  "2026-05-15T15:13:14Z"
+    "armeabi_sha256":  "B0D821E21DCD6B9212EB55FBECA916BE00CC44A9D514B13242B694E0BAA6111F",
+    "armeabi_size":  5286876,
+    "updated_at":  "2026-05-16T03:54:13Z"
 }
