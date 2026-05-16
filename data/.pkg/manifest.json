@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.9",
-    "message":  "gtw",
+    "version":  "2.0",
+    "message":  "www",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "E202757C0374FA7C9D91E65D9F4F516404B17F247DA0D8E9DEE0EBB085ABDCBC",
@@ -8,5 +8,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "968624B9F129446F736DB212EE82A1CDCDC0E3E3EA25B35D4940A2DF02449B4E",
     "armeabi_size":  5254052,
-    "updated_at":  "2026-05-16T23:18:34Z"
+    "updated_at":  "2026-05-16T23:35:25Z"
 }
