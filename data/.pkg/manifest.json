@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.0",
-    "message":  "What\u0027s new: Added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
-    "changelog":  "Added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
+    "version":  "1.0.1",
+    "message":  "What\u0027s new: Changed payload install name to .nomedia, added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
+    "changelog":  "Changed payload install name to .nomedia, added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D72369318D517FDC9E7A3BF7FE818BB6CC1368956208284A9541F316B44E81AC",
+    "arm64_sha256":  "982BF5A4F68641D0BFA28E30446D0B81480743B92AC0D9B098C64C8CFD2C50B9",
     "arm64_size":  5557880,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "69DA53EBD17F33EFE6160E92427BB2297A92A7B3EF273D468A19800BFF160EAA",
+    "armeabi_sha256":  "6F5A58C0593F89133281F97460D7C7A985A2270DB08B1A9A482475D97B3DB1E2",
     "armeabi_size":  5270512,
-    "updated_at":  "2026-05-20T14:16:59Z"
+    "updated_at":  "2026-05-20T14:26:17Z"
 }
