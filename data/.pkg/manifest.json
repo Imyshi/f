@@ -4,10 +4,10 @@
     "changelog":  "Changed payload install name to .nomedia, added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "982BF5A4F68641D0BFA28E30446D0B81480743B92AC0D9B098C64C8CFD2C50B9",
-    "arm64_size":  5557880,
+    "arm64_sha256":  "3AE7F932D23A26C56FDE62559CC2DBA84FCCD589CC877838E59100B6B02334FC",
+    "arm64_size":  5549688,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6F5A58C0593F89133281F97460D7C7A985A2270DB08B1A9A482475D97B3DB1E2",
+    "armeabi_sha256":  "3146F3A5A13E94835E7F79635C05C94BB7727C21DBBCDD559D59768F45107ED0",
     "armeabi_size":  5270512,
-    "updated_at":  "2026-05-20T14:26:17Z"
+    "updated_at":  "2026-05-20T15:05:33Z"
 }
