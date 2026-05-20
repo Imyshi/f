@@ -1,12 +1,13 @@
 ﻿{
-    "version":  "2.1",
-    "message":  "males ah",
-    "force":  true,
+    "version":  "1.0.0",
+    "message":  "What\u0027s new: Added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
+    "changelog":  "Added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
+    "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E202757C0374FA7C9D91E65D9F4F516404B17F247DA0D8E9DEE0EBB085ABDCBC",
-    "arm64_size":  5541408,
+    "arm64_sha256":  "D72369318D517FDC9E7A3BF7FE818BB6CC1368956208284A9541F316B44E81AC",
+    "arm64_size":  5557880,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "968624B9F129446F736DB212EE82A1CDCDC0E3E3EA25B35D4940A2DF02449B4E",
-    "armeabi_size":  5254052,
-    "updated_at":  "2026-05-17T00:06:01Z"
+    "armeabi_sha256":  "69DA53EBD17F33EFE6160E92427BB2297A92A7B3EF273D468A19800BFF160EAA",
+    "armeabi_size":  5270512,
+    "updated_at":  "2026-05-20T14:16:59Z"
 }
