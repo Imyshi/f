@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.7",
-    "message":  "What\u0027s new: Fixed Kimmy enhanced basic at max Starlium by reading both ShowEntity and logic-fighter energy, then casting the Ferrary-style 107100/207100/7170 lock-unit sequence.",
-    "changelog":  "Fixed Kimmy enhanced basic at max Starlium by reading both ShowEntity and logic-fighter energy, then casting the Ferrary-style 107100/207100/7170 lock-unit sequence.",
+    "version":  "1.0.8",
+    "message":  "What\u0027s new: Fix Kimmy enhanced Starlium casts by sending the Ferrary lock-unit sequence as non-common attacks.",
+    "changelog":  "Fix Kimmy enhanced Starlium casts by sending the Ferrary lock-unit sequence as non-common attacks.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "17D7A275A20A9E234CE139C3DB1ACDA045952330731FF92E61F7825BA1E17698",
-    "arm64_size":  5570160,
+    "arm64_sha256":  "9CF31A81612E8504FB473DAB530ABF1C74658C89A5A98C790F7A8A2C6F6A57E4",
+    "arm64_size":  5578352,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "597AC775820DF1998DC2138D791E639CF262B158F00E2375ECF3D3FC5F720100",
-    "armeabi_size":  5303280,
-    "updated_at":  "2026-05-21T16:14:06Z"
+    "armeabi_sha256":  "BA35F2E4527158FB62704D22272840DEF705E31A26AFE025395CBA4FFEF7F3BB",
+    "armeabi_size":  5299184,
+    "updated_at":  "2026-05-21T16:49:34Z"
 }
