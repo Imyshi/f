@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.5",
-    "message":  "What\u0027s new: Fixed Kimmy enhanced basic selection by reading the local energy state and prioritizing the enhanced 207100 lock-unit path when Starlium is full.",
-    "changelog":  "Fixed Kimmy enhanced basic selection by reading the local energy state and prioritizing the enhanced 207100 lock-unit path when Starlium is full.",
+    "version":  "1.0.6",
+    "message":  "What\u0027s new: Fixed Kimmy enhanced basic and monster targeting by using ShowEntity target GUIDs, sending only the 207100 lock-unit path while enhanced, and moving Kimmy/Yve controls into Extra Feature.",
+    "changelog":  "Fixed Kimmy enhanced basic and monster targeting by using ShowEntity target GUIDs, sending only the 207100 lock-unit path while enhanced, and moving Kimmy/Yve controls into Extra Feature.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C4C176BD690567EB8F8471D9C3E6F325CF1CE7C1ECC2D436CDE3677DC029F075",
-    "arm64_size":  5566072,
+    "arm64_sha256":  "5CC453885014335AD435D2259902F42AC21B79E486E6788A614E79E6AE6DACB3",
+    "arm64_size":  5570160,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "2E491F3D9DEB35596960D46CB5D2AD51A925E954A955B46D703333B91E5802CD",
-    "armeabi_size":  5299188,
-    "updated_at":  "2026-05-21T11:55:10Z"
+    "armeabi_sha256":  "23F23D936C0E21003873DF831EB6A1BC49A0AA815923FD333ABBFB602CD7FFF7",
+    "armeabi_size":  5299184,
+    "updated_at":  "2026-05-21T13:46:57Z"
 }
