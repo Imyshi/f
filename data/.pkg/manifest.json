@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.3",
-    "message":  "What\u0027s new: Fixed Kimmy active analog basic attack, routed 9-param TryUseSkill through auto aim, added Yve Skill 1 spam routing, and kept Kimmy/Yve target selection on fixed hero IDs.",
-    "changelog":  "Fixed Kimmy active analog basic attack, routed 9-param TryUseSkill through auto aim, added Yve Skill 1 spam routing, and kept Kimmy/Yve target selection on fixed hero IDs.",
+    "version":  "1.0.4",
+    "message":  "What\u0027s new: Changed Kimmy DD to Ferrary-style TryUseSkillByLockUnit targeting with locked target IDs and Kimmy-specific skill IDs 107100, 207100, and 7170.",
+    "changelog":  "Changed Kimmy DD to Ferrary-style TryUseSkillByLockUnit targeting with locked target IDs and Kimmy-specific skill IDs 107100, 207100, and 7170.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8D6CA0B9A646C9DA4447DEB2F1C9F8F55801BA2D6D57BDCB9DB7609BF4E24F47",
-    "arm64_size":  5570168,
+    "arm64_sha256":  "6190F43BA7E9C4F2F51A40755D4B60FB4CFBB9B7490F27CEDDF1AFE57D82C5F3",
+    "arm64_size":  5561976,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "5BA8312FBDF1AE1D805A8F8C417D7F46824D82FAFB83D5F3D42ADA1247050AEE",
+    "armeabi_sha256":  "97CEB56AB2F67A18913FCBC7CA17C52B208B800E937FD34530EFE3FA959C27A6",
     "armeabi_size":  5299188,
-    "updated_at":  "2026-05-21T08:48:09Z"
+    "updated_at":  "2026-05-21T11:33:53Z"
 }
