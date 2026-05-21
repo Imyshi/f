@@ -4,10 +4,10 @@
     "changelog":  "Fixed Kimmy enhanced basic selection by reading the local energy state and prioritizing the enhanced 207100 lock-unit path when Starlium is full.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E1A61B076A68852D38187E4FA7A0E5383B2584098EF98F73E0309B5FAA9659F8",
-    "arm64_size":  5570168,
+    "arm64_sha256":  "C4C176BD690567EB8F8471D9C3E6F325CF1CE7C1ECC2D436CDE3677DC029F075",
+    "arm64_size":  5566072,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "10D0DC05ADB327C02692A9B9C4A7BDF37255192E3E4EEF155889898F9A03AE52",
+    "armeabi_sha256":  "2E491F3D9DEB35596960D46CB5D2AD51A925E954A955B46D703333B91E5802CD",
     "armeabi_size":  5299188,
-    "updated_at":  "2026-05-21T11:52:39Z"
+    "updated_at":  "2026-05-21T11:55:10Z"
 }
