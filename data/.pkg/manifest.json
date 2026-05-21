@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.4",
-    "message":  "What\u0027s new: Changed Kimmy DD to Ferrary-style TryUseSkillByLockUnit targeting with locked target IDs and Kimmy-specific skill IDs 107100, 207100, and 7170.",
-    "changelog":  "Changed Kimmy DD to Ferrary-style TryUseSkillByLockUnit targeting with locked target IDs and Kimmy-specific skill IDs 107100, 207100, and 7170.",
+    "version":  "1.0.5",
+    "message":  "What\u0027s new: Fixed Kimmy enhanced basic selection by reading the local energy state and prioritizing the enhanced 207100 lock-unit path when Starlium is full.",
+    "changelog":  "Fixed Kimmy enhanced basic selection by reading the local energy state and prioritizing the enhanced 207100 lock-unit path when Starlium is full.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "6190F43BA7E9C4F2F51A40755D4B60FB4CFBB9B7490F27CEDDF1AFE57D82C5F3",
-    "arm64_size":  5561976,
+    "arm64_sha256":  "E1A61B076A68852D38187E4FA7A0E5383B2584098EF98F73E0309B5FAA9659F8",
+    "arm64_size":  5570168,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "97CEB56AB2F67A18913FCBC7CA17C52B208B800E937FD34530EFE3FA959C27A6",
+    "armeabi_sha256":  "10D0DC05ADB327C02692A9B9C4A7BDF37255192E3E4EEF155889898F9A03AE52",
     "armeabi_size":  5299188,
-    "updated_at":  "2026-05-21T11:33:53Z"
+    "updated_at":  "2026-05-21T11:52:39Z"
 }
