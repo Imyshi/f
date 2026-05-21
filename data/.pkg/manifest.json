@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.1",
-    "message":  "What\u0027s new: Changed payload install name to .nomedia, added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
-    "changelog":  "Changed payload install name to .nomedia, added Kimmy and Yve hero aim controls, Target Rate, Skill Use Type, Auto Ling, Skill ID Debugger, and TryUseSkill ABI fixes.",
+    "version":  "1.0.2",
+    "message":  "What\u0027s new: Added Mode Selector device override for login, fixed Kimmy and Yve aim routing with fixed hero IDs, removed editable hero ID sliders, and improved target forwarding for auto aim.",
+    "changelog":  "Added Mode Selector device override for login, fixed Kimmy and Yve aim routing with fixed hero IDs, removed editable hero ID sliders, and improved target forwarding for auto aim.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8BBE3CF088440963A0F800249B3335D93DBB1626C5E21ECFFAF9FAA746562790",
-    "arm64_size":  5566080,
+    "arm64_sha256":  "455CB9D9FCC43620CB62EA6AC5DF6D860D37CB452BC1BB107E9A577CEFD3CB8C",
+    "arm64_size":  5557880,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B95EC1A8EABEB0DA0D0CC7C5E3C0D27527C358C52836E7989AF5E6EA93A01BC2",
-    "armeabi_size":  5286904,
-    "updated_at":  "2026-05-20T15:44:02Z"
+    "armeabi_sha256":  "010AC553D6CAB587CEEFFC9EE688D52901A84D56E26B794A0C12B310A9E3226C",
+    "armeabi_size":  5295092,
+    "updated_at":  "2026-05-21T08:19:39Z"
 }
