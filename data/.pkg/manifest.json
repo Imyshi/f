@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.2",
-    "message":  "What\u0027s new: Added Mode Selector device override for login, fixed Kimmy and Yve aim routing with fixed hero IDs, removed editable hero ID sliders, and improved target forwarding for auto aim.",
-    "changelog":  "Added Mode Selector device override for login, fixed Kimmy and Yve aim routing with fixed hero IDs, removed editable hero ID sliders, and improved target forwarding for auto aim.",
+    "version":  "1.0.3",
+    "message":  "What\u0027s new: Fixed Kimmy active analog basic attack, routed 9-param TryUseSkill through auto aim, added Yve Skill 1 spam routing, and kept Kimmy/Yve target selection on fixed hero IDs.",
+    "changelog":  "Fixed Kimmy active analog basic attack, routed 9-param TryUseSkill through auto aim, added Yve Skill 1 spam routing, and kept Kimmy/Yve target selection on fixed hero IDs.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "455CB9D9FCC43620CB62EA6AC5DF6D860D37CB452BC1BB107E9A577CEFD3CB8C",
-    "arm64_size":  5557880,
+    "arm64_sha256":  "8D6CA0B9A646C9DA4447DEB2F1C9F8F55801BA2D6D57BDCB9DB7609BF4E24F47",
+    "arm64_size":  5570168,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "010AC553D6CAB587CEEFFC9EE688D52901A84D56E26B794A0C12B310A9E3226C",
-    "armeabi_size":  5295092,
-    "updated_at":  "2026-05-21T08:19:39Z"
+    "armeabi_sha256":  "5BA8312FBDF1AE1D805A8F8C417D7F46824D82FAFB83D5F3D42ADA1247050AEE",
+    "armeabi_size":  5299188,
+    "updated_at":  "2026-05-21T08:48:09Z"
 }
