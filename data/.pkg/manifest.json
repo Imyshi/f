@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.6",
-    "message":  "What\u0027s new: Fixed Kimmy enhanced basic and monster targeting by using ShowEntity target GUIDs, sending only the 207100 lock-unit path while enhanced, and moving Kimmy/Yve controls into Extra Feature.",
-    "changelog":  "Fixed Kimmy enhanced basic and monster targeting by using ShowEntity target GUIDs, sending only the 207100 lock-unit path while enhanced, and moving Kimmy/Yve controls into Extra Feature.",
+    "version":  "1.0.7",
+    "message":  "What\u0027s new: Fixed Kimmy enhanced basic at max Starlium by reading both ShowEntity and logic-fighter energy, then casting the Ferrary-style 107100/207100/7170 lock-unit sequence.",
+    "changelog":  "Fixed Kimmy enhanced basic at max Starlium by reading both ShowEntity and logic-fighter energy, then casting the Ferrary-style 107100/207100/7170 lock-unit sequence.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5CC453885014335AD435D2259902F42AC21B79E486E6788A614E79E6AE6DACB3",
+    "arm64_sha256":  "17D7A275A20A9E234CE139C3DB1ACDA045952330731FF92E61F7825BA1E17698",
     "arm64_size":  5570160,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "23F23D936C0E21003873DF831EB6A1BC49A0AA815923FD333ABBFB602CD7FFF7",
-    "armeabi_size":  5299184,
-    "updated_at":  "2026-05-21T13:46:57Z"
+    "armeabi_sha256":  "597AC775820DF1998DC2138D791E639CF262B158F00E2375ECF3D3FC5F720100",
+    "armeabi_size":  5303280,
+    "updated_at":  "2026-05-21T16:14:06Z"
 }
