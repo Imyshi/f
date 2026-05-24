@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.8",
-    "message":  "What\u0027s new: Fix Kimmy enhanced Starlium casts by sending the Ferrary lock-unit sequence as non-common attacks.",
-    "changelog":  "Fix Kimmy enhanced Starlium casts by sending the Ferrary lock-unit sequence as non-common attacks.",
+    "version":  "1.0.9",
+    "message":  "What\u0027s new: Hardened license validation with obfuscated official endpoints, signed response checks, runtime seal checks, and app-scoped network allowlist.",
+    "changelog":  "Hardened license validation with obfuscated official endpoints, signed response checks, runtime seal checks, and app-scoped network allowlist.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "9CF31A81612E8504FB473DAB530ABF1C74658C89A5A98C790F7A8A2C6F6A57E4",
-    "arm64_size":  5578352,
+    "arm64_sha256":  "1A762F86CB3B6E260B787CAFDE0C9612BE58D9D7828AFA74739C3779C1DBCFB3",
+    "arm64_size":  5590640,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BA35F2E4527158FB62704D22272840DEF705E31A26AFE025395CBA4FFEF7F3BB",
-    "armeabi_size":  5299184,
-    "updated_at":  "2026-05-21T16:49:34Z"
+    "armeabi_sha256":  "A654310E0F15E40EF88AAF25224C40A402F895B3ED1E175957DA723D47D724FF",
+    "armeabi_size":  5311464,
+    "updated_at":  "2026-05-24T02:25:56Z"
 }
