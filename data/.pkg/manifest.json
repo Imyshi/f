@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.10",
-    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
-    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "version":  "1.0.11",
+    "message":  "What\u0027s new: Fix Kimmy enhanced Starlium basic and Yve aim routing",
+    "changelog":  "Fix Kimmy enhanced Starlium basic and Yve aim routing",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "817FC25752B2C608DA194E933A196F50BF70380EED79BADBFB4BE558CCBA4661",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "56BE14EF78748AB54B077C7DE71AC02BAB380CF1DCB2BC6E092CA19E2DCF13ED",
     "armeabi_size":  5323752,
-    "updated_at":  "2026-05-25T10:06:08Z"
+    "updated_at":  "2026-05-31T02:54:39Z"
 }
