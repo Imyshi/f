@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.12",
-    "message":  "What\u0027s new: Fix Kimmy enhanced common attack path",
-    "changelog":  "Fix Kimmy enhanced common attack path",
+    "version":  "1.0.13",
+    "message":  "What\u0027s new: Fix Kimmy boosted lock skill sequence",
+    "changelog":  "Fix Kimmy boosted lock skill sequence",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "817FC25752B2C608DA194E933A196F50BF70380EED79BADBFB4BE558CCBA4661",
-    "arm64_size":  5602928,
+    "arm64_sha256":  "727B1EFC4A27F5B8EC2AA758E0810502E4EEC29E20FA92C5DA9B0CED9D9BB4E3",
+    "arm64_size":  4487232,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "56BE14EF78748AB54B077C7DE71AC02BAB380CF1DCB2BC6E092CA19E2DCF13ED",
-    "armeabi_size":  5323752,
-    "updated_at":  "2026-05-31T07:22:29Z"
+    "armeabi_sha256":  "E4FC841BDAE6D8159FFD48EA8B8E51817FE0B71AC402F617C225D4691B165F95",
+    "armeabi_size":  4144372,
+    "updated_at":  "2026-06-03T22:46:54Z"
 }
