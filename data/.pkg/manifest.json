@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.13",
-    "message":  "What\u0027s new: Fix Kimmy boosted lock skill sequence",
-    "changelog":  "Fix Kimmy boosted lock skill sequence",
+    "version":  "1.0.14",
+    "message":  "What\u0027s new: Add Fanny pathfinding wall detection and Gusion auto combo",
+    "changelog":  "Add Fanny pathfinding wall detection and Gusion auto combo",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "727B1EFC4A27F5B8EC2AA758E0810502E4EEC29E20FA92C5DA9B0CED9D9BB4E3",
-    "arm64_size":  4487232,
+    "arm64_sha256":  "08B2698F2462B9EAC532459DA940660CD8B346356D626D5E8E71891DA3D725B7",
+    "arm64_size":  4499456,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E4FC841BDAE6D8159FFD48EA8B8E51817FE0B71AC402F617C225D4691B165F95",
-    "armeabi_size":  4144372,
-    "updated_at":  "2026-06-03T22:46:54Z"
+    "armeabi_sha256":  "0BBB71E7AACBFB996EB2731F2AA42E53FD0664ED3B86E2A957CFEAAC91ECD24F",
+    "armeabi_size":  4154740,
+    "updated_at":  "2026-06-04T15:37:45Z"
 }
