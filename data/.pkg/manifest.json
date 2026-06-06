@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.23",
-    "message":  "What\u0027s new: Combine managed and native audit entries into one total hook count in the scan panel.",
-    "changelog":  "Combine managed and native audit entries into one total hook count in the scan panel.",
+    "version":  "1.0.24",
+    "message":  "What\u0027s new: Enable native by-symbol hooks with RVA-needed scan output separated from managed hooks.",
+    "changelog":  "Enable native by-symbol hooks with RVA-needed scan output separated from managed hooks.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E1441207C6AC2A4BF75465255E7CE5A876E0A9DD536191F3EDEBAA96827ABD15",
-    "arm64_size":  4542528,
+    "arm64_sha256":  "B1C5E5366E70A60CD4701E6342CAC366FC9A25067ACACFAFD7F893F346B9F0EC",
+    "arm64_size":  4548704,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3413261E3226B1B430DE402E15B332AAF9970C5235B7BB90A5050DA8F8C042C7",
-    "armeabi_size":  4186612,
-    "updated_at":  "2026-06-06T17:00:18Z"
+    "armeabi_sha256":  "75A5687963E75A4E5B45941FDA08A3ABBD90ED6AC729C984AA90C6FDE1AC6F97",
+    "armeabi_size":  4192724,
+    "updated_at":  "2026-06-06T17:14:41Z"
 }
