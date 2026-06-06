@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.22",
-    "message":  "What\u0027s new: Show raw target and native status-only counts in the scan panel.",
-    "changelog":  "Show raw target and native status-only counts in the scan panel.",
+    "version":  "1.0.23",
+    "message":  "What\u0027s new: Combine managed and native audit entries into one total hook count in the scan panel.",
+    "changelog":  "Combine managed and native audit entries into one total hook count in the scan panel.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8277EBE14C43EFA34ABBC862960E19905A2FD0AE62E6BDA1CABD57F9836CE666",
-    "arm64_size":  4542752,
+    "arm64_sha256":  "E1441207C6AC2A4BF75465255E7CE5A876E0A9DD536191F3EDEBAA96827ABD15",
+    "arm64_size":  4542528,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E562087D8C710357AAE68B2BF3023072E3FCD3928F78B00F6076E4F19B5C7794",
-    "armeabi_size":  4186836,
-    "updated_at":  "2026-06-06T16:53:48Z"
+    "armeabi_sha256":  "3413261E3226B1B430DE402E15B332AAF9970C5235B7BB90A5050DA8F8C042C7",
+    "armeabi_size":  4186612,
+    "updated_at":  "2026-06-06T17:00:18Z"
 }
