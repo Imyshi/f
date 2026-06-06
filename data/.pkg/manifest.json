@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.17",
-    "message":  "What\u0027s new: Start scan report writing immediately when the scan button is pressed.",
-    "changelog":  "Start scan report writing immediately when the scan button is pressed.",
+    "version":  "1.0.18",
+    "message":  "What\u0027s new: Force rebuilt payload and start scan report writing immediately when SCAN is pressed.",
+    "changelog":  "Force rebuilt payload and start scan report writing immediately when SCAN is pressed.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "BAC0D5A88F8AC6D9A612C9CC69D3C7109265E4A70F5D38C621AFF2C876B83BF6",
-    "arm64_size":  4527168,
+    "arm64_sha256":  "6A34A48CCD6961B33ABC764B4EA2B429A343A38FC7F4E57357719C2511B04728",
+    "arm64_size":  4535168,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "526B076D403B745FCF3AE421D3D0542432F87A15177AD622353769EC6B2949E1",
-    "armeabi_size":  4170996,
-    "updated_at":  "2026-06-06T15:56:57Z"
+    "armeabi_sha256":  "103AFC08FD799F8845A60C6A053AD03EC2010524C2D26676F4BBC523A3814320",
+    "armeabi_size":  4179284,
+    "updated_at":  "2026-06-06T16:02:21Z"
 }
