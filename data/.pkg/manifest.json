@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.16",
-    "message":  "What\u0027s new: Restored runtime-compatible managed target names while keeping duplicate target cleanup.",
-    "changelog":  "Restored runtime-compatible managed target names while keeping duplicate target cleanup.",
+    "version":  "1.0.17",
+    "message":  "What\u0027s new: Start scan report writing immediately when the scan button is pressed.",
+    "changelog":  "Start scan report writing immediately when the scan button is pressed.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "BAC0D5A88F8AC6D9A612C9CC69D3C7109265E4A70F5D38C621AFF2C876B83BF6",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "526B076D403B745FCF3AE421D3D0542432F87A15177AD622353769EC6B2949E1",
     "armeabi_size":  4170996,
-    "updated_at":  "2026-06-06T15:48:01Z"
+    "updated_at":  "2026-06-06T15:56:57Z"
 }
