@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.18",
-    "message":  "What\u0027s new: Force rebuilt payload and start scan report writing immediately when SCAN is pressed.",
-    "changelog":  "Force rebuilt payload and start scan report writing immediately when SCAN is pressed.",
+    "version":  "1.0.19",
+    "message":  "What\u0027s new: Added managed lookup fallback for nested and full-class resolver variants.",
+    "changelog":  "Added managed lookup fallback for nested and full-class resolver variants.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "6A34A48CCD6961B33ABC764B4EA2B429A343A38FC7F4E57357719C2511B04728",
-    "arm64_size":  4535168,
+    "arm64_sha256":  "48A2DC0796D0D5F14F345E1BDFBB9E59CE7E18C7024CBAE4036EBEB4AB2FA164",
+    "arm64_size":  4538784,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "103AFC08FD799F8845A60C6A053AD03EC2010524C2D26676F4BBC523A3814320",
-    "armeabi_size":  4179284,
-    "updated_at":  "2026-06-06T16:02:21Z"
+    "armeabi_sha256":  "930CD218B47A60C6C53D9993773D7383F352C2B5A0ACB1A16C582AF4497B2D72",
+    "armeabi_size":  4182772,
+    "updated_at":  "2026-06-06T16:18:48Z"
 }
