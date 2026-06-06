@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.24",
-    "message":  "What\u0027s new: Enable native by-symbol hooks with RVA-needed scan output separated from managed hooks.",
-    "changelog":  "Enable native by-symbol hooks with RVA-needed scan output separated from managed hooks.",
+    "version":  "1.0.25",
+    "message":  "What\u0027s new: Disable native by-symbol DobbyHook and keep native symbol/RVA scan only for stability.",
+    "changelog":  "Disable native by-symbol DobbyHook and keep native symbol/RVA scan only for stability.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B1C5E5366E70A60CD4701E6342CAC366FC9A25067ACACFAFD7F893F346B9F0EC",
-    "arm64_size":  4548704,
+    "arm64_sha256":  "8FB785C1F5C0B14AA459D15B58E43AF12EE55996D66C14BDC890B25C1BCE393C",
+    "arm64_size":  4548512,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "75A5687963E75A4E5B45941FDA08A3ABBD90ED6AC729C984AA90C6FDE1AC6F97",
-    "armeabi_size":  4192724,
-    "updated_at":  "2026-06-06T17:14:41Z"
+    "armeabi_sha256":  "BAF4859CD429CDC367CE699A7BC7D687EA9F7A40671AA1112F31B0110B71E4C5",
+    "armeabi_size":  4192564,
+    "updated_at":  "2026-06-06T17:21:23Z"
 }
