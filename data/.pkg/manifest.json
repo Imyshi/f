@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.14",
-    "message":  "What\u0027s new: Add Fanny pathfinding wall detection and Gusion auto combo",
-    "changelog":  "Add Fanny pathfinding wall detection and Gusion auto combo",
+    "version":  "1.0.15",
+    "message":  "What\u0027s new: Updated scan diagnostics, cleaned duplicate target entries, and aligned managed target names with the latest dump.",
+    "changelog":  "Updated scan diagnostics, cleaned duplicate target entries, and aligned managed target names with the latest dump.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "08B2698F2462B9EAC532459DA940660CD8B346356D626D5E8E71891DA3D725B7",
-    "arm64_size":  4499456,
+    "arm64_sha256":  "2651FA3E08DD70C14707239CA3B65D5DB5FDAAD1F927AFFE2DD2DD5B99C8F73C",
+    "arm64_size":  4527456,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0BBB71E7AACBFB996EB2731F2AA42E53FD0664ED3B86E2A957CFEAAC91ECD24F",
-    "armeabi_size":  4154740,
-    "updated_at":  "2026-06-04T15:37:45Z"
+    "armeabi_sha256":  "BB09DF110F07294F8F92EF219A91D0A479EF6BCA2E7191BF2B28836B83185E68",
+    "armeabi_size":  4171284,
+    "updated_at":  "2026-06-06T15:39:33Z"
 }
