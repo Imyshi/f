@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.21",
-    "message":  "What\u0027s new: Added managed resolver coverage aliases and fast pending-only scan reports.",
-    "changelog":  "Added managed resolver coverage aliases and fast pending-only scan reports.",
+    "version":  "1.0.22",
+    "message":  "What\u0027s new: Show raw target and native status-only counts in the scan panel.",
+    "changelog":  "Show raw target and native status-only counts in the scan panel.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5767C100C1C90896D22F68F32DAF0B6AC8CB3791A1A28159967F173363F81EF9",
-    "arm64_size":  4542464,
+    "arm64_sha256":  "8277EBE14C43EFA34ABBC862960E19905A2FD0AE62E6BDA1CABD57F9836CE666",
+    "arm64_size":  4542752,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "779224C1ACDE3D04B6A14C18C6CB68353E0303BF2311AFDAFB6035C8E889CA8C",
-    "armeabi_size":  4186580,
-    "updated_at":  "2026-06-06T16:36:45Z"
+    "armeabi_sha256":  "E562087D8C710357AAE68B2BF3023072E3FCD3928F78B00F6076E4F19B5C7794",
+    "armeabi_size":  4186836,
+    "updated_at":  "2026-06-06T16:53:48Z"
 }
