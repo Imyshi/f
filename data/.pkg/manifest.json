@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.19",
-    "message":  "What\u0027s new: Added managed lookup fallback for nested and full-class resolver variants.",
-    "changelog":  "Added managed lookup fallback for nested and full-class resolver variants.",
+    "version":  "1.0.20",
+    "message":  "What\u0027s new: Added managed resolver coverage aliases and faster scan behavior.",
+    "changelog":  "Added managed resolver coverage aliases and faster scan behavior.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "48A2DC0796D0D5F14F345E1BDFBB9E59CE7E18C7024CBAE4036EBEB4AB2FA164",
-    "arm64_size":  4538784,
+    "arm64_sha256":  "9DA8DACA40BB66FE397C0CD5BF11EAE7CBDFA533EF105588393229339615FE0A",
+    "arm64_size":  4545888,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "930CD218B47A60C6C53D9993773D7383F352C2B5A0ACB1A16C582AF4497B2D72",
-    "armeabi_size":  4182772,
-    "updated_at":  "2026-06-06T16:18:48Z"
+    "armeabi_sha256":  "7927DE30BB5C23DD11AA7AB4F8874610DB40DA5C314311AE82F480B4D93E0185",
+    "armeabi_size":  4189876,
+    "updated_at":  "2026-06-06T16:32:30Z"
 }
