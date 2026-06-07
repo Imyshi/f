@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.28",
-    "message":  "What\u0027s new: Stabilize native symbol scan counters and mark managed hooks as waiting IL2CPP during startup.",
-    "changelog":  "Stabilize native symbol scan counters and mark managed hooks as waiting IL2CPP during startup.",
+    "version":  "1.0.29",
+    "message":  "What\u0027s new: Attach the hook thread to the IL2CPP domain before waiting for Assembly-CSharp so managed hooks can resolve again.",
+    "changelog":  "Attach the hook thread to the IL2CPP domain before waiting for Assembly-CSharp so managed hooks can resolve again.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8962FE23DC86F18A1AEAADD906BACBF526BBC96067D9AD85EC3C0585B862B490",
-    "arm64_size":  4543872,
+    "arm64_sha256":  "5105D3CB61BA19DF485F32EC45AC9F4B3190CF3579386B0B3563C8E8987DE3AB",
+    "arm64_size":  4543840,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D011C575B82A625EE8B5725F70B6D3350221D93852D7B064B1607C93CB334A50",
-    "armeabi_size":  4187476,
-    "updated_at":  "2026-06-07T00:52:18Z"
+    "armeabi_sha256":  "CE17A08715ED8A95D7E5F92885C95AF520AE5711E9B52ACCA02E06124D138D89",
+    "armeabi_size":  4187412,
+    "updated_at":  "2026-06-07T01:07:09Z"
 }
