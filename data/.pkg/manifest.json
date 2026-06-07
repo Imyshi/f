@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.32",
-    "message":  "What\u0027s new: Enable smart native owner rewrite hooks with dedupe, unique native active counts, and system-library skips.",
-    "changelog":  "Enable smart native owner rewrite hooks with dedupe, unique native active counts, and system-library skips.",
+    "version":  "1.0.33",
+    "message":  "What\u0027s new: Start bypass initialization on its own startup thread, prevent permanent IL2CPP readiness blocking, and extend managed hook retry time.",
+    "changelog":  "Start bypass initialization on its own startup thread, prevent permanent IL2CPP readiness blocking, and extend managed hook retry time.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "DD4200CA0F9216A4A4F4EDBD7B17B7FF77AF898999C182A7681817920DDF9A04",
-    "arm64_size":  4551872,
+    "arm64_sha256":  "425D27B7A1CA5410296C6D552CB329CAF897927C3E3F717BC2252154C7B5DC8D",
+    "arm64_size":  4552032,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "A7248AE8A5108E27E47F0E8ECE72B4D7BE7175E2D2903AB1D55C39326AB85731",
-    "armeabi_size":  4194996,
-    "updated_at":  "2026-06-07T02:28:30Z"
+    "armeabi_sha256":  "C0178B61210D5632153394BDBAF2F8FE152C5D8DA89C63C9FCF819C6047156D1",
+    "armeabi_size":  4195156,
+    "updated_at":  "2026-06-07T02:45:14Z"
 }
