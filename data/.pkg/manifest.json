@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.31",
-    "message":  "What\u0027s new: Restore startup managed hook timing, avoid the extra IL2CPP wait inside bypass init, and clarify libAkSoundEngine.so status.",
-    "changelog":  "Restore startup managed hook timing, avoid the extra IL2CPP wait inside bypass init, and clarify libAkSoundEngine.so status.",
+    "version":  "1.0.32",
+    "message":  "What\u0027s new: Enable smart native owner rewrite hooks with dedupe, unique native active counts, and system-library skips.",
+    "changelog":  "Enable smart native owner rewrite hooks with dedupe, unique native active counts, and system-library skips.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "7F5B606C4AF852E8B907143D313F650904BDFAD1A9AF34C271CCA42D7200D714",
-    "arm64_size":  4549984,
+    "arm64_sha256":  "DD4200CA0F9216A4A4F4EDBD7B17B7FF77AF898999C182A7681817920DDF9A04",
+    "arm64_size":  4551872,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "5C0213A13A7E11111E434D40CD2590508BA4DB9FD368A83D7C9990982D1D47F4",
-    "armeabi_size":  4192884,
-    "updated_at":  "2026-06-07T01:39:25Z"
+    "armeabi_sha256":  "A7248AE8A5108E27E47F0E8ECE72B4D7BE7175E2D2903AB1D55C39326AB85731",
+    "armeabi_size":  4194996,
+    "updated_at":  "2026-06-07T02:28:30Z"
 }
