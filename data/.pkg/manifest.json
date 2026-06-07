@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.34",
-    "message":  "What\u0027s new: Add render-frame fallback to start bypass initialization and use non-blocking IL2CPP attach retries so status/native scan cannot stay uninitialized.",
-    "changelog":  "Add render-frame fallback to start bypass initialization and use non-blocking IL2CPP attach retries so status/native scan cannot stay uninitialized.",
+    "version":  "1.0.35",
+    "message":  "What\u0027s new: Add explicit bypass initialization markers from ShowMenu and route startup through the shared async bypass initializer for diagnosis.",
+    "changelog":  "Add explicit bypass initialization markers from ShowMenu and route startup through the shared async bypass initializer for diagnosis.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "58D59AB92714A34812835D3EDD3F2B1223A64771A4BB76CF7E8CFF712C9D91FB",
-    "arm64_size":  4552928,
+    "arm64_sha256":  "28B196F675EB59F6754C565DB5D736CE36C8EB8E9571AB645C68128CB2FE7D0E",
+    "arm64_size":  4553600,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "A3D04905177623A1BAAE4B1151998071A81979E507F9CA1DB228702555758E7E",
-    "armeabi_size":  4196276,
-    "updated_at":  "2026-06-07T02:55:43Z"
+    "armeabi_sha256":  "836A4F93E423E76B9484781D4FFC14E46629A590A089A544B3C03C4324B778A1",
+    "armeabi_size":  4197012,
+    "updated_at":  "2026-06-07T03:11:20Z"
 }
