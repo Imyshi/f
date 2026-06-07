@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.25",
-    "message":  "What\u0027s new: Disable native by-symbol DobbyHook and keep native symbol/RVA scan only for stability.",
-    "changelog":  "Disable native by-symbol DobbyHook and keep native symbol/RVA scan only for stability.",
+    "version":  "1.0.26",
+    "message":  "What\u0027s new: Make scan button UI-only and move native symbol scan out of the menu thread.",
+    "changelog":  "Make scan button UI-only and move native symbol scan out of the menu thread.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8FB785C1F5C0B14AA459D15B58E43AF12EE55996D66C14BDC890B25C1BCE393C",
-    "arm64_size":  4548512,
+    "arm64_sha256":  "8ABE48F789B0D12C15B65DAC9D3F59605F982EC17B9C47FD513A9C6AEF0F357C",
+    "arm64_size":  4548480,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BAF4859CD429CDC367CE699A7BC7D687EA9F7A40671AA1112F31B0110B71E4C5",
+    "armeabi_sha256":  "6D5EB70E2E979A228D97DE1DB9FC922E94269369CC73D6A6A4D92B7A12A99D19",
     "armeabi_size":  4192564,
-    "updated_at":  "2026-06-06T17:21:23Z"
+    "updated_at":  "2026-06-07T00:14:13Z"
 }
