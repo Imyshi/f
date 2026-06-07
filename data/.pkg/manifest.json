@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.35",
-    "message":  "What\u0027s new: Add explicit bypass initialization markers from ShowMenu and route startup through the shared async bypass initializer for diagnosis.",
-    "changelog":  "Add explicit bypass initialization markers from ShowMenu and route startup through the shared async bypass initializer for diagnosis.",
+    "version":  "1.0.36",
+    "message":  "What\u0027s new: Restore managed-first bypass initialization and make native symbol handling scan-only again to avoid blocking startup.",
+    "changelog":  "Restore managed-first bypass initialization and make native symbol handling scan-only again to avoid blocking startup.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "28B196F675EB59F6754C565DB5D736CE36C8EB8E9571AB645C68128CB2FE7D0E",
-    "arm64_size":  4553600,
+    "arm64_sha256":  "8B611F3B443AD95FFB55E7E9E4A84C6B8A5A8ECBCD5928355C1758D25AE6F762",
+    "arm64_size":  4553248,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "836A4F93E423E76B9484781D4FFC14E46629A590A089A544B3C03C4324B778A1",
-    "armeabi_size":  4197012,
-    "updated_at":  "2026-06-07T03:11:20Z"
+    "armeabi_sha256":  "5577EF42C7C89154E8F2956D095D671581C0A0E0E7103FEBEA1BA83186FE9952",
+    "armeabi_size":  4196596,
+    "updated_at":  "2026-06-07T03:24:48Z"
 }
