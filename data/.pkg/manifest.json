@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.29",
-    "message":  "What\u0027s new: Attach the hook thread to the IL2CPP domain before waiting for Assembly-CSharp so managed hooks can resolve again.",
-    "changelog":  "Attach the hook thread to the IL2CPP domain before waiting for Assembly-CSharp so managed hooks can resolve again.",
+    "version":  "1.0.30",
+    "message":  "What\u0027s new: Add real native candidate scanning with library aliases, symbol variants, and pending classification for native targets.",
+    "changelog":  "Add real native candidate scanning with library aliases, symbol variants, and pending classification for native targets.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5105D3CB61BA19DF485F32EC45AC9F4B3190CF3579386B0B3563C8E8987DE3AB",
-    "arm64_size":  4543840,
+    "arm64_sha256":  "A5C67BBCCD74F01FD9303FFC11A4271D9E8B64EA1234DC7F9334BF5E76806119",
+    "arm64_size":  4550144,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "CE17A08715ED8A95D7E5F92885C95AF520AE5711E9B52ACCA02E06124D138D89",
-    "armeabi_size":  4187412,
-    "updated_at":  "2026-06-07T01:07:09Z"
+    "armeabi_sha256":  "507D6AF3AAC1EB7AE74E38813D5F2B8C3D3CCF1819B48BB44A6319741DCA51A6",
+    "armeabi_size":  4193076,
+    "updated_at":  "2026-06-07T01:23:17Z"
 }
