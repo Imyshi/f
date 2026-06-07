@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.33",
-    "message":  "What\u0027s new: Start bypass initialization on its own startup thread, prevent permanent IL2CPP readiness blocking, and extend managed hook retry time.",
-    "changelog":  "Start bypass initialization on its own startup thread, prevent permanent IL2CPP readiness blocking, and extend managed hook retry time.",
+    "version":  "1.0.34",
+    "message":  "What\u0027s new: Add render-frame fallback to start bypass initialization and use non-blocking IL2CPP attach retries so status/native scan cannot stay uninitialized.",
+    "changelog":  "Add render-frame fallback to start bypass initialization and use non-blocking IL2CPP attach retries so status/native scan cannot stay uninitialized.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "425D27B7A1CA5410296C6D552CB329CAF897927C3E3F717BC2252154C7B5DC8D",
-    "arm64_size":  4552032,
+    "arm64_sha256":  "58D59AB92714A34812835D3EDD3F2B1223A64771A4BB76CF7E8CFF712C9D91FB",
+    "arm64_size":  4552928,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C0178B61210D5632153394BDBAF2F8FE152C5D8DA89C63C9FCF819C6047156D1",
-    "armeabi_size":  4195156,
-    "updated_at":  "2026-06-07T02:45:14Z"
+    "armeabi_sha256":  "A3D04905177623A1BAAE4B1151998071A81979E507F9CA1DB228702555758E7E",
+    "armeabi_size":  4196276,
+    "updated_at":  "2026-06-07T02:55:43Z"
 }
