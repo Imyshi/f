@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.26",
-    "message":  "What\u0027s new: Make scan button UI-only and move native symbol scan out of the menu thread.",
-    "changelog":  "Make scan button UI-only and move native symbol scan out of the menu thread.",
+    "version":  "1.0.27",
+    "message":  "What\u0027s new: Make the scan button status-only to avoid UI freeze from report writing or native scans.",
+    "changelog":  "Make the scan button status-only to avoid UI freeze from report writing or native scans.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8ABE48F789B0D12C15B65DAC9D3F59605F982EC17B9C47FD513A9C6AEF0F357C",
-    "arm64_size":  4548480,
+    "arm64_sha256":  "A696EEE8A3F5D9005D0FC6335A238B8FE7585CB5CA0317199236DE12E639E428",
+    "arm64_size":  4542848,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6D5EB70E2E979A228D97DE1DB9FC922E94269369CC73D6A6A4D92B7A12A99D19",
-    "armeabi_size":  4192564,
-    "updated_at":  "2026-06-07T00:14:13Z"
+    "armeabi_sha256":  "C42B1EA5090C50C504DDA6613C942497CEB8829A18B60F056D51A05836A63733",
+    "armeabi_size":  4186324,
+    "updated_at":  "2026-06-07T00:19:21Z"
 }
