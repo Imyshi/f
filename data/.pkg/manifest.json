@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.37",
-    "message":  "What\u0027s new: Stabilize managed hook startup, remove native scan noise from the menu, and keep scan reporting disabled.",
-    "changelog":  "Stabilize managed hook startup, remove native scan noise from the menu, and keep scan reporting disabled.",
+    "version":  "1.0.38",
+    "message":  "What\u0027s new: Removed dead native scan/report code, fixed ImGui 1.89.4 compatibility, cleaned up bypass.h",
+    "changelog":  "Removed dead native scan/report code, fixed ImGui 1.89.4 compatibility, cleaned up bypass.h",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4CA91E69DC2F02662589F3479257003BF8A0562271348A7997A528FD5EBBADA2",
-    "arm64_size":  4541960,
+    "arm64_sha256":  "316C6F7F0F58728AB49A009A767814C6C961BBC44F71FA02D3258BE591CEAE13",
+    "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "83E0DC23ACD7A416C078ECB5FDFC94D0FD9B82C346280D543EE8D0CCD9501C74",
-    "armeabi_size":  4186428,
-    "updated_at":  "2026-06-08T11:54:02Z"
+    "armeabi_sha256":  "E49221AEAF612D7B263F79216B67E9F1D977732BB883413338C6853365125A4E",
+    "armeabi_size":  5456292,
+    "updated_at":  "2026-06-08T16:06:37Z"
 }
