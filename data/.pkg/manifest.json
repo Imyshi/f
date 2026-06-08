@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.38",
-    "message":  "What\u0027s new: Removed dead native scan/report code, fixed ImGui 1.89.4 compatibility, cleaned up bypass.h",
-    "changelog":  "Removed dead native scan/report code, fixed ImGui 1.89.4 compatibility, cleaned up bypass.h",
+    "version":  "1.0.39",
+    "message":  "What\u0027s new: Added detailed logging to bypass.cpp and bengpass.cpp for crash debugging",
+    "changelog":  "Added detailed logging to bypass.cpp and bengpass.cpp for crash debugging",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "316C6F7F0F58728AB49A009A767814C6C961BBC44F71FA02D3258BE591CEAE13",
+    "arm64_sha256":  "A7806A6ADC3ED5D8CF30114A437FC4CA1CB54DCFB81D02A505E10FCE55EBC342",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E49221AEAF612D7B263F79216B67E9F1D977732BB883413338C6853365125A4E",
+    "armeabi_sha256":  "22902694CAC3C52E510348B0250CF29127C14087C4126B082B791EFE3773204E",
     "armeabi_size":  5456292,
-    "updated_at":  "2026-06-08T16:06:37Z"
+    "updated_at":  "2026-06-08T23:20:58Z"
 }
