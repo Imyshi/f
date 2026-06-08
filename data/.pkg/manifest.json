@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.36",
-    "message":  "What\u0027s new: Restore managed-first bypass initialization and make native symbol handling scan-only again to avoid blocking startup.",
-    "changelog":  "Restore managed-first bypass initialization and make native symbol handling scan-only again to avoid blocking startup.",
+    "version":  "1.0.37",
+    "message":  "What\u0027s new: Stabilize managed hook startup, remove native scan noise from the menu, and keep scan reporting disabled.",
+    "changelog":  "Stabilize managed hook startup, remove native scan noise from the menu, and keep scan reporting disabled.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8B611F3B443AD95FFB55E7E9E4A84C6B8A5A8ECBCD5928355C1758D25AE6F762",
-    "arm64_size":  4553248,
+    "arm64_sha256":  "4CA91E69DC2F02662589F3479257003BF8A0562271348A7997A528FD5EBBADA2",
+    "arm64_size":  4541960,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "5577EF42C7C89154E8F2956D095D671581C0A0E0E7103FEBEA1BA83186FE9952",
-    "armeabi_size":  4196596,
-    "updated_at":  "2026-06-07T03:24:48Z"
+    "armeabi_sha256":  "83E0DC23ACD7A416C078ECB5FDFC94D0FD9B82C346280D543EE8D0CCD9501C74",
+    "armeabi_size":  4186428,
+    "updated_at":  "2026-06-08T11:54:02Z"
 }
