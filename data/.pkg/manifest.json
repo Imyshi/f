@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.39",
-    "message":  "What\u0027s new: Added detailed logging to bypass.cpp and bengpass.cpp for crash debugging",
-    "changelog":  "Added detailed logging to bypass.cpp and bengpass.cpp for crash debugging",
+    "version":  "1.0.40",
+    "message":  "What\u0027s new: Test: disabled bengpass to isolate SIGILL crash cause",
+    "changelog":  "Test: disabled bengpass to isolate SIGILL crash cause",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "A7806A6ADC3ED5D8CF30114A437FC4CA1CB54DCFB81D02A505E10FCE55EBC342",
+    "arm64_sha256":  "A3DE0540149FB0DC2BD53D70CC0753CA210D0908FD85979A89DD67ECB2386EB0",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "22902694CAC3C52E510348B0250CF29127C14087C4126B082B791EFE3773204E",
+    "armeabi_sha256":  "DD79EFB44B2A5095B8A2872A46306C8FD4104444C1A6C0C85455688AA6CAA59D",
     "armeabi_size":  5456292,
-    "updated_at":  "2026-06-08T23:20:58Z"
+    "updated_at":  "2026-06-08T23:41:32Z"
 }
