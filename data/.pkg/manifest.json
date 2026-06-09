@@ -4,10 +4,10 @@
     "changelog":  "SIGILL: PC=LR (no loop) + 106 hooks only",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "16C2DD680298761C2E962B4000C7F8E5CD5FFF027813EB7296254CC3B5D112DD",
-    "arm64_size":  4752128,
+    "arm64_sha256":  "BD65D3B7219180D8F1EB6015E48FA464D5D78B777E2A4BB37F5EC42FD54E8EBE",
+    "arm64_size":  4720880,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6E265A2CE2C7E77622737152BC0F3EAB1A4E3991BAE96DAFAADB5345B2D4830E",
-    "armeabi_size":  4425636,
-    "updated_at":  "2026-06-09T11:37:22Z"
+    "armeabi_sha256":  "758636064683A5093336F9F8885BED84AA140CF40834EDA5A9E87B83892069CC",
+    "armeabi_size":  4384668,
+    "updated_at":  "2026-06-09T11:40:25Z"
 }
