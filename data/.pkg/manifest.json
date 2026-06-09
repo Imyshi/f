@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.55",
-    "message":  "What\u0027s new: SIGILL: PC=LR (no loop) + 106 hooks only",
-    "changelog":  "SIGILL: PC=LR (no loop) + 106 hooks only",
+    "version":  "1.0.56",
+    "message":  "What\u0027s new: v1.0.56 - stable 106 hooks + catch-all LR handler, revert sigill_backup",
+    "changelog":  "v1.0.56 - stable 106 hooks + catch-all LR handler, revert sigill_backup",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "BD65D3B7219180D8F1EB6015E48FA464D5D78B777E2A4BB37F5EC42FD54E8EBE",
-    "arm64_size":  4720880,
+    "arm64_sha256":  "84D62F05C021E379CACD9D2274BBED40AE2FB8092D426D5E6712377DAC148AF7",
+    "arm64_size":  4752128,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "758636064683A5093336F9F8885BED84AA140CF40834EDA5A9E87B83892069CC",
-    "armeabi_size":  4384668,
-    "updated_at":  "2026-06-09T11:40:25Z"
+    "armeabi_sha256":  "5B22DC00448BED21621D9C1F77BAB6314990E815EC7B762B0D4446BE17002395",
+    "armeabi_size":  4425636,
+    "updated_at":  "2026-06-09T12:34:06Z"
 }
