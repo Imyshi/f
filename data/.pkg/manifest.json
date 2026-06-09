@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.41",
-    "message":  "v1.0.41 - DumpLibrary + bypass improvements",
-    "changelog":  "Added libcsharp.so memory dump for anti-cheat analysis",
+    "version":  "1.0.42",
+    "message":  "v1.0.42 - DumpLibrary + Linux build fixes",
+    "changelog":  "Added DumpLibrary function + fixed Linux build errors (case sensitivity, template, untracked files)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "83053F1A99770E627679701EB9DBE826E018D2CB6336DA2D19C027C9254F7DF8",
-    "arm64_size":  5768248,
+    "arm64_sha256":  "73B23E72B5D67FCF41C0BF006BAD3DFD4DF5090AC431B01D444142CC3D4718CE",
+    "arm64_size":  4744344,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F60F9A3CD14BC96D0C15D520A83DA3B517F2552B18A85C3696AA8C73CB2C8241",
-    "armeabi_size":  5456292,
-    "updated_at":  "2026-06-09T01:34:10Z"
+    "armeabi_sha256":  "F41D0F63514B76F39C4DE2DDF3514500FBBE923DCD5059A84A4E5FE9398B2150",
+    "armeabi_size":  4398372,
+    "updated_at":  "2026-06-09T01:58:14Z"
 }
