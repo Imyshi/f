@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.40",
-    "message":  "What\u0027s new: Fully disabled Bengpass (both InitBengpass + InitNativeNetworkSink)",
-    "changelog":  "Fully disabled Bengpass (both InitBengpass + InitNativeNetworkSink)",
+    "message":  "What\u0027s new: Test: removed VerifyIntegrity hook to isolate SIGILL trigger",
+    "changelog":  "Test: removed VerifyIntegrity hook to isolate SIGILL trigger",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "EA81E4B8C38D147AD50AC2DE6F872436A17FDD60509A07FFE0793E568FA73948",
-    "arm64_size":  5735480,
+    "arm64_sha256":  "83053F1A99770E627679701EB9DBE826E018D2CB6336DA2D19C027C9254F7DF8",
+    "arm64_size":  5768248,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "69CA4F9C19B550F4076EED35568566807B657F12C8EA599ACA8AFE15379B7EAA",
+    "armeabi_sha256":  "F60F9A3CD14BC96D0C15D520A83DA3B517F2552B18A85C3696AA8C73CB2C8241",
     "armeabi_size":  5456292,
-    "updated_at":  "2026-06-09T00:12:25Z"
+    "updated_at":  "2026-06-09T00:28:34Z"
 }
