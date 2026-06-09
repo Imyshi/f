@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.40",
-    "message":  "What\u0027s new: Test: disabled bengpass, added version log",
-    "changelog":  "Test: disabled bengpass, added version log",
+    "message":  "What\u0027s new: Fully disabled Bengpass (both InitBengpass + InitNativeNetworkSink)",
+    "changelog":  "Fully disabled Bengpass (both InitBengpass + InitNativeNetworkSink)",
     "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "DAEF96107E8671E389CB0FA5E95C65F209BAC92D36E35B8DEB153358B0423DE4",
-    "arm64_size":  5751864,
+    "arm64_sha256":  "EA81E4B8C38D147AD50AC2DE6F872436A17FDD60509A07FFE0793E568FA73948",
+    "arm64_size":  5735480,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DAD694D2D3C3C1C615425736BF9E8966BFB1FBAAA30F25135F68DA4DABF9E3BC",
+    "armeabi_sha256":  "69CA4F9C19B550F4076EED35568566807B657F12C8EA599ACA8AFE15379B7EAA",
     "armeabi_size":  5456292,
-    "updated_at":  "2026-06-09T00:05:06Z"
+    "updated_at":  "2026-06-09T00:12:25Z"
 }
