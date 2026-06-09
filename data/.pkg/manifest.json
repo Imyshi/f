@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.49",
-    "message":  "What\u0027s new: fix(crash): NOP crash site ldr/br x17 at libcsharp+0x280ace8 instead of pooling restore — no race condition",
-    "changelog":  "fix(crash): NOP crash site ldr/br x17 at libcsharp+0x280ace8 instead of pooling restore — no race condition",
+    "version":  "1.0.50",
+    "message":  "What\u0027s new: fix(crash): NOP ldr/br x17 at libcsharp+0x280ace8 (mov x0,#0; ret) — no race condition vs timers",
+    "changelog":  "fix(crash): NOP ldr/br x17 at libcsharp+0x280ace8 (mov x0,#0; ret) — no race condition vs timers",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "7838DA22F239D9C2BB12D3D5A21F3B1C0DCD49209B993E8E7F7AAA4C18C46352",
+    "arm64_sha256":  "E1CC5A0FBFB40B2854F33DBD817B972E59413490F28C63311A22DEC8A8803E7A",
     "arm64_size":  4772136,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6786A90AAA16E6B8452E90079E789D1725009994CA10B6E6117F2B43FF94820F",
+    "armeabi_sha256":  "723B803610783AC827B5EED4FF61FE910625F1AD8995CD09FD039EAFD88FFF69",
     "armeabi_size":  4434756,
-    "updated_at":  "2026-06-09T05:36:22Z"
+    "updated_at":  "2026-06-09T05:44:11Z"
 }
