@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.42",
-    "message":  "v1.0.42 - DumpLibrary + Linux build fixes",
-    "changelog":  "Added DumpLibrary function + fixed Linux build errors (case sensitivity, template, untracked files)",
+    "version":  "1.0.43",
+    "message":  "What\u0027s new: DumpLibrary moved to menu button with on-screen result log",
+    "changelog":  "DumpLibrary moved to menu button with on-screen result log",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "73B23E72B5D67FCF41C0BF006BAD3DFD4DF5090AC431B01D444142CC3D4718CE",
-    "arm64_size":  4744344,
+    "arm64_sha256":  "3A0E6016E1AA0AD8EE089DED7B7BD973DD4922CEF2A5725D13D74A2D658AC5AD",
+    "arm64_size":  4744968,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F41D0F63514B76F39C4DE2DDF3514500FBBE923DCD5059A84A4E5FE9398B2150",
-    "armeabi_size":  4398372,
-    "updated_at":  "2026-06-09T01:58:14Z"
+    "armeabi_sha256":  "FCF790F10EC8201E253E8C12D52A7E35FCAE175D47A930BED498539BDCE1BD52",
+    "armeabi_size":  4399044,
+    "updated_at":  "2026-06-09T02:10:07Z"
 }
