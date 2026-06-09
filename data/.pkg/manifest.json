@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.49",
-    "message":  "What\u0027s new: fix(aim): main Basic toggle now works for Kimmy; room: WR + Recent columns, no double table; chore: silence logs; bump 1.0.49",
-    "changelog":  "fix(aim): main Basic toggle now works for Kimmy; room: WR + Recent columns, no double table; chore: silence logs; bump 1.0.49",
+    "message":  "What\u0027s new: fix(crash): restore literal pool at libcsharp+0x280acf0 to prevent SIGILL from anti-cheat overwrite",
+    "changelog":  "fix(crash): restore literal pool at libcsharp+0x280acf0 to prevent SIGILL from anti-cheat overwrite",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5AF19AEB42CD40A183619A978AB33C9398067B58A5BA7987FB7ED5B7598EBEDC",
-    "arm64_size":  4771528,
+    "arm64_sha256":  "6E31EC23BBEB743C3718EC63B44B52230FD03BFB4C5D86FF7829E6C3EFB9DD7F",
+    "arm64_size":  4772296,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "7B50617F3254E22DEDB78F4EDE89DBDBA295DB0D462BC2559E23F2343DB3CE6B",
-    "armeabi_size":  4434132,
-    "updated_at":  "2026-06-09T05:09:58Z"
+    "armeabi_sha256":  "026AA347987D2C4F95CAEFEE1A89D2CEFD61F063F54C470017B0F42AB95E3799",
+    "armeabi_size":  4434932,
+    "updated_at":  "2026-06-09T05:19:04Z"
 }
