@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.54",
-    "message":  "What\u0027s new: SIGILL: set PC=LR instead of PC+4 to return to caller",
-    "changelog":  "SIGILL: set PC=LR instead of PC+4 to return to caller",
+    "version":  "1.0.55",
+    "message":  "What\u0027s new: SIGILL: PC=LR (no loop) + 106 hooks only",
+    "changelog":  "SIGILL: PC=LR (no loop) + 106 hooks only",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "7F27B3A0DE281B5B5D76CF75D8E1525145486DD5C27B680CC9D6BBFBA4621FEE",
-    "arm64_size":  4752416,
+    "arm64_sha256":  "16C2DD680298761C2E962B4000C7F8E5CD5FFF027813EB7296254CC3B5D112DD",
+    "arm64_size":  4752128,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "FA92BBCB7EDD496992B6C7E872978EEDDFF2E0BB95AAA935E0A5D38016696D4B",
-    "armeabi_size":  4425940,
-    "updated_at":  "2026-06-09T11:16:05Z"
+    "armeabi_sha256":  "6E265A2CE2C7E77622737152BC0F3EAB1A4E3991BAE96DAFAADB5345B2D4830E",
+    "armeabi_size":  4425636,
+    "updated_at":  "2026-06-09T11:34:20Z"
 }
