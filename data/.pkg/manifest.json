@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.46",
-    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
-    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "version":  "1.0.47",
+    "message":  "What\u0027s new: fix(room): single floating window, WR column, collapsed headers default closed; chore(logs): silence debug output; bump version to 1.0.47",
+    "changelog":  "fix(room): single floating window, WR column, collapsed headers default closed; chore(logs): silence debug output; bump version to 1.0.47",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "788287ED56FA0D7DD60B65E968620A8339C19D68C6420066DE59229EAAF0F0BB",
-    "arm64_size":  4752592,
+    "arm64_sha256":  "410C614DDCB4951E8CF39A0A20E54ADB216212DF5C57658D7DFB839242FF0BFA",
+    "arm64_size":  4771224,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D6CC2CBCD24A3802F06DB00EC84F71FC4D53CD41FA1B3ADAC59BDABE5790FF31",
-    "armeabi_size":  4406156,
-    "updated_at":  "2026-06-09T03:25:19Z"
+    "armeabi_sha256":  "532A24F0DEF55C9A70C3936CFCD83DEF0648EC2381DBBC523788F49D1514C339",
+    "armeabi_size":  4433780,
+    "updated_at":  "2026-06-09T04:33:17Z"
 }
