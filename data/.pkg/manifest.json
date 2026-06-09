@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.51",
-    "message":  "What\u0027s new: fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites (draft pick, global chat, etc)",
-    "changelog":  "fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites (draft pick, global chat, etc)",
+    "version":  "1.0.52",
+    "message":  "What\u0027s new: 106 managed hooks only + catch-all signal handler (SIGILL/SEGV/ABRT/TRAP/BUS/FPE)",
+    "changelog":  "106 managed hooks only + catch-all signal handler (SIGILL/SEGV/ABRT/TRAP/BUS/FPE)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "ADDE6367599AADADCBAB5B7D0B9BC06006D832C6B440CC2D5412F28A56803EB0",
-    "arm64_size":  4772760,
+    "arm64_sha256":  "12F841761EDDAB33BD9A8C714AA9AA991779EBB7040B2DDAD4B0D34A2EB827CA",
+    "arm64_size":  4752096,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "17FEE34A21FA633198B97A49650985929454D7C335C92964CE11E1F82BB3A16D",
-    "armeabi_size":  4435004,
-    "updated_at":  "2026-06-09T06:13:33Z"
+    "armeabi_sha256":  "DB9D9C46FFC54134B2709D050412BBEC1793ECC8ABE36AE81AFA76D5D62CF0F5",
+    "armeabi_size":  4425636,
+    "updated_at":  "2026-06-09T06:43:13Z"
 }
