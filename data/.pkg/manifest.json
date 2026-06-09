@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.53",
-    "message":  "What\u0027s new: Fix freeze: signal counter 80 max + skip PC+8 after 3x same PC",
-    "changelog":  "Fix freeze: signal counter 80 max + skip PC+8 after 3x same PC",
+    "version":  "1.0.54",
+    "message":  "What\u0027s new: SIGILL: set PC=LR instead of PC+4 to return to caller",
+    "changelog":  "SIGILL: set PC=LR instead of PC+4 to return to caller",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "DD54F5F8FA9345122449D5D3E121FC180F968C4D08CC5D74806621D6BD0655CA",
+    "arm64_sha256":  "7F27B3A0DE281B5B5D76CF75D8E1525145486DD5C27B680CC9D6BBFBA4621FEE",
     "arm64_size":  4752416,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "263EA064DA01E2E895F38A39BF45A4F20BBBEA3AF0C95B1A31F6EA731C41D1AB",
-    "armeabi_size":  4426052,
-    "updated_at":  "2026-06-09T06:54:54Z"
+    "armeabi_sha256":  "FA92BBCB7EDD496992B6C7E872978EEDDFF2E0BB95AAA935E0A5D38016696D4B",
+    "armeabi_size":  4425940,
+    "updated_at":  "2026-06-09T11:16:05Z"
 }
