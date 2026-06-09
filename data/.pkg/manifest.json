@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.56",
-    "message":  "What\u0027s new: v1.0.56 - stable 106 hooks + catch-all LR handler, revert sigill_backup",
-    "changelog":  "v1.0.56 - stable 106 hooks + catch-all LR handler, revert sigill_backup",
+    "version":  "1.0.57",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "84D62F05C021E379CACD9D2274BBED40AE2FB8092D426D5E6712377DAC148AF7",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "5B22DC00448BED21621D9C1F77BAB6314990E815EC7B762B0D4446BE17002395",
     "armeabi_size":  4425636,
-    "updated_at":  "2026-06-09T12:34:06Z"
+    "updated_at":  "2026-06-09T17:43:46Z"
 }
