@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.50",
-    "message":  "What\u0027s new: fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites, no more per-offset patches",
-    "changelog":  "fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites, no more per-offset patches",
+    "version":  "1.0.51",
+    "message":  "What\u0027s new: fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites (draft pick, global chat, etc)",
+    "changelog":  "fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites (draft pick, global chat, etc)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "03AA4368572B07FF2E814204F5D8A851137AA6D8FF6BCA99D6A10239831D146A",
+    "arm64_sha256":  "ADDE6367599AADADCBAB5B7D0B9BC06006D832C6B440CC2D5412F28A56803EB0",
     "arm64_size":  4772760,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "89E8FFB30B599A329009A240EA13C1D631C49188FF2FA138065D335ABE567FB4",
+    "armeabi_sha256":  "17FEE34A21FA633198B97A49650985929454D7C335C92964CE11E1F82BB3A16D",
     "armeabi_size":  4435004,
-    "updated_at":  "2026-06-09T05:54:07Z"
+    "updated_at":  "2026-06-09T06:13:33Z"
 }
