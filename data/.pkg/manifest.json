@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.50",
-    "message":  "What\u0027s new: fix(crash): NOP ldr/br x17 at libcsharp+0x280ace8 (mov x0,#0; ret) — no race condition vs timers",
-    "changelog":  "fix(crash): NOP ldr/br x17 at libcsharp+0x280ace8 (mov x0,#0; ret) — no race condition vs timers",
+    "message":  "What\u0027s new: fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites, no more per-offset patches",
+    "changelog":  "fix(crash): SIGILL handler catches all anti-cheat literal pool overwrites, no more per-offset patches",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E1CC5A0FBFB40B2854F33DBD817B972E59413490F28C63311A22DEC8A8803E7A",
-    "arm64_size":  4772136,
+    "arm64_sha256":  "03AA4368572B07FF2E814204F5D8A851137AA6D8FF6BCA99D6A10239831D146A",
+    "arm64_size":  4772760,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "723B803610783AC827B5EED4FF61FE910625F1AD8995CD09FD039EAFD88FFF69",
-    "armeabi_size":  4434756,
-    "updated_at":  "2026-06-09T05:44:11Z"
+    "armeabi_sha256":  "89E8FFB30B599A329009A240EA13C1D631C49188FF2FA138065D335ABE567FB4",
+    "armeabi_size":  4435004,
+    "updated_at":  "2026-06-09T05:54:07Z"
 }
