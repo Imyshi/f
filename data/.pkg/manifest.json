@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.40",
-    "message":  "What\u0027s new: Test: disabled bengpass to isolate SIGILL crash cause",
-    "changelog":  "Test: disabled bengpass to isolate SIGILL crash cause",
-    "force":  false,
+    "message":  "What\u0027s new: Test: disabled bengpass, added version log",
+    "changelog":  "Test: disabled bengpass, added version log",
+    "force":  true,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "A3DE0540149FB0DC2BD53D70CC0753CA210D0908FD85979A89DD67ECB2386EB0",
+    "arm64_sha256":  "DAEF96107E8671E389CB0FA5E95C65F209BAC92D36E35B8DEB153358B0423DE4",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DD79EFB44B2A5095B8A2872A46306C8FD4104444C1A6C0C85455688AA6CAA59D",
+    "armeabi_sha256":  "DAD694D2D3C3C1C615425736BF9E8966BFB1FBAAA30F25135F68DA4DABF9E3BC",
     "armeabi_size":  5456292,
-    "updated_at":  "2026-06-08T23:41:32Z"
+    "updated_at":  "2026-06-09T00:05:06Z"
 }
