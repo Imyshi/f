@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.44",
-    "message":  "What\u0027s new: DumpLibrary: fix ReadAddr -\u003e memcpy, chunked I/O to avoid mprotect block",
-    "changelog":  "DumpLibrary: fix ReadAddr -\u003e memcpy, chunked I/O to avoid mprotect block",
+    "version":  "1.0.45",
+    "message":  "What\u0027s new: DumpLibrary: background thread to prevent UI freeze",
+    "changelog":  "DumpLibrary: background thread to prevent UI freeze",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8892E3BC1F9AC40A77CADA22B95F54D9DC19B1F582EABC8BC77DC60C82406E00",
-    "arm64_size":  4745112,
+    "arm64_sha256":  "302CBF62AD672D958969A6391C7E2CF4E6575D8C215E1CE9F8EB6E1DC8AF4C7C",
+    "arm64_size":  4745592,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "CDF0039C717061B6F029670D25D5EC454B637C260B52034D0EA4BCFD613E1D74",
-    "armeabi_size":  4399108,
-    "updated_at":  "2026-06-09T02:33:48Z"
+    "armeabi_sha256":  "9E9679F85078F5EAE3631EB887F3CF33C1DC71EFF49CFA5AB05E3402C677A3F5",
+    "armeabi_size":  4399636,
+    "updated_at":  "2026-06-09T02:43:27Z"
 }
