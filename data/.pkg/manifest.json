@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.52",
-    "message":  "What\u0027s new: 106 managed hooks only + catch-all signal handler (SIGILL/SEGV/ABRT/TRAP/BUS/FPE)",
-    "changelog":  "106 managed hooks only + catch-all signal handler (SIGILL/SEGV/ABRT/TRAP/BUS/FPE)",
+    "version":  "1.0.53",
+    "message":  "What\u0027s new: Fix freeze: signal counter 80 max + skip PC+8 after 3x same PC",
+    "changelog":  "Fix freeze: signal counter 80 max + skip PC+8 after 3x same PC",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "12F841761EDDAB33BD9A8C714AA9AA991779EBB7040B2DDAD4B0D34A2EB827CA",
-    "arm64_size":  4752096,
+    "arm64_sha256":  "DD54F5F8FA9345122449D5D3E121FC180F968C4D08CC5D74806621D6BD0655CA",
+    "arm64_size":  4752416,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DB9D9C46FFC54134B2709D050412BBEC1793ECC8ABE36AE81AFA76D5D62CF0F5",
-    "armeabi_size":  4425636,
-    "updated_at":  "2026-06-09T06:43:13Z"
+    "armeabi_sha256":  "263EA064DA01E2E895F38A39BF45A4F20BBBEA3AF0C95B1A31F6EA731C41D1AB",
+    "armeabi_size":  4426052,
+    "updated_at":  "2026-06-09T06:54:54Z"
 }
