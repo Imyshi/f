@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.45",
-    "message":  "What\u0027s new: DumpLibrary: background thread to prevent UI freeze",
-    "changelog":  "DumpLibrary: background thread to prevent UI freeze",
+    "version":  "1.0.40",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "302CBF62AD672D958969A6391C7E2CF4E6575D8C215E1CE9F8EB6E1DC8AF4C7C",
-    "arm64_size":  4745592,
+    "arm64_sha256":  "0532A9A2B1138781146E1DDE5FC53BD718AF0BEE2CF05ABDB8E9684368D96024",
+    "arm64_size":  4752576,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "9E9679F85078F5EAE3631EB887F3CF33C1DC71EFF49CFA5AB05E3402C677A3F5",
-    "armeabi_size":  4399636,
-    "updated_at":  "2026-06-09T02:43:27Z"
+    "armeabi_sha256":  "9D4F30B8165A4A84536B90528FA3965929B5779FA0148C07CB90654B5E10C176",
+    "armeabi_size":  4406156,
+    "updated_at":  "2026-06-09T03:17:31Z"
 }
