@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.43",
-    "message":  "What\u0027s new: DumpLibrary moved to menu button with on-screen result log",
-    "changelog":  "DumpLibrary moved to menu button with on-screen result log",
+    "version":  "1.0.44",
+    "message":  "What\u0027s new: DumpLibrary: fix ReadAddr -\u003e memcpy, chunked I/O to avoid mprotect block",
+    "changelog":  "DumpLibrary: fix ReadAddr -\u003e memcpy, chunked I/O to avoid mprotect block",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "3A0E6016E1AA0AD8EE089DED7B7BD973DD4922CEF2A5725D13D74A2D658AC5AD",
-    "arm64_size":  4744968,
+    "arm64_sha256":  "8892E3BC1F9AC40A77CADA22B95F54D9DC19B1F582EABC8BC77DC60C82406E00",
+    "arm64_size":  4745112,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "FCF790F10EC8201E253E8C12D52A7E35FCAE175D47A930BED498539BDCE1BD52",
-    "armeabi_size":  4399044,
-    "updated_at":  "2026-06-09T02:10:07Z"
+    "armeabi_sha256":  "CDF0039C717061B6F029670D25D5EC454B637C260B52034D0EA4BCFD613E1D74",
+    "armeabi_size":  4399108,
+    "updated_at":  "2026-06-09T02:33:48Z"
 }
