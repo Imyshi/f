@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.47",
-    "message":  "What\u0027s new: fix(room): restore Recent column next to WR; table now shows both WR and Recent heroes",
-    "changelog":  "fix(room): restore Recent column next to WR; table now shows both WR and Recent heroes",
+    "version":  "1.0.48",
+    "message":  "What\u0027s new: fix(room): restore Recent column next to WR; bump to 1.0.48",
+    "changelog":  "fix(room): restore Recent column next to WR; bump to 1.0.48",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C4ADDA7AE946543022D65ED836D4076C257A68D564949610BE6ADFF2C75680AC",
+    "arm64_sha256":  "92D11A8205E3AD2FB66379A35B29E646B2A1FD464DED89F36C78825DA22487D5",
     "arm64_size":  4771528,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DC5CA2562FFC6F93C16486B966BDF38E8A0A0649A29A5D67946EC21E1F0A8550",
+    "armeabi_sha256":  "DA216A267E506D1FEB6081B507B259CA533AA73F96AE8E49183D2C60A434381D",
     "armeabi_size":  4434100,
-    "updated_at":  "2026-06-09T04:46:19Z"
+    "updated_at":  "2026-06-09T04:56:49Z"
 }
