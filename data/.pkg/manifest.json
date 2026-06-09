@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.48",
-    "message":  "What\u0027s new: fix(aim): main Basic toggle now works for Kimmy (direction only, not auto-fire)",
-    "changelog":  "fix(aim): main Basic toggle now works for Kimmy (direction only, not auto-fire)",
+    "version":  "1.0.49",
+    "message":  "What\u0027s new: fix(aim): main Basic toggle now works for Kimmy; room: WR + Recent columns, no double table; chore: silence logs; bump 1.0.49",
+    "changelog":  "fix(aim): main Basic toggle now works for Kimmy; room: WR + Recent columns, no double table; chore: silence logs; bump 1.0.49",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F09CE2A56E78DE5EB492772D7FB33EAD3C5AF3CBC28D08A4EB2D6BA0FB6A08F8",
+    "arm64_sha256":  "5AF19AEB42CD40A183619A978AB33C9398067B58A5BA7987FB7ED5B7598EBEDC",
     "arm64_size":  4771528,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3B9734DEFC875069C38C74943309F0870134D86B2A0E61DA0473B92641CE3131",
+    "armeabi_sha256":  "7B50617F3254E22DEDB78F4EDE89DBDBA295DB0D462BC2559E23F2343DB3CE6B",
     "armeabi_size":  4434132,
-    "updated_at":  "2026-06-09T05:07:26Z"
+    "updated_at":  "2026-06-09T05:09:58Z"
 }
