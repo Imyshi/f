@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.47",
-    "message":  "What\u0027s new: fix(room): single floating window, WR column, collapsed headers default closed; chore(logs): silence debug output; bump version to 1.0.47",
-    "changelog":  "fix(room): single floating window, WR column, collapsed headers default closed; chore(logs): silence debug output; bump version to 1.0.47",
+    "message":  "What\u0027s new: fix(room): restore Recent column next to WR; table now shows both WR and Recent heroes",
+    "changelog":  "fix(room): restore Recent column next to WR; table now shows both WR and Recent heroes",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "410C614DDCB4951E8CF39A0A20E54ADB216212DF5C57658D7DFB839242FF0BFA",
-    "arm64_size":  4771224,
+    "arm64_sha256":  "C4ADDA7AE946543022D65ED836D4076C257A68D564949610BE6ADFF2C75680AC",
+    "arm64_size":  4771528,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "532A24F0DEF55C9A70C3936CFCD83DEF0648EC2381DBBC523788F49D1514C339",
-    "armeabi_size":  4433780,
-    "updated_at":  "2026-06-09T04:33:17Z"
+    "armeabi_sha256":  "DC5CA2562FFC6F93C16486B966BDF38E8A0A0649A29A5D67946EC21E1F0A8550",
+    "armeabi_size":  4434100,
+    "updated_at":  "2026-06-09T04:46:19Z"
 }
