@@ -1,13 +1,13 @@
 ﻿{
     "version":  "1.0.48",
-    "message":  "What\u0027s new: fix(room): restore Recent column next to WR; bump to 1.0.48",
-    "changelog":  "fix(room): restore Recent column next to WR; bump to 1.0.48",
+    "message":  "What\u0027s new: fix(aim): main Basic toggle now works for Kimmy (direction only, not auto-fire)",
+    "changelog":  "fix(aim): main Basic toggle now works for Kimmy (direction only, not auto-fire)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "92D11A8205E3AD2FB66379A35B29E646B2A1FD464DED89F36C78825DA22487D5",
+    "arm64_sha256":  "F09CE2A56E78DE5EB492772D7FB33EAD3C5AF3CBC28D08A4EB2D6BA0FB6A08F8",
     "arm64_size":  4771528,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DA216A267E506D1FEB6081B507B259CA533AA73F96AE8E49183D2C60A434381D",
-    "armeabi_size":  4434100,
-    "updated_at":  "2026-06-09T04:56:49Z"
+    "armeabi_sha256":  "3B9734DEFC875069C38C74943309F0870134D86B2A0E61DA0473B92641CE3131",
+    "armeabi_size":  4434132,
+    "updated_at":  "2026-06-09T05:07:26Z"
 }
