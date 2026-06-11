@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.75",
-    "message":  "What\u0027s new: Hero Extras auto-detect: show YVE/KIMMY DETECTED with icon and relevant checkboxes only",
-    "changelog":  "Hero Extras auto-detect: show YVE/KIMMY DETECTED with icon and relevant checkboxes only",
+    "version":  "1.0.76",
+    "message":  "What\u0027s new: Fix auto-check: YveSkill1 and KimmyBasic default off, auto-enable YveAim, add Support hero icons",
+    "changelog":  "Fix auto-check: YveSkill1 and KimmyBasic default off, auto-enable YveAim, add Support hero icons",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "2F4A28DFBA4C44FE2440D81C21A1DD3FDF27C588C30F261D8219467C4035D8D3",
-    "arm64_size":  5735488,
+    "arm64_sha256":  "82A00A1428CB5CD798EEF9105B96A386E3FAE99FEE7F77CDA39649698EFDC385",
+    "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F28715BA984BD586258BB404DFA17B14D00BE1F719FF223DBF271C57785903B7",
+    "armeabi_sha256":  "D756A026004B4FEDE7E63FE56D1EB0416DE1939150398291CF49659C07EE557B",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T07:17:34Z"
+    "updated_at":  "2026-06-11T07:50:56Z"
 }
