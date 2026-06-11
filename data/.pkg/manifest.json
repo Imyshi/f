@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.73",
-    "message":  "What\u0027s new: Fix auto-tap ult: standalone mode, no longer depends on Aim/Aim Ult checkboxes",
-    "changelog":  "Fix auto-tap ult: standalone mode, no longer depends on Aim/Aim Ult checkboxes",
+    "version":  "1.0.74",
+    "message":  "What\u0027s new: Fix auto-tap ult: use tap skill 10112 instead of activate skill 10130",
+    "changelog":  "Fix auto-tap ult: use tap skill 10112 instead of activate skill 10130",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "56638C3B88FEA0BCD27F28DBEDFFE7580A62DB9CF728AF5EA9D2F61202690B7B",
+    "arm64_sha256":  "9D1B753EDD538A2556DDA5F83593B59D649CEBFF5ECF210F4502761F83E31C76",
     "arm64_size":  5751872,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "47852AFD708F0FF22C2BB7EB38F34C3F76ED3985093E61FE3263C34DA75915F5",
+    "armeabi_sha256":  "B7B364FEB32279131A06FBC8B2F5B5BC4CEE380ED45D8E6CEDDDC927A526EE7A",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T06:07:02Z"
+    "updated_at":  "2026-06-11T06:20:33Z"
 }
