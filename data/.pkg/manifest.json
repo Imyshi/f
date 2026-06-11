@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.70",
-    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
-    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "version":  "1.0.71",
+    "message":  "What\u0027s new: Added Yve auto-ultimate: auto-cast ult at enemies in range with cooldown check",
+    "changelog":  "Added Yve auto-ultimate: auto-cast ult at enemies in range with cooldown check",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B934D99188CBDB1D8D6ACB99B3C113E5330D3AC410E690E3C4E8ACE5E6065982",
-    "arm64_size":  4521424,
+    "arm64_sha256":  "57B198C000E2CFD9FF38706C39F6A82118017042AE30A6A55D44E700EBEE38CA",
+    "arm64_size":  4521392,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "52017FC495D64B52A2C7C3D42CFA38E5DB74CD7F2C68F85C2EA537A9B16625B0",
+    "armeabi_sha256":  "73BDADCC3BEA7E81ABEDD33EEF806029B7A8513CE9738EC076A4AC80EF7A835A",
     "armeabi_size":  4177312,
-    "updated_at":  "2026-06-10T10:25:20Z"
+    "updated_at":  "2026-06-11T05:19:03Z"
 }
