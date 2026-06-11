@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.82",
-    "message":  "What\u0027s new: Fix Kimmy DD guard, Pharsa 4x cast with 200ms delay, floating round ult button",
-    "changelog":  "Fix Kimmy DD guard, Pharsa 4x cast with 200ms delay, floating round ult button",
+    "version":  "1.0.83",
+    "message":  "What\u0027s new: Pharsa: draggable circle toggle purple-gray, 4s spam no delay, checkbox stays on",
+    "changelog":  "Pharsa: draggable circle toggle purple-gray, 4s spam no delay, checkbox stays on",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "1B6AFE8F6804A8365223FA8D35BD8CA9E4FC53C9B08FE3438CFCBAA0427A458C",
+    "arm64_sha256":  "52FE421093CB4A0937365BB817138EE387FA84BF4787CA045AF19B9F3A358E22",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "66A8787B6044BE5EC8F705E39DF6ACA4895AEE75AA375F7FC6D552A9FD0E6EB2",
+    "armeabi_sha256":  "F6FA3489884F9620142F68C6D3E5A4D6753C2FF207DE5636F2A0D5F09D19158B",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T10:46:48Z"
+    "updated_at":  "2026-06-11T11:08:35Z"
 }
