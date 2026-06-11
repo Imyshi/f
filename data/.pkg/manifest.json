@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.80",
-    "message":  "What\u0027s new: DD Monster filter: only target Soldier (minion) and WildMonster (jungle), exclude towers/catapults/bosses/summons",
-    "changelog":  "DD Monster filter: only target Soldier (minion) and WildMonster (jungle), exclude towers/catapults/bosses/summons",
+    "version":  "1.0.81",
+    "message":  "What\u0027s new: Add Pharsa auto-ult 5230 4x burst Lord Turtle boss targeting",
+    "changelog":  "Add Pharsa auto-ult 5230 4x burst Lord Turtle boss targeting",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "1576CDA0D72EFAD8970511A41259C3B53FC0EDD390A5C99EB38F375E57C8F6EC",
+    "arm64_sha256":  "4FFC0D8DF0EBEB99F44648A53F454BC084274595352ED83C19B2CB89D414CA3E",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "EE1835D2F4EE27AAF64A307A1708A8BAF0A62F5E3800FCE4F7B6F2723538C7E3",
+    "armeabi_sha256":  "6ED37A219558E66F81C3D7249DACF0797B5926688893AC652BD92F55CD348BD8",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T08:37:44Z"
+    "updated_at":  "2026-06-11T09:00:32Z"
 }
