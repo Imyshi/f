@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.78",
-    "message":  "What\u0027s new: Fix Kimmy: basic attack only fires when DD Player or DD Monster is checked",
-    "changelog":  "Fix Kimmy: basic attack only fires when DD Player or DD Monster is checked",
+    "version":  "1.0.79",
+    "message":  "What\u0027s new: Fix DD Monster: skip dead/0 HP targets even if m_bDeath flag missed",
+    "changelog":  "Fix DD Monster: skip dead/0 HP targets even if m_bDeath flag missed",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "FC431ACC8543DED2FED46769932B8A48A0A3B26C4C52CE33285CCFD461506CFE",
-    "arm64_size":  5735480,
+    "arm64_sha256":  "B4E798D49A5C1C609240E76C84836A609FF28630B90D9F5071642A593D73E2BC",
+    "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E41F7BB4C7603A78EA31A4ED18459CE4A2CEEFDB5B3562F63E166D8B5E83C97F",
+    "armeabi_sha256":  "EB0827BFB8BEB7CF3BE01745C53BC57FA3FC43BB74C884BE925C297A31EC3AA1",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T08:13:07Z"
+    "updated_at":  "2026-06-11T08:23:14Z"
 }
