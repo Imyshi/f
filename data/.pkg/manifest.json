@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.90",
+    "version":  "1.0.91",
     "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "7EAA3455EEEAEFA94B54C1063C5E25B14FDB7031296EC0F95A66EE82C56C0574",
-    "arm64_size":  5768248,
+    "arm64_sha256":  "9C032EADDA644CEA85718B182534411BFDB4F9573182BF969ADBF1ECC93C395F",
+    "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "4E16F60F34AA55A2AAA8E2563E27EA7EF348FB5D779A646DF88B2615947699ED",
+    "armeabi_sha256":  "2FD0C0C7E8A76D0A6481C788A01E893361BCB28705137C5F33D8D9A1BC4B8C1B",
     "armeabi_size":  5472680,
-    "updated_at":  "2026-06-11T22:54:00Z"
+    "updated_at":  "2026-06-11T23:10:01Z"
 }
