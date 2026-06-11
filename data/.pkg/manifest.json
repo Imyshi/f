@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.76",
-    "message":  "What\u0027s new: Fix auto-check: YveSkill1 and KimmyBasic default off, auto-enable YveAim, add Support hero icons",
-    "changelog":  "Fix auto-check: YveSkill1 and KimmyBasic default off, auto-enable YveAim, add Support hero icons",
+    "version":  "1.0.77",
+    "message":  "What\u0027s new: Support hero: orange text, hide when detected; KimmyBasic=true hidden waits for DD",
+    "changelog":  "Support hero: orange text, hide when detected; KimmyBasic=true hidden waits for DD",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "82A00A1428CB5CD798EEF9105B96A386E3FAE99FEE7F77CDA39649698EFDC385",
-    "arm64_size":  5751864,
+    "arm64_sha256":  "97559F93289599093C230BB57236E2E0191782B685E178167F85F5004C06685A",
+    "arm64_size":  5735480,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D756A026004B4FEDE7E63FE56D1EB0416DE1939150398291CF49659C07EE557B",
+    "armeabi_sha256":  "0E0A56A23B53BF909F845C0E910CD08D578CEED459BBB7B4E422DABAFD44B5F6",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T07:50:56Z"
+    "updated_at":  "2026-06-11T08:01:55Z"
 }
