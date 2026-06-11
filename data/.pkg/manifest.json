@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.71",
-    "message":  "What\u0027s new: Added Yve auto-ultimate: auto-cast ult at enemies in range with cooldown check",
-    "changelog":  "Added Yve auto-ultimate: auto-cast ult at enemies in range with cooldown check",
+    "version":  "1.0.72",
+    "message":  "What\u0027s new: Yve auto-tap ult: no cooldown check, no delay, auto-tap enemies in zone",
+    "changelog":  "Yve auto-tap ult: no cooldown check, no delay, auto-tap enemies in zone",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "57B198C000E2CFD9FF38706C39F6A82118017042AE30A6A55D44E700EBEE38CA",
-    "arm64_size":  4521392,
+    "arm64_sha256":  "DF832B393803A8A2093885D89052CC7C564B2F8F84B5647BDB796CF2F2264572",
+    "arm64_size":  5751872,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "73BDADCC3BEA7E81ABEDD33EEF806029B7A8513CE9738EC076A4AC80EF7A835A",
-    "armeabi_size":  4177312,
-    "updated_at":  "2026-06-11T05:19:03Z"
+    "armeabi_sha256":  "E8CA49970D3FC9BF63866164371282D2786BC563566F09FBB6AF98CB6DF0913E",
+    "armeabi_size":  5456296,
+    "updated_at":  "2026-06-11T05:52:10Z"
 }
