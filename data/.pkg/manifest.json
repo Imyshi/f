@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.81",
-    "message":  "What\u0027s new: Add Pharsa auto-ult 5230 4x burst Lord Turtle boss targeting",
-    "changelog":  "Add Pharsa auto-ult 5230 4x burst Lord Turtle boss targeting",
+    "version":  "1.0.82",
+    "message":  "What\u0027s new: Fix Kimmy DD guard, Pharsa 4x cast with 200ms delay, floating round ult button",
+    "changelog":  "Fix Kimmy DD guard, Pharsa 4x cast with 200ms delay, floating round ult button",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4FFC0D8DF0EBEB99F44648A53F454BC084274595352ED83C19B2CB89D414CA3E",
+    "arm64_sha256":  "1B6AFE8F6804A8365223FA8D35BD8CA9E4FC53C9B08FE3438CFCBAA0427A458C",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6ED37A219558E66F81C3D7249DACF0797B5926688893AC652BD92F55CD348BD8",
+    "armeabi_sha256":  "66A8787B6044BE5EC8F705E39DF6ACA4895AEE75AA375F7FC6D552A9FD0E6EB2",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T09:00:32Z"
+    "updated_at":  "2026-06-11T10:46:48Z"
 }
