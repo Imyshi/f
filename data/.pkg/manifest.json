@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.83",
-    "message":  "What\u0027s new: Pharsa: draggable circle toggle purple-gray, 4s spam no delay, checkbox stays on",
-    "changelog":  "Pharsa: draggable circle toggle purple-gray, 4s spam no delay, checkbox stays on",
+    "version":  "1.0.84",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "52FE421093CB4A0937365BB817138EE387FA84BF4787CA045AF19B9F3A358E22",
+    "arm64_sha256":  "6D9E0E7BE560704F7FA1B380B4E08097A7C586DC8970BD3E5139A02D459EECF9",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F6FA3489884F9620142F68C6D3E5A4D6753C2FF207DE5636F2A0D5F09D19158B",
+    "armeabi_sha256":  "7DC562A8AADD34FB3B8C7F7A8F691D5214004248886F4566E68BC8404A4F760F",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T11:08:35Z"
+    "updated_at":  "2026-06-11T12:08:51Z"
 }
