@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.77",
-    "message":  "What\u0027s new: Support hero: orange text, hide when detected; KimmyBasic=true hidden waits for DD",
-    "changelog":  "Support hero: orange text, hide when detected; KimmyBasic=true hidden waits for DD",
+    "version":  "1.0.78",
+    "message":  "What\u0027s new: Fix Kimmy: basic attack only fires when DD Player or DD Monster is checked",
+    "changelog":  "Fix Kimmy: basic attack only fires when DD Player or DD Monster is checked",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "97559F93289599093C230BB57236E2E0191782B685E178167F85F5004C06685A",
+    "arm64_sha256":  "FC431ACC8543DED2FED46769932B8A48A0A3B26C4C52CE33285CCFD461506CFE",
     "arm64_size":  5735480,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0E0A56A23B53BF909F845C0E910CD08D578CEED459BBB7B4E422DABAFD44B5F6",
+    "armeabi_sha256":  "E41F7BB4C7603A78EA31A4ED18459CE4A2CEEFDB5B3562F63E166D8B5E83C97F",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T08:01:55Z"
+    "updated_at":  "2026-06-11T08:13:07Z"
 }
