@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.74",
-    "message":  "What\u0027s new: Fix auto-tap ult: use tap skill 10112 instead of activate skill 10130",
-    "changelog":  "Fix auto-tap ult: use tap skill 10112 instead of activate skill 10130",
+    "version":  "1.0.75",
+    "message":  "What\u0027s new: Hero Extras auto-detect: show YVE/KIMMY DETECTED with icon and relevant checkboxes only",
+    "changelog":  "Hero Extras auto-detect: show YVE/KIMMY DETECTED with icon and relevant checkboxes only",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "9D1B753EDD538A2556DDA5F83593B59D649CEBFF5ECF210F4502761F83E31C76",
-    "arm64_size":  5751872,
+    "arm64_sha256":  "2F4A28DFBA4C44FE2440D81C21A1DD3FDF27C588C30F261D8219467C4035D8D3",
+    "arm64_size":  5735488,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B7B364FEB32279131A06FBC8B2F5B5BC4CEE380ED45D8E6CEDDDC927A526EE7A",
+    "armeabi_sha256":  "F28715BA984BD586258BB404DFA17B14D00BE1F719FF223DBF271C57785903B7",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T06:20:33Z"
+    "updated_at":  "2026-06-11T07:17:34Z"
 }
