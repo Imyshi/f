@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "1.0.79",
-    "message":  "What\u0027s new: Fix DD Monster: skip dead/0 HP targets even if m_bDeath flag missed",
-    "changelog":  "Fix DD Monster: skip dead/0 HP targets even if m_bDeath flag missed",
+    "version":  "1.0.80",
+    "message":  "What\u0027s new: DD Monster filter: only target Soldier (minion) and WildMonster (jungle), exclude towers/catapults/bosses/summons",
+    "changelog":  "DD Monster filter: only target Soldier (minion) and WildMonster (jungle), exclude towers/catapults/bosses/summons",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B4E798D49A5C1C609240E76C84836A609FF28630B90D9F5071642A593D73E2BC",
+    "arm64_sha256":  "1576CDA0D72EFAD8970511A41259C3B53FC0EDD390A5C99EB38F375E57C8F6EC",
     "arm64_size":  5751864,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "EB0827BFB8BEB7CF3BE01745C53BC57FA3FC43BB74C884BE925C297A31EC3AA1",
+    "armeabi_sha256":  "EE1835D2F4EE27AAF64A307A1708A8BAF0A62F5E3800FCE4F7B6F2723538C7E3",
     "armeabi_size":  5456296,
-    "updated_at":  "2026-06-11T08:23:14Z"
+    "updated_at":  "2026-06-11T08:37:44Z"
 }
