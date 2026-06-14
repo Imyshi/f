@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.1.0",
-    "message":  "What\u0027s new: Yve Bug Outbox: 10130 redirect + 10136 spam 20s, target closest+lowestHP% within 15m; Kimmy DD fix: \u003e7.0m exit, DD ON cast both skills, DD OFF exit",
-    "changelog":  "Yve Bug Outbox: 10130 redirect + 10136 spam 20s, target closest+lowestHP% within 15m; Kimmy DD fix: \u003e7.0m exit, DD ON cast both skills, DD OFF exit",
+    "message":  "What\u0027s new: Kimmy simplified: auto 107100 only, removed DD toggle; Yve Bug Outbox: 10130 redirect + 10136 spam 20s",
+    "changelog":  "Kimmy simplified: auto 107100 only, removed DD toggle; Yve Bug Outbox: 10130 redirect + 10136 spam 20s",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "42AB9C7AE730110457CC07A65EB0D4F2A8CEB06ADD099BC0D8A33FB3BD9D6D18",
+    "arm64_sha256":  "FD9B9E847322502F8479137B7FC62E30DE15F334B3DB46DA5472AA1A40C38719",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0301432C882F1978F1468104A7EFA815C9D19DB57AF2844F941C0B5EC9370D19",
+    "armeabi_sha256":  "C229389C30F94EBC13FC4505FF75F263FCCB527444C11B0971723DDA3A2ACE0E",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-14T17:05:10Z"
+    "updated_at":  "2026-06-14T17:17:33Z"
 }
