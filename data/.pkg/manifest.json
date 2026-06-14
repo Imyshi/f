@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.0.7",
+    "version":  "2.0.8",
     "message":  "What\u0027s new: Bug Yve Outbox ganti jadi spam 10112 dengan target musuh, bersihkan kode Yve",
     "changelog":  "Bug Yve Outbox ganti jadi spam 10112 dengan target musuh, bersihkan kode Yve",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "52AA23DBE9A72CA563694598AA8D6FBF82F46AB1917DAC097743CA85FF1B43D0",
+    "arm64_sha256":  "982D03CC994FA020C1329DD86FFA8714BC5ECE6BC9CA494E9E459B9A657FA824",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "856D6537BD6A0990538123B569E1045362ECD96615303F4CA323DA2F394C3012",
+    "armeabi_sha256":  "B56F2AD016A969F0F7B29EE4ECE0BA9C1EB4053723D262C5915EDD876DCD568F",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-14T09:33:30Z"
+    "updated_at":  "2026-06-14T09:37:13Z"
 }
