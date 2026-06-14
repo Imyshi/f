@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.0.5",
-    "message":  "What\u0027s new: Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
-    "changelog":  "Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
+    "version":  "2.0.6",
+    "message":  "What\u0027s new: Hapus energy check Kimmy, bersihkan kode Kimmy aim",
+    "changelog":  "Hapus energy check Kimmy, bersihkan kode Kimmy aim",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "52AA23DBE9A72CA563694598AA8D6FBF82F46AB1917DAC097743CA85FF1B43D0",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "856D6537BD6A0990538123B569E1045362ECD96615303F4CA323DA2F394C3012",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-14T08:17:38Z"
+    "updated_at":  "2026-06-14T09:20:05Z"
 }
