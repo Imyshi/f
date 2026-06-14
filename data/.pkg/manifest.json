@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.0.8",
-    "message":  "What\u0027s new: Bug Yve Outbox ganti jadi spam 10112 dengan target musuh, bersihkan kode Yve",
-    "changelog":  "Bug Yve Outbox ganti jadi spam 10112 dengan target musuh, bersihkan kode Yve",
+    "version":  "2.0.9",
+    "message":  "What\u0027s new: Kimmy DD conditional skill (libFerrary.so): 207100 saat dekat, 107100 saat jauh",
+    "changelog":  "Kimmy DD conditional skill (libFerrary.so): 207100 saat dekat, 107100 saat jauh",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "982D03CC994FA020C1329DD86FFA8714BC5ECE6BC9CA494E9E459B9A657FA824",
+    "arm64_sha256":  "09104B5E677B04BCCB1B4C80986B8B36E380A541AD4076329557268F7220E417",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B56F2AD016A969F0F7B29EE4ECE0BA9C1EB4053723D262C5915EDD876DCD568F",
+    "armeabi_sha256":  "B0AFB9E9A4F144BC81F687B37D2A3E021C718E09C3D78305F9523CC0B158C7AF",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-14T09:37:13Z"
+    "updated_at":  "2026-06-14T16:18:29Z"
 }
