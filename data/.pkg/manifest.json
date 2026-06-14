@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.1.0",
-    "message":  "What\u0027s new: Kimmy simplified: auto 107100 only, removed DD toggle; Yve Bug Outbox: 10130 redirect + 10136 spam 20s",
-    "changelog":  "Kimmy simplified: auto 107100 only, removed DD toggle; Yve Bug Outbox: 10130 redirect + 10136 spam 20s",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "FD9B9E847322502F8479137B7FC62E30DE15F334B3DB46DA5472AA1A40C38719",
+    "arm64_sha256":  "B1D2D40894A27EA70653A4D5EE03FA162D1BFEAF91CA8158622608D1D74A57E8",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C229389C30F94EBC13FC4505FF75F263FCCB527444C11B0971723DDA3A2ACE0E",
+    "armeabi_sha256":  "B0FAAA674D40B4B48C83AB50B697E7A12F3E8754400EAEAF101C3C5D37604E94",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-14T17:17:33Z"
+    "updated_at":  "2026-06-14T17:24:22Z"
 }
