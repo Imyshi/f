@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.5",
-    "message":  "What\u0027s new: Tambah Kimmy Player V2 dan Monster V2 (reversed skill mapping)",
-    "changelog":  "Tambah Kimmy Player V2 dan Monster V2 (reversed skill mapping)",
+    "version":  "2.1.6",
+    "message":  "What\u0027s new: Fix Kimmy V1+V2 double cast, hapus rate limiter",
+    "changelog":  "Fix Kimmy V1+V2 double cast, hapus rate limiter",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E441579B2A24BE22D2D45274B3DE5AE9C8F0F6917E82BA23C89496392E9F68A4",
-    "arm64_size":  4723872,
+    "arm64_sha256":  "CC57A321FF60CB2896638612F41043FB8ED59A7353D6138DCD3F3B9D35883915",
+    "arm64_size":  4724080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F23EEE511553F624675F9AA1662C25D7E1B19A878C21F66F607BF15055B778C2",
-    "armeabi_size":  4387600,
-    "updated_at":  "2026-06-15T03:39:35Z"
+    "armeabi_sha256":  "44BF5F6D4FC83D70D51A08504907EDC6CE19D9A3E9B0510A5EB0C58FE59E8A95",
+    "armeabi_size":  4387776,
+    "updated_at":  "2026-06-15T03:48:39Z"
 }
