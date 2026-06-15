@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.8",
-    "message":  "What\u0027s new: Kimmy DD non-blocking 80ms cast gate ",
-    "changelog":  "Kimmy DD non-blocking 80ms cast gate ",
+    "version":  "2.5.9",
+    "message":  "What\u0027s new: Kimmy DD separated Player and Monster targeting ",
+    "changelog":  "Kimmy DD separated Player and Monster targeting ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "43CA0369E3C395C0EB5CAA8EEF560C7A2060370DAF3C207647EDE90305C46CD5",
+    "arm64_sha256":  "9BA8B694C5170125627455F641FB4A8E5E71543A17AE430121591EDC6B051E52",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "A81DE65B6E6889B81BDA41F0480685907D98A7FEDDF42D231556EF4F9E84D2D0",
+    "armeabi_sha256":  "387A002E622D91A079711526AF1967CEE79C5EC4D1DE3343C819B9648799F3B2",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T13:57:17Z"
+    "updated_at":  "2026-06-15T14:23:59Z"
 }
