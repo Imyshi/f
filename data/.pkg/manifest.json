@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.3.1",
-    "message":  "What\u0027s new: fix(kimmy): use TryUseSkillByLockUnit13 for proper lock-on targeting",
-    "changelog":  "fix(kimmy): use TryUseSkillByLockUnit13 for proper lock-on targeting",
+    "version":  "2.3.2",
+    "message":  "What\u0027s new: fix(kimmy): override skillId 107100-\u003e207100 in TryUseSkill2 hook",
+    "changelog":  "fix(kimmy): override skillId 107100-\u003e207100 in TryUseSkill2 hook",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "3B21BCEF11672E5F1A1EC10BAF3AE36EE4BCF74E4C9FCB7FC9B823F83581A8BE",
+    "arm64_sha256":  "6059C28E066AF8E1D03EFC09A8C67482982BAEEC21B604DDA34A8494EB98BB7A",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "75B77D4AAFC9A8A8F9376427D635E167E21B415769BC23A1D777226F2CBAF349",
+    "armeabi_sha256":  "6E32ABF9C6E15A6F9AD48C0082C9D586CD1F4993B6411DA6C354030F352F5441",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T11:00:36Z"
+    "updated_at":  "2026-06-15T11:23:58Z"
 }
