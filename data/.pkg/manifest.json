@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.2.0",
-    "message":  "What\u0027s new: refactor: remove all Kimmy code (V1/V2 toggles, LockUnit13, skill ID swap)",
-    "changelog":  "refactor: remove all Kimmy code (V1/V2 toggles, LockUnit13, skill ID swap)",
+    "version":  "2.3.0",
+    "message":  "What\u0027s new: feat(kimmy): add Kimmy DD skill override (libMyLibName.so pattern - single dispatch 207100)",
+    "changelog":  "feat(kimmy): add Kimmy DD skill override (libMyLibName.so pattern - single dispatch 207100)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C3DB8CE7D2DE5F540A3A5758E626F059E83CAF2C634507E5AEE4432A602CA933",
-    "arm64_size":  4757328,
+    "arm64_sha256":  "2EEC976DD62C38F9B7B37246A9D4D8A44EC35BA555170091672FD7DAB9D5E7D6",
+    "arm64_size":  4757952,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DDD9B7104012EF003AE6A3E1987D1C15B76F42039EB0F7AE42328A97AD8C3984",
-    "armeabi_size":  4435972,
-    "updated_at":  "2026-06-15T06:53:56Z"
+    "armeabi_sha256":  "7D529A282E3096D097520A9529C619506E30768E4C6DF3AD12A297FB1AA42587",
+    "armeabi_size":  4436836,
+    "updated_at":  "2026-06-15T10:47:21Z"
 }
