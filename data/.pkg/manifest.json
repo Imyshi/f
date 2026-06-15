@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.1.7",
-    "message":  "What\u0027s new: fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast",
-    "changelog":  "fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast",
+    "message":  "What\u0027s new: fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast + menu version 2.1.7",
+    "changelog":  "fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast + menu version 2.1.7",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "2167B0F53D586C85EE3B6CABDD7FFE0D30186CBFBEE5CE1581392E8CCE8B46ED",
+    "arm64_sha256":  "A534B2BAA6EC4D6A29755902D9472AB5E3AF8A0191AA7C87CE057E076EB55860",
     "arm64_size":  4759376,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "41D942BDAD551C5AF6A667D8408E2F395008796DE642E6A6298293E02F07AB29",
+    "armeabi_sha256":  "59A0EC98580D2F7CA0E3762FB52CA3DA2343FD219849C46E2A2D40FC299A8B9B",
     "armeabi_size":  4438468,
-    "updated_at":  "2026-06-15T04:26:14Z"
+    "updated_at":  "2026-06-15T05:13:20Z"
 }
