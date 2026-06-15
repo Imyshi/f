@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.3.0",
-    "message":  "What\u0027s new: feat(kimmy): add Kimmy DD skill override (libMyLibName.so pattern - single dispatch 207100)",
-    "changelog":  "feat(kimmy): add Kimmy DD skill override (libMyLibName.so pattern - single dispatch 207100)",
+    "version":  "2.3.1",
+    "message":  "What\u0027s new: fix(kimmy): use TryUseSkillByLockUnit13 for proper lock-on targeting",
+    "changelog":  "fix(kimmy): use TryUseSkillByLockUnit13 for proper lock-on targeting",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "2EEC976DD62C38F9B7B37246A9D4D8A44EC35BA555170091672FD7DAB9D5E7D6",
-    "arm64_size":  4757952,
+    "arm64_sha256":  "3B21BCEF11672E5F1A1EC10BAF3AE36EE4BCF74E4C9FCB7FC9B823F83581A8BE",
+    "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "7D529A282E3096D097520A9529C619506E30768E4C6DF3AD12A297FB1AA42587",
-    "armeabi_size":  4436836,
-    "updated_at":  "2026-06-15T10:47:21Z"
+    "armeabi_sha256":  "75B77D4AAFC9A8A8F9376427D635E167E21B415769BC23A1D777226F2CBAF349",
+    "armeabi_size":  5439896,
+    "updated_at":  "2026-06-15T11:00:36Z"
 }
