@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.4",
-    "message":  "What\u0027s new: Kimmy DD test lead 9.9 units ",
-    "changelog":  "Kimmy DD test lead 9.9 units ",
+    "version":  "2.5.5",
+    "message":  "What\u0027s new: Kimmy DD leading via frame-to-frame delta ",
+    "changelog":  "Kimmy DD leading via frame-to-frame delta ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "07880DC8E7300A6D8911D55D783667EF22F24364D9ED905E89D05C7D22263C11",
+    "arm64_sha256":  "7906D077C28591A173E49E88C12CB4D53FE1A2611F32067A4F6FCF10867FC9AF",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F3B4E96CEDE6938A5613802BF6C22DEAA7DB24754C90F190780522B93E03E9DE",
+    "armeabi_sha256":  "0EDC376F24C4788464E3C2D426D11A40D6059A0DFCCE8612A0C7B1409E632CBD",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T13:22:36Z"
+    "updated_at":  "2026-06-15T13:31:50Z"
 }
