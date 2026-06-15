@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.12",
-    "message":  "What\u0027s new: Menu background text solid black (no transparency)",
-    "changelog":  "Menu background text solid black (no transparency)",
+    "version":  "2.5.13",
+    "message":  "What\u0027s new: Title bar solid black + Kimmy prioritize player over monster",
+    "changelog":  "Title bar solid black + Kimmy prioritize player over monster",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "011C509DD8D3F214BE918A7DC5CAF14B4495A58BA09FA2EF28562E68469E6CF7",
-    "arm64_size":  5735464,
+    "arm64_sha256":  "202CEA805745B0C6083D5FBA8E5255F3AC3526D8C64CFFFC906AC7C9286DAA38",
+    "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DA4344418E7B4A6E5FFAF73EEC10207B54915D2A91AB07AFD5D8D0EAEBF0A050",
+    "armeabi_sha256":  "BF6CB230E0406B68FC09B9FACB42D74064FF7E8126ACDF90324C1A51FD3F9B3E",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T23:01:12Z"
+    "updated_at":  "2026-06-15T23:20:21Z"
 }
