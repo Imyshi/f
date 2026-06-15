@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.4",
-    "message":  "What\u0027s new: Kembali ke TryUseSkill2 single skill (revert LockUnit)",
-    "changelog":  "Kembali ke TryUseSkill2 single skill (revert LockUnit)",
+    "version":  "2.1.5",
+    "message":  "What\u0027s new: Tambah Kimmy Player V2 dan Monster V2 (reversed skill mapping)",
+    "changelog":  "Tambah Kimmy Player V2 dan Monster V2 (reversed skill mapping)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B518DE8A712AA68B027ECA9027791828DEECACB70BD4E9D5A28CD3DB2980D7C8",
-    "arm64_size":  4723344,
+    "arm64_sha256":  "E441579B2A24BE22D2D45274B3DE5AE9C8F0F6917E82BA23C89496392E9F68A4",
+    "arm64_size":  4723872,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D27A3A8DB5DCC0F06276DCF7CC451E2AFB1929B06B11EDC74ADA477085CCE103",
-    "armeabi_size":  4386912,
-    "updated_at":  "2026-06-15T03:35:00Z"
+    "armeabi_sha256":  "F23EEE511553F624675F9AA1662C25D7E1B19A878C21F66F607BF15055B778C2",
+    "armeabi_size":  4387600,
+    "updated_at":  "2026-06-15T03:39:35Z"
 }
