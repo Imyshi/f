@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.9",
-    "message":  "What\u0027s new: feat(Kimmy): skill ID swap in TryUseSkill for V1/V2 redirect",
-    "changelog":  "feat(Kimmy): skill ID swap in TryUseSkill for V1/V2 redirect",
+    "version":  "2.1.10",
+    "message":  "What\u0027s new: fix(Kimmy): bypass generic aim system, direct orig_TryUseSkill after skill ID swap",
+    "changelog":  "fix(Kimmy): bypass generic aim system, direct orig_TryUseSkill after skill ID swap",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F7C4A4E8AA511DCE419E5FAAB45A99208A8BC500DE636BAC6CFDB188969B9CF5",
-    "arm64_size":  4758336,
+    "arm64_sha256":  "849C17C111405B99C27CC9842C8EE7BAB5AD6BFE448A52FA5AC01112564A42A5",
+    "arm64_size":  4758352,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "8DEACF0DEC29A7203D2839ACC207015D1C8AF2540E067681F5E15D0106207776",
-    "armeabi_size":  4436964,
-    "updated_at":  "2026-06-15T06:31:44Z"
+    "armeabi_sha256":  "4D514B0F59DE6C483E8C694DEB044AFFB10CF71C61D0C5252DFBBC6BE897F382",
+    "armeabi_size":  4437060,
+    "updated_at":  "2026-06-15T06:46:34Z"
 }
