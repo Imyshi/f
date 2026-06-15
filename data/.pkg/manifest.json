@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.3.2",
-    "message":  "What\u0027s new: fix(kimmy): override skillId 107100-\u003e207100 in TryUseSkill2 hook",
-    "changelog":  "fix(kimmy): override skillId 107100-\u003e207100 in TryUseSkill2 hook",
+    "version":  "2.4.0",
+    "message":  "What\u0027s new: feat(kimmy): DD auto-fire + Manual skillId override modes",
+    "changelog":  "feat(kimmy): DD auto-fire + Manual skillId override modes",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "6059C28E066AF8E1D03EFC09A8C67482982BAEEC21B604DDA34A8494EB98BB7A",
+    "arm64_sha256":  "EF54A64119B7762BBF1EB31302A26349E248591E9DA20019E635C06A649F2321",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6E32ABF9C6E15A6F9AD48C0082C9D586CD1F4993B6411DA6C354030F352F5441",
+    "armeabi_sha256":  "114EA4348B91E9DD0CE7B9D82A532F5179E6D1962C2A2D435CBB72CB8CF72C94",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T11:23:58Z"
+    "updated_at":  "2026-06-15T12:00:45Z"
 }
