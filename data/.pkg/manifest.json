@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.8",
-    "message":  "What\u0027s new: fix(Kimmy): add re-entrancy guard to TryUseSkill intercept for LockUnit13",
-    "changelog":  "fix(Kimmy): add re-entrancy guard to TryUseSkill intercept for LockUnit13",
+    "version":  "2.1.9",
+    "message":  "What\u0027s new: feat(Kimmy): skill ID swap in TryUseSkill for V1/V2 redirect",
+    "changelog":  "feat(Kimmy): skill ID swap in TryUseSkill for V1/V2 redirect",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "981F74DB628BCFB5D62D5FE15D46BEF4C69DB21495ADB31AE727CDD770662436",
-    "arm64_size":  4759424,
+    "arm64_sha256":  "F7C4A4E8AA511DCE419E5FAAB45A99208A8BC500DE636BAC6CFDB188969B9CF5",
+    "arm64_size":  4758336,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C0E13C9E5A560E0E22040D8DE0B75199A4718E6570F80D56485B77FF069BADCF",
-    "armeabi_size":  4438116,
-    "updated_at":  "2026-06-15T05:43:27Z"
+    "armeabi_sha256":  "8DEACF0DEC29A7203D2839ACC207015D1C8AF2540E067681F5E15D0106207776",
+    "armeabi_size":  4436964,
+    "updated_at":  "2026-06-15T06:31:44Z"
 }
