@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.9",
-    "message":  "What\u0027s new: Kimmy DD separated Player and Monster targeting ",
-    "changelog":  "Kimmy DD separated Player and Monster targeting ",
+    "version":  "2.5.10",
+    "message":  "What\u0027s new: Kimmy split into Player and Monster toggles ",
+    "changelog":  "Kimmy split into Player and Monster toggles ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "9BA8B694C5170125627455F641FB4A8E5E71543A17AE430121591EDC6B051E52",
+    "arm64_sha256":  "DB4710E5BF82B73E00C64C3658EA2EF4C50A56BC980A12C1B7EE36614B6A37E5",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "387A002E622D91A079711526AF1967CEE79C5EC4D1DE3343C819B9648799F3B2",
+    "armeabi_sha256":  "A5DD06409B3FAE08B058A2D5F63C19BABF44EA8AF564860AC2B02FDECD0530B6",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T14:23:59Z"
+    "updated_at":  "2026-06-15T14:46:22Z"
 }
