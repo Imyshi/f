@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.6",
-    "message":  "What\u0027s new: Fix Kimmy V1+V2 double cast, hapus rate limiter",
-    "changelog":  "Fix Kimmy V1+V2 double cast, hapus rate limiter",
+    "version":  "2.1.7",
+    "message":  "What\u0027s new: fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast",
+    "changelog":  "fix(Kimmy): use TryUseSkillByLockUnit 13-param for V1+V2 double cast",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "CC57A321FF60CB2896638612F41043FB8ED59A7353D6138DCD3F3B9D35883915",
-    "arm64_size":  4724080,
+    "arm64_sha256":  "2167B0F53D586C85EE3B6CABDD7FFE0D30186CBFBEE5CE1581392E8CCE8B46ED",
+    "arm64_size":  4759376,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "44BF5F6D4FC83D70D51A08504907EDC6CE19D9A3E9B0510A5EB0C58FE59E8A95",
-    "armeabi_size":  4387776,
-    "updated_at":  "2026-06-15T03:48:39Z"
+    "armeabi_sha256":  "41D942BDAD551C5AF6A667D8408E2F395008796DE642E6A6298293E02F07AB29",
+    "armeabi_size":  4438468,
+    "updated_at":  "2026-06-15T04:26:14Z"
 }
