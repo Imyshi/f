@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.1.8",
-    "message":  "What\u0027s new: fix(Kimmy): intercept TryUseSkill hook for V1+V2 double cast instead of UpdateRetribution",
-    "changelog":  "fix(Kimmy): intercept TryUseSkill hook for V1+V2 double cast instead of UpdateRetribution",
+    "message":  "What\u0027s new: fix(Kimmy): add re-entrancy guard to TryUseSkill intercept for LockUnit13",
+    "changelog":  "fix(Kimmy): add re-entrancy guard to TryUseSkill intercept for LockUnit13",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4D184CC9B8E3B3FDFE8FCDF9B559F1F32E538E8EADBC90E9F1AC84B3AC7FB9E5",
-    "arm64_size":  4759216,
+    "arm64_sha256":  "981F74DB628BCFB5D62D5FE15D46BEF4C69DB21495ADB31AE727CDD770662436",
+    "arm64_size":  4759424,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "10BFB08D3DA0F7A860D778C15B0EBF57236094E494C480D153765B6FB41C961C",
-    "armeabi_size":  4438132,
-    "updated_at":  "2026-06-15T05:37:26Z"
+    "armeabi_sha256":  "C0E13C9E5A560E0E22040D8DE0B75199A4718E6570F80D56485B77FF069BADCF",
+    "armeabi_size":  4438116,
+    "updated_at":  "2026-06-15T05:43:27Z"
 }
