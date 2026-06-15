@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.3",
-    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
-    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "version":  "2.1.4",
+    "message":  "What\u0027s new: Match Kimmy to libFerrary.so: rate limiter 2-frame, range 7.0, single skill (207100 player / 107100 monster)",
+    "changelog":  "Match Kimmy to libFerrary.so: rate limiter 2-frame, range 7.0, single skill (207100 player / 107100 monster)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E9B87ED00C9CC672289335D0E2F7B20E9512F724DBD309D294669DC9F59B18FA",
-    "arm64_size":  5719080,
+    "arm64_sha256":  "B518DE8A712AA68B027ECA9027791828DEECACB70BD4E9D5A28CD3DB2980D7C8",
+    "arm64_size":  4723344,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C55BE6CFE3F2899234E17E3F4502E70EF595D35163B2D31565057EE17DCBBB77",
-    "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T00:18:50Z"
+    "armeabi_sha256":  "D27A3A8DB5DCC0F06276DCF7CC451E2AFB1929B06B11EDC74ADA477085CCE103",
+    "armeabi_size":  4386912,
+    "updated_at":  "2026-06-15T02:50:02Z"
 }
