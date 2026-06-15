@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.0",
-    "message":  "What\u0027s new: feat(kimmy): 6.5+7.0m range, ESP range circle 9.0m",
-    "changelog":  "feat(kimmy): 6.5+7.0m range, ESP range circle 9.0m",
+    "version":  "2.5.1",
+    "message":  "What\u0027s new: Kimmy DD auto-advance MoveTo target ",
+    "changelog":  "Kimmy DD auto-advance MoveTo target ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D1E3B9C769B9D25E557C95E924442044C90269F094D9E23E24C734D94BAC4EE1",
-    "arm64_size":  5719088,
+    "arm64_sha256":  "66287202CB8D1643E1521BA757C21A55807073B92D7F75E6A4F103C9E9E71F32",
+    "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "33A6F639EBCA462ADBF5E675AC3F065C297F4CAAE1137B9A75FA35696EB9E7F9",
-    "armeabi_size":  5439904,
-    "updated_at":  "2026-06-15T12:32:14Z"
+    "armeabi_sha256":  "ADAF4C984ACCF630377D1247ABAB0486B049A2D684D603AE39417E83B47392DE",
+    "armeabi_size":  5439896,
+    "updated_at":  "2026-06-15T12:59:38Z"
 }
