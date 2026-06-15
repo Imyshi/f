@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.5",
-    "message":  "What\u0027s new: Kimmy ganti TryUseSkillByLockUnit + double cast 107100 dan 207100",
-    "changelog":  "Kimmy ganti TryUseSkillByLockUnit + double cast 107100 dan 207100",
+    "version":  "2.1.4",
+    "message":  "What\u0027s new: Kembali ke TryUseSkill2 single skill (revert LockUnit)",
+    "changelog":  "Kembali ke TryUseSkill2 single skill (revert LockUnit)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4B6A4E8D5527E68221CCB149A045653F3FB84FC58726C13A41CBA6AAA9D9442D",
-    "arm64_size":  4723632,
+    "arm64_sha256":  "B518DE8A712AA68B027ECA9027791828DEECACB70BD4E9D5A28CD3DB2980D7C8",
+    "arm64_size":  4723344,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "942682B0AFC0D2650011DCD36C0E60073C5B7316D81006B6ADF957EDFB8D7A60",
-    "armeabi_size":  4387168,
-    "updated_at":  "2026-06-15T03:24:04Z"
+    "armeabi_sha256":  "D27A3A8DB5DCC0F06276DCF7CC451E2AFB1929B06B11EDC74ADA477085CCE103",
+    "armeabi_size":  4386912,
+    "updated_at":  "2026-06-15T03:35:00Z"
 }
