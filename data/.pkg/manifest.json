@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.3",
-    "message":  "What\u0027s new: Kimmy DD leading shot (predict enemy move dir) ",
-    "changelog":  "Kimmy DD leading shot (predict enemy move dir) ",
+    "version":  "2.5.4",
+    "message":  "What\u0027s new: Kimmy DD test lead 9.9 units ",
+    "changelog":  "Kimmy DD test lead 9.9 units ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8EFEA28DF67A58F7B4BA172D11B19877FC059EFCA69DE90A5FFC2EA1F349CB49",
+    "arm64_sha256":  "07880DC8E7300A6D8911D55D783667EF22F24364D9ED905E89D05C7D22263C11",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "028CF46A5E1454960CC2C9E0F7C44CCCC89634F932CDAE5216721AD45949617B",
+    "armeabi_sha256":  "F3B4E96CEDE6938A5613802BF6C22DEAA7DB24754C90F190780522B93E03E9DE",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T13:14:34Z"
+    "updated_at":  "2026-06-15T13:22:36Z"
 }
