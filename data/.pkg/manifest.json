@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.1",
-    "message":  "What\u0027s new: Kimmy DD auto-advance MoveTo target ",
-    "changelog":  "Kimmy DD auto-advance MoveTo target ",
+    "version":  "2.5.2",
+    "message":  "What\u0027s new: Revert MoveTo auto-advance ",
+    "changelog":  "Revert MoveTo auto-advance ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "66287202CB8D1643E1521BA757C21A55807073B92D7F75E6A4F103C9E9E71F32",
+    "arm64_sha256":  "42F27ABB453AEA1CAF746BCD38F5C48B8F54A2C9EEDF025B1653640FDED78314",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "ADAF4C984ACCF630377D1247ABAB0486B049A2D684D603AE39417E83B47392DE",
+    "armeabi_sha256":  "0CBEDC6AFEA5E52E5B181BEFF80492B12573006C5D3604A80E71E74D43F93E20",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T12:59:38Z"
+    "updated_at":  "2026-06-15T13:05:34Z"
 }
