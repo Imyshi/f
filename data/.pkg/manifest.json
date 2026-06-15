@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.10",
-    "message":  "What\u0027s new: Kimmy split into Player and Monster toggles ",
-    "changelog":  "Kimmy split into Player and Monster toggles ",
+    "version":  "2.5.11",
+    "message":  "What\u0027s new: Added Basic section with Skill 7100 test ",
+    "changelog":  "Added Basic section with Skill 7100 test ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "DB4710E5BF82B73E00C64C3658EA2EF4C50A56BC980A12C1B7EE36614B6A37E5",
-    "arm64_size":  5719080,
+    "arm64_sha256":  "BD43479C89B1C51EAF1501F8A3C8B840CE8A8D3A839D8BA4C2A8C270F38A6D51",
+    "arm64_size":  5735464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "A5DD06409B3FAE08B058A2D5F63C19BABF44EA8AF564860AC2B02FDECD0530B6",
+    "armeabi_sha256":  "BBDDD661A1CBBD5ABFAD25CEF2D23E759C8D9D7A36685422F22AAAD22FA12E07",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T14:46:22Z"
+    "updated_at":  "2026-06-15T22:19:21Z"
 }
