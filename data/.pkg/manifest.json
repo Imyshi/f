@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.4.0",
-    "message":  "What\u0027s new: feat(kimmy): DD auto-fire + Manual skillId override modes",
-    "changelog":  "feat(kimmy): DD auto-fire + Manual skillId override modes",
+    "version":  "2.4.1",
+    "message":  "What\u0027s new: feat(kimmy): cast both 107100+207100 per update",
+    "changelog":  "feat(kimmy): cast both 107100+207100 per update",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "EF54A64119B7762BBF1EB31302A26349E248591E9DA20019E635C06A649F2321",
+    "arm64_sha256":  "0248544709069E740D15DCE06C3D6B361310FAC2E5E9A2C4CF5C5B0E322C3DEC",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "114EA4348B91E9DD0CE7B9D82A532F5179E6D1962C2A2D435CBB72CB8CF72C94",
+    "armeabi_sha256":  "926E39D73BCAE5A828A3A3BBD07A0502B381B238B82DB0F47F9C202A87C1562B",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T12:00:45Z"
+    "updated_at":  "2026-06-15T12:15:42Z"
 }
