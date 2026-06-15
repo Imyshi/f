@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.1.10",
-    "message":  "What\u0027s new: fix(Kimmy): bypass generic aim system, direct orig_TryUseSkill after skill ID swap",
-    "changelog":  "fix(Kimmy): bypass generic aim system, direct orig_TryUseSkill after skill ID swap",
+    "version":  "2.2.0",
+    "message":  "What\u0027s new: refactor: remove all Kimmy code (V1/V2 toggles, LockUnit13, skill ID swap)",
+    "changelog":  "refactor: remove all Kimmy code (V1/V2 toggles, LockUnit13, skill ID swap)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "849C17C111405B99C27CC9842C8EE7BAB5AD6BFE448A52FA5AC01112564A42A5",
-    "arm64_size":  4758352,
+    "arm64_sha256":  "C3DB8CE7D2DE5F540A3A5758E626F059E83CAF2C634507E5AEE4432A602CA933",
+    "arm64_size":  4757328,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "4D514B0F59DE6C483E8C694DEB044AFFB10CF71C61D0C5252DFBBC6BE897F382",
-    "armeabi_size":  4437060,
-    "updated_at":  "2026-06-15T06:46:34Z"
+    "armeabi_sha256":  "DDD9B7104012EF003AE6A3E1987D1C15B76F42039EB0F7AE42328A97AD8C3984",
+    "armeabi_size":  4435972,
+    "updated_at":  "2026-06-15T06:53:56Z"
 }
