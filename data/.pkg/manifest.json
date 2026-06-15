@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.6",
-    "message":  "What\u0027s new: Kimmy DD 80ms delay between casts ",
-    "changelog":  "Kimmy DD 80ms delay between casts ",
+    "version":  "2.5.7",
+    "message":  "What\u0027s new: Kimmy DD 80ms delay after each cast ",
+    "changelog":  "Kimmy DD 80ms delay after each cast ",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "55C2E5BA7C446797F9EA4A734577B3B3DC529C485512454D355B152BAA21F7B8",
+    "arm64_sha256":  "8AF5AE1B603F4421908953762E13794A7369B370D86B6839673DA20CACAEBDE3",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E3B4B1F18F166F8DC99929C8E4BD912F299B8CC1D5A877977FED40EB9B414004",
+    "armeabi_sha256":  "3C031D12E25C36FF69AB8BD83D65AD178B7B71EF84F77CF01D99BE88AB1DD854",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T13:41:51Z"
+    "updated_at":  "2026-06-15T13:48:22Z"
 }
