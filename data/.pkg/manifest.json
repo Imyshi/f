@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.33",
-    "message":  "What\u0027s new: fix: Yve Ult skill ID 10112 (not 10136)",
-    "changelog":  "fix: Yve Ult skill ID 10112 (not 10136)",
+    "version":  "2.5.34",
+    "message":  "What\u0027s new: feat: Yve auto-cast ult 10112 to nearest enemy",
+    "changelog":  "feat: Yve auto-cast ult 10112 to nearest enemy",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C287020DD7558C426AF115365141AE407B52D6E59B5BCBCF0516E8EB0E8B3D4A",
+    "arm64_sha256":  "1220F3F65A9A0BC3E36A39DB5B1EE3C1B35F45D888FD9F77A912C617FFCBBC52",
     "arm64_size":  5789848,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "FCD39A9A9FD610FEAFFBA9C3C2C9E787FB302CBEE70AFF47D4D98AF789B122D2",
-    "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T14:40:15Z"
+    "armeabi_sha256":  "0A62125667095B10BE7F5A32D985B8E7398349F28C545113F49011F99E86D004",
+    "armeabi_size":  5510664,
+    "updated_at":  "2026-06-16T14:55:09Z"
 }
