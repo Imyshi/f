@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.18",
-    "message":  "What\u0027s new: Fix Kimmy aim dependency on UpdateRetribution (works without retri spell), change menu bg to navy transparent",
-    "changelog":  "Fix Kimmy aim dependency on UpdateRetribution (works without retri spell), change menu bg to navy transparent",
+    "version":  "2.5.19",
+    "message":  "What\u0027s new: Fix menu background to navy transparent, enlarge title bar with Anton font 24f, sync menu Kimmy variable names with aim.h",
+    "changelog":  "Fix menu background to navy transparent, enlarge title bar with Anton font 24f, sync menu Kimmy variable names with aim.h",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "EF042AB584162815E4FD7A4673268184DAD7BAA4F70D6AB569C548E27C947880",
-    "arm64_size":  5773472,
+    "arm64_sha256":  "102788D0F494C8EC6D13C06DA9F93E5D906BB280084A288FE45FA81C66178F1D",
+    "arm64_size":  5806256,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "4855241724BEF7110E7FC362A33244661201B49B17A297C51ADD582042D9315B",
-    "armeabi_size":  5510672,
-    "updated_at":  "2026-06-16T08:25:00Z"
+    "armeabi_sha256":  "3C892594C2B6EA7A9297E56C22F2F965D7A64CBB3E02E2BE2D4C7C4301FF3575",
+    "armeabi_size":  5510684,
+    "updated_at":  "2026-06-16T09:15:20Z"
 }
