@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.19",
-    "message":  "What\u0027s new: Fix menu background to navy transparent, enlarge title bar with Anton font 24f, sync menu Kimmy variable names with aim.h",
-    "changelog":  "Fix menu background to navy transparent, enlarge title bar with Anton font 24f, sync menu Kimmy variable names with aim.h",
+    "version":  "2.5.20",
+    "message":  "What\u0027s new: Clean menu: Player+Monster only, remove Fanny/Gusion/Basic/debug text",
+    "changelog":  "Clean menu: Player+Monster only, remove Fanny/Gusion/Basic/debug text",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "102788D0F494C8EC6D13C06DA9F93E5D906BB280084A288FE45FA81C66178F1D",
-    "arm64_size":  5806256,
+    "arm64_sha256":  "A6B4C162131949445DCBF9368765890BFD838C8A056F8237C54B8FC9324D69F5",
+    "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3C892594C2B6EA7A9297E56C22F2F965D7A64CBB3E02E2BE2D4C7C4301FF3575",
-    "armeabi_size":  5510684,
-    "updated_at":  "2026-06-16T09:15:20Z"
+    "armeabi_sha256":  "BCC72B7B341A9AC9B036978CE6341CE315EC1A117ABE20C84B570269C79C7F62",
+    "armeabi_size":  5510672,
+    "updated_at":  "2026-06-16T09:48:53Z"
 }
