@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.16",
-    "message":  "What\u0027s new: Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
-    "changelog":  "Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
+    "version":  "2.5.17",
+    "message":  "What\u0027s new: Add Kimmy monster toggle, fix Impact font with embedded Anton font",
+    "changelog":  "Add Kimmy monster toggle, fix Impact font with embedded Anton font",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "72E6252BDEFA017829BBEFDA0273F2CE1441EE65C8968835F0BF1A09EC48FDDF",
-    "arm64_size":  4758800,
+    "arm64_sha256":  "C5E7BE544CCB3D05DA9FCEE25B97144BE22AAFCCA8EED6D6F7C317FD2F8C609C",
+    "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "66E81B40B9078664ADD5459CE93051E8BBD067C157E8B53ACF14EA20B940060D",
-    "armeabi_size":  4437636,
-    "updated_at":  "2026-06-16T06:54:48Z"
+    "armeabi_sha256":  "6745170AB3AE0B8698838DD9293C1ADDE785216F19FD43E392D894C8C130F164",
+    "armeabi_size":  5510672,
+    "updated_at":  "2026-06-16T08:06:58Z"
 }
