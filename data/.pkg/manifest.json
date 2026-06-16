@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.31",
-    "message":  "What\u0027s new: fix(yve): remove skill trigger requirement, spam 10136 langsung saat checkbox active tanpa perlu cast skill",
-    "changelog":  "fix(yve): remove skill trigger requirement, spam 10136 langsung saat checkbox active tanpa perlu cast skill",
+    "version":  "2.5.32",
+    "message":  "What\u0027s new: remove all Yve code from aim.h and Menu.h",
+    "changelog":  "remove all Yve code from aim.h and Menu.h",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "70391F06DCE105272768F50FE30C00BDEF3A3B770B1D5DED93EE46AFD214EB9C",
-    "arm64_size":  5773472,
+    "arm64_sha256":  "4FEF1423853FB21C13A3D60416DBBFB2FD3C34D9D4BE20B6B5397EC9F0A2443B",
+    "arm64_size":  5773464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "8F8014D8C5D6E6DFC28D8699E98FEE9848D1CD4BF8944AC3AC708F56201A5F06",
-    "armeabi_size":  5510668,
-    "updated_at":  "2026-06-16T12:20:59Z"
+    "armeabi_sha256":  "16F18B2D16FA8C80325E7554B05555B6C66D0F1F98D6A17B6A6CB4C512AED57C",
+    "armeabi_size":  5494280,
+    "updated_at":  "2026-06-16T12:33:16Z"
 }
