@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.25",
-    "message":  "What\u0027s new: fix(menu): remove full-screen backdrop, lower WindowBg alpha so DrawCosmicBackdrop shows inside window, fix draw order",
-    "changelog":  "fix(menu): remove full-screen backdrop, lower WindowBg alpha so DrawCosmicBackdrop shows inside window, fix draw order",
+    "version":  "2.5.26",
+    "message":  "What\u0027s new: fix(menu): remove full-screen backdrop, lower WindowBg alpha to 0.45, correct DrawCosmicBackdrop in-window only",
+    "changelog":  "fix(menu): remove full-screen backdrop, lower WindowBg alpha to 0.45, correct DrawCosmicBackdrop in-window only",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E62D00A9D84787B653DF24B6F4DD50566A7AA9EA5C759F9AF2114410CC198D77",
+    "arm64_sha256":  "A19D35840749A12EAC28B626A505BAF8BECD2C551FB349101E50678503E009CE",
     "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "EE8DDC34F628B84B0B93CF59DAFCCC7C6F5A0E0ADBFECF4110152B47A850E968",
+    "armeabi_sha256":  "EE881AF36DEAF1CFE4EA71AB2198E59D7334161CF0D004C2428EE001148A0817",
     "armeabi_size":  5510672,
-    "updated_at":  "2026-06-16T10:53:17Z"
+    "updated_at":  "2026-06-16T11:00:16Z"
 }
