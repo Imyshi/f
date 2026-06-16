@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.29",
-    "message":  "What\u0027s new: fix(yve): simplify ult detect 10130 -\u003e pass through + start spam timer, no target scan needed at activation",
-    "changelog":  "fix(yve): simplify ult detect 10130 -\u003e pass through + start spam timer, no target scan needed at activation",
+    "version":  "2.5.30",
+    "message":  "What\u0027s new: fix(yve): remove 10130 guard, trigger on any skill cast for testing",
+    "changelog":  "fix(yve): remove 10130 guard, trigger on any skill cast for testing",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "7E47379C53FAA9BF9B732721F1C9636AB88388FFD49D8ED307928082FF84D904",
-    "arm64_size":  5789856,
+    "arm64_sha256":  "3F8DDF9E74CDB0DBE9A98D91610C52548991DA506009E342CDBFC3CEB3421E35",
+    "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B2FF6FAE54995970211E07D2504FCE837022B81CEC093DA5518D1FC1E4F7C769",
+    "armeabi_sha256":  "0C1AB4BC338678769AF358C2F5283559B061359E0641A9687F4856B22E9D31EA",
     "armeabi_size":  5510668,
-    "updated_at":  "2026-06-16T12:08:37Z"
+    "updated_at":  "2026-06-16T12:15:04Z"
 }
