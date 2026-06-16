@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.37",
-    "message":  "What\u0027s new: fix: Safe Yve spam langsung, Risk Yve tunggu 10130+15s+10136 stop",
-    "changelog":  "fix: Safe Yve spam langsung, Risk Yve tunggu 10130+15s+10136 stop",
+    "version":  "2.5.38",
+    "message":  "What\u0027s new: fix: swap RiskYve=spam langsung, SafeYve=tunggu 10130",
+    "changelog":  "fix: swap RiskYve=spam langsung, SafeYve=tunggu 10130",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4C9E2FB045313DA1B1FBFB913DDDE7C9C4B6F4387706F0FEC640FFE482440AEF",
+    "arm64_sha256":  "B66F7BE2BF547620B9B77FB19E24CEDF3D2D785B27A8756C9DAA65BA895A276C",
     "arm64_size":  5773464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "EAF4C934595E1AE0734B203ACEA8E0CE93D8D74EDB6733974EE9600D71D381A7",
+    "armeabi_sha256":  "2E8901FC657FD5289B1E52A8F0581C2E0C5A63D56840E95CBDB5CBAF3DDB92A1",
     "armeabi_size":  5510664,
-    "updated_at":  "2026-06-16T16:06:25Z"
+    "updated_at":  "2026-06-16T16:13:41Z"
 }
