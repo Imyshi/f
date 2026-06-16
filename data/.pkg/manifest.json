@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.13",
-    "message":  "What\u0027s new: Title bar solid black + Kimmy prioritize player over monster",
-    "changelog":  "Title bar solid black + Kimmy prioritize player over monster",
+    "version":  "2.5.14",
+    "message":  "What\u0027s new: Custom bold title bar + Kimmy strict Player/Monster isolation",
+    "changelog":  "Custom bold title bar + Kimmy strict Player/Monster isolation",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "202CEA805745B0C6083D5FBA8E5255F3AC3526D8C64CFFFC906AC7C9286DAA38",
+    "arm64_sha256":  "C5160D035E409800E6342555C604B4D79DFC39DEF4B1D745514248E54C601704",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BF6CB230E0406B68FC09B9FACB42D74064FF7E8126ACDF90324C1A51FD3F9B3E",
+    "armeabi_sha256":  "F46D44CF658559D848898B7DD7FA0C4B93B03D9B9D21C1372A1ECA7540BB4FFA",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-15T23:20:21Z"
+    "updated_at":  "2026-06-15T23:59:49Z"
 }
