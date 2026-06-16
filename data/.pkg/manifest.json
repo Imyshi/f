@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.17",
-    "message":  "What\u0027s new: Add Kimmy monster toggle, fix Impact font with embedded Anton font",
-    "changelog":  "Add Kimmy monster toggle, fix Impact font with embedded Anton font",
+    "version":  "2.5.18",
+    "message":  "What\u0027s new: Fix Kimmy aim dependency on UpdateRetribution (works without retri spell), change menu bg to navy transparent",
+    "changelog":  "Fix Kimmy aim dependency on UpdateRetribution (works without retri spell), change menu bg to navy transparent",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C5E7BE544CCB3D05DA9FCEE25B97144BE22AAFCCA8EED6D6F7C317FD2F8C609C",
+    "arm64_sha256":  "EF042AB584162815E4FD7A4673268184DAD7BAA4F70D6AB569C548E27C947880",
     "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6745170AB3AE0B8698838DD9293C1ADDE785216F19FD43E392D894C8C130F164",
+    "armeabi_sha256":  "4855241724BEF7110E7FC362A33244661201B49B17A297C51ADD582042D9315B",
     "armeabi_size":  5510672,
-    "updated_at":  "2026-06-16T08:06:58Z"
+    "updated_at":  "2026-06-16T08:25:00Z"
 }
