@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.26",
-    "message":  "What\u0027s new: fix(menu): remove full-screen backdrop, lower WindowBg alpha to 0.45, correct DrawCosmicBackdrop in-window only",
-    "changelog":  "fix(menu): remove full-screen backdrop, lower WindowBg alpha to 0.45, correct DrawCosmicBackdrop in-window only",
+    "version":  "2.5.27",
+    "message":  "What\u0027s new: fix(menu): remove Alert Icon Size slider (default 32), remove Minimap collapsing header, move Room Off/Team/Enemy/All to New Window",
+    "changelog":  "fix(menu): remove Alert Icon Size slider (default 32), remove Minimap collapsing header, move Room Off/Team/Enemy/All to New Window",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "A19D35840749A12EAC28B626A505BAF8BECD2C551FB349101E50678503E009CE",
+    "arm64_sha256":  "79BC7C4EEB9AA2BEFD472BD11A37D2911A43FD026760797FE1F0249AA8BBC43D",
     "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "EE881AF36DEAF1CFE4EA71AB2198E59D7334161CF0D004C2428EE001148A0817",
-    "armeabi_size":  5510672,
-    "updated_at":  "2026-06-16T11:00:16Z"
+    "armeabi_sha256":  "996A4E2A521C72EE6EE18AF0D54957C9C95943D8BE923715502A26007D0BEAEE",
+    "armeabi_size":  5510668,
+    "updated_at":  "2026-06-16T11:13:33Z"
 }
