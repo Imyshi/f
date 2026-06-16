@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.35",
-    "message":  "What\u0027s new: fix: Yve auto-cast no delay",
-    "changelog":  "fix: Yve auto-cast no delay",
+    "version":  "2.5.36",
+    "message":  "What\u0027s new: feat: Risk Yve \u0026 Safe Yve - spam 10112 for 15s on 10130, stop on 10136 or timeout",
+    "changelog":  "feat: Risk Yve \u0026 Safe Yve - spam 10112 for 15s on 10130, stop on 10136 or timeout",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8C9F83C88E5C7FF0E44630E892F260E723DE702197BF85705C7457D11FAFB9B2",
+    "arm64_sha256":  "7D4C357C0D528E0121E9AC3DC9F5172B0A03E8C861C91FA02278339E66547C9E",
     "arm64_size":  5773464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6982BF8F34EC758DDF3AB415EE74242F6BC1D7225A2A2E434CA6051DBD62EB53",
-    "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T15:10:02Z"
+    "armeabi_sha256":  "9F27FC601457CB8C5D43699E6AC53D53B8F0D30FBCB15BF051905B2FF844F741",
+    "armeabi_size":  5510664,
+    "updated_at":  "2026-06-16T15:51:12Z"
 }
