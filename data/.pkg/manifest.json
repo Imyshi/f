@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.32",
-    "message":  "What\u0027s new: remove all Yve code from aim.h and Menu.h",
-    "changelog":  "remove all Yve code from aim.h and Menu.h",
+    "version":  "2.5.31",
+    "message":  "What\u0027s new: feat: Yve 10136 nearest-enemy auto-aim",
+    "changelog":  "feat: Yve 10136 nearest-enemy auto-aim",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4FEF1423853FB21C13A3D60416DBBFB2FD3C34D9D4BE20B6B5397EC9F0A2443B",
-    "arm64_size":  5773464,
+    "arm64_sha256":  "89BA87B222E52ED8EA62AF6AF0D510ACEB7C10E133FC9865F0DFD5A8A43D920E",
+    "arm64_size":  5789848,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "16F18B2D16FA8C80325E7554B05555B6C66D0F1F98D6A17B6A6CB4C512AED57C",
+    "armeabi_sha256":  "97FA9337020727A476108A1E62B0EE4599AF6EE43DB0BBABEB5543002259E1A7",
     "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T12:33:16Z"
+    "updated_at":  "2026-06-16T12:42:20Z"
 }
