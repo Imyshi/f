@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.5.20",
-    "message":  "What\u0027s new: Clean menu: Player+Monster only, remove Fanny/Gusion/Basic/debug text",
-    "changelog":  "Clean menu: Player+Monster only, remove Fanny/Gusion/Basic/debug text",
+    "version":  "2.5.21",
+    "message":  "What\u0027s new: fix(menu): full-screen cosmic backdrop + Impact font for all text + transparent WindowBg",
+    "changelog":  "fix(menu): full-screen cosmic backdrop + Impact font for all text + transparent WindowBg",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "A6B4C162131949445DCBF9368765890BFD838C8A056F8237C54B8FC9324D69F5",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "BCC72B7B341A9AC9B036978CE6341CE315EC1A117ABE20C84B570269C79C7F62",
     "armeabi_size":  5510672,
-    "updated_at":  "2026-06-16T09:48:53Z"
+    "updated_at":  "2026-06-16T10:06:27Z"
 }
