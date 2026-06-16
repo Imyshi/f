@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.15",
-    "message":  "What\u0027s new: Kimmy: block native attack + auto-fire only + Impact font title",
-    "changelog":  "Kimmy: block native attack + auto-fire only + Impact font title",
+    "version":  "2.5.16",
+    "message":  "What\u0027s new: Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
+    "changelog":  "Refactor aim/kimmy/yve/ling/retri pisah file, hapus Gusion Fanny, aktifkan kembali bypass",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E92EE39FA770DEE957AEBB9FD6811324251B171A07C0A13A0F0D2B0D018EB1D1",
-    "arm64_size":  5719080,
+    "arm64_sha256":  "72E6252BDEFA017829BBEFDA0273F2CE1441EE65C8968835F0BF1A09EC48FDDF",
+    "arm64_size":  4758800,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "1BC9A0219BBD01728D72596B2EC234F0E8793F4AD095154B1ABDB73BA0F0992F",
-    "armeabi_size":  5439896,
-    "updated_at":  "2026-06-16T05:04:30Z"
+    "armeabi_sha256":  "66E81B40B9078664ADD5459CE93051E8BBD067C157E8B53ACF14EA20B940060D",
+    "armeabi_size":  4437636,
+    "updated_at":  "2026-06-16T06:54:48Z"
 }
