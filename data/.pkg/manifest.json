@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.32",
-    "message":  "What\u0027s new: fix: Yve Ult uses Target Lock range/mode from menu",
-    "changelog":  "fix: Yve Ult uses Target Lock range/mode from menu",
+    "version":  "2.5.33",
+    "message":  "What\u0027s new: fix: Yve Ult skill ID 10112 (not 10136)",
+    "changelog":  "fix: Yve Ult skill ID 10112 (not 10136)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "955E01A6176A45CF1F9071CF6C960EC00CFB3C8FAF861B3FB6E7F8AE640D3D9C",
+    "arm64_sha256":  "C287020DD7558C426AF115365141AE407B52D6E59B5BCBCF0516E8EB0E8B3D4A",
     "arm64_size":  5789848,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "1A871C4B941955B6F80B1C4DCD81BA9C92CD850B9BBC22C4056125566156B5A0",
+    "armeabi_sha256":  "FCD39A9A9FD610FEAFFBA9C3C2C9E787FB302CBEE70AFF47D4D98AF789B122D2",
     "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T14:36:44Z"
+    "updated_at":  "2026-06-16T14:40:15Z"
 }
