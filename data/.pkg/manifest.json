@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.31",
-    "message":  "What\u0027s new: feat: Yve 10136 nearest-enemy auto-aim",
-    "changelog":  "feat: Yve 10136 nearest-enemy auto-aim",
+    "version":  "2.5.32",
+    "message":  "What\u0027s new: fix: Yve Ult uses Target Lock range/mode from menu",
+    "changelog":  "fix: Yve Ult uses Target Lock range/mode from menu",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B2453341BB5D8F7B8C9115D5E8512782A2AB54BA17059D6AB075ACBFEEDC480A",
-    "arm64_size":  5773464,
+    "arm64_sha256":  "955E01A6176A45CF1F9071CF6C960EC00CFB3C8FAF861B3FB6E7F8AE640D3D9C",
+    "arm64_size":  5789848,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BE1F337EA74C492EDCBE3B88CB8D37CA395C7BDF87E3E9CE01E0BFC1A94FE53A",
+    "armeabi_sha256":  "1A871C4B941955B6F80B1C4DCD81BA9C92CD850B9BBC22C4056125566156B5A0",
     "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T13:53:06Z"
+    "updated_at":  "2026-06-16T14:36:44Z"
 }
