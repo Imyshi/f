@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.14",
-    "message":  "What\u0027s new: Normal title bar (solid black, taller) + Kimmy Player-only (monster code removed)",
-    "changelog":  "Normal title bar (solid black, taller) + Kimmy Player-only (monster code removed)",
+    "version":  "2.5.15",
+    "message":  "What\u0027s new: Kimmy: block native attack + auto-fire only + Impact font title",
+    "changelog":  "Kimmy: block native attack + auto-fire only + Impact font title",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "76AF532DE5A4C3DB070CE3D68EE3EE3AC42E9D6B6C661197F9B6DF2241E48B0B",
+    "arm64_sha256":  "E92EE39FA770DEE957AEBB9FD6811324251B171A07C0A13A0F0D2B0D018EB1D1",
     "arm64_size":  5719080,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "1B73E1974CD2C6CFA52D51945230EF6051A8CFF65DECB2033922F2357967F960",
+    "armeabi_sha256":  "1BC9A0219BBD01728D72596B2EC234F0E8793F4AD095154B1ABDB73BA0F0992F",
     "armeabi_size":  5439896,
-    "updated_at":  "2026-06-16T01:11:31Z"
+    "updated_at":  "2026-06-16T05:04:30Z"
 }
