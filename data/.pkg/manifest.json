@@ -4,10 +4,10 @@
     "changelog":  "feat: Yve 10136 nearest-enemy auto-aim",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "89BA87B222E52ED8EA62AF6AF0D510ACEB7C10E133FC9865F0DFD5A8A43D920E",
-    "arm64_size":  5789848,
+    "arm64_sha256":  "B2453341BB5D8F7B8C9115D5E8512782A2AB54BA17059D6AB075ACBFEEDC480A",
+    "arm64_size":  5773464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "97FA9337020727A476108A1E62B0EE4599AF6EE43DB0BBABEB5543002259E1A7",
+    "armeabi_sha256":  "BE1F337EA74C492EDCBE3B88CB8D37CA395C7BDF87E3E9CE01E0BFC1A94FE53A",
     "armeabi_size":  5494280,
-    "updated_at":  "2026-06-16T12:42:20Z"
+    "updated_at":  "2026-06-16T13:53:06Z"
 }
