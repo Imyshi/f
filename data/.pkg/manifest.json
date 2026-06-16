@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.34",
-    "message":  "What\u0027s new: feat: Yve auto-cast ult 10112 to nearest enemy",
-    "changelog":  "feat: Yve auto-cast ult 10112 to nearest enemy",
+    "version":  "2.5.35",
+    "message":  "What\u0027s new: fix: Yve auto-cast no delay",
+    "changelog":  "fix: Yve auto-cast no delay",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "1220F3F65A9A0BC3E36A39DB5B1EE3C1B35F45D888FD9F77A912C617FFCBBC52",
-    "arm64_size":  5789848,
+    "arm64_sha256":  "8C9F83C88E5C7FF0E44630E892F260E723DE702197BF85705C7457D11FAFB9B2",
+    "arm64_size":  5773464,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0A62125667095B10BE7F5A32D985B8E7398349F28C545113F49011F99E86D004",
-    "armeabi_size":  5510664,
-    "updated_at":  "2026-06-16T14:55:09Z"
+    "armeabi_sha256":  "6982BF8F34EC758DDF3AB415EE74242F6BC1D7225A2A2E434CA6051DBD62EB53",
+    "armeabi_size":  5494280,
+    "updated_at":  "2026-06-16T15:10:02Z"
 }
