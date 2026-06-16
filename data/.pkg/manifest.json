@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.30",
-    "message":  "What\u0027s new: fix(yve): remove 10130 guard, trigger on any skill cast for testing",
-    "changelog":  "fix(yve): remove 10130 guard, trigger on any skill cast for testing",
+    "version":  "2.5.31",
+    "message":  "What\u0027s new: fix(yve): remove skill trigger requirement, spam 10136 langsung saat checkbox active tanpa perlu cast skill",
+    "changelog":  "fix(yve): remove skill trigger requirement, spam 10136 langsung saat checkbox active tanpa perlu cast skill",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "3F8DDF9E74CDB0DBE9A98D91610C52548991DA506009E342CDBFC3CEB3421E35",
+    "arm64_sha256":  "70391F06DCE105272768F50FE30C00BDEF3A3B770B1D5DED93EE46AFD214EB9C",
     "arm64_size":  5773472,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0C1AB4BC338678769AF358C2F5283559B061359E0641A9687F4856B22E9D31EA",
+    "armeabi_sha256":  "8F8014D8C5D6E6DFC28D8699E98FEE9848D1CD4BF8944AC3AC708F56201A5F06",
     "armeabi_size":  5510668,
-    "updated_at":  "2026-06-16T12:15:04Z"
+    "updated_at":  "2026-06-16T12:20:59Z"
 }
