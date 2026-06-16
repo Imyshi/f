@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.28",
-    "message":  "What\u0027s new: fix(menu): remove Hero/Alert Icon Size sliders (default 32), remove room status text, bigger radio buttons, hide main menu when [New Window] opens",
-    "changelog":  "fix(menu): remove Hero/Alert Icon Size sliders (default 32), remove room status text, bigger radio buttons, hide main menu when [New Window] opens",
+    "version":  "2.5.29",
+    "message":  "What\u0027s new: fix(yve): simplify ult detect 10130 -\u003e pass through + start spam timer, no target scan needed at activation",
+    "changelog":  "fix(yve): simplify ult detect 10130 -\u003e pass through + start spam timer, no target scan needed at activation",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8D76EC66C4727147D3CE64895FE41EBFB6FE8871584A699E8C96C231CE8E9E3F",
+    "arm64_sha256":  "7E47379C53FAA9BF9B732721F1C9636AB88388FFD49D8ED307928082FF84D904",
     "arm64_size":  5789856,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B9C9B0F0389C23F5809421AA5C7D0003C80B4A8CACFC6DB95A840588E0172C54",
+    "armeabi_sha256":  "B2FF6FAE54995970211E07D2504FCE837022B81CEC093DA5518D1FC1E4F7C769",
     "armeabi_size":  5510668,
-    "updated_at":  "2026-06-16T11:32:08Z"
+    "updated_at":  "2026-06-16T12:08:37Z"
 }
