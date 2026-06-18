@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.43",
-    "message":  "What\u0027s new: Remove UnlockHero, remove Telegram send on login, restore Unlock Skin header",
-    "changelog":  "Remove UnlockHero, remove Telegram send on login, restore Unlock Skin header",
+    "version":  "2.5.44",
+    "message":  "What\u0027s new: Comment semua skin code (UnlockSkin.h, toggle, bypass entries)",
+    "changelog":  "Comment semua skin code (UnlockSkin.h, toggle, bypass entries)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F0E638745D25808B93E9FE276EE4E53F46A078D2A490F375E45227D886549C14",
-    "arm64_size":  5838992,
+    "arm64_sha256":  "20307D8A5AC675A76984669259C20B73FFCF8DD38337A4FB1448B65E19F3A48F",
+    "arm64_size":  5773448,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "8270A4D7A8613F5BB2B0B7AC7E94E230D555E09E32846EDD5598C9463DCB38AB",
-    "armeabi_size":  5576200,
-    "updated_at":  "2026-06-18T10:48:21Z"
+    "armeabi_sha256":  "1AD9179B009C8837AA94C5AC409E709D0259EFB6794E814D68C36A7EF89EFF27",
+    "armeabi_size":  5510664,
+    "updated_at":  "2026-06-18T10:56:33Z"
 }
