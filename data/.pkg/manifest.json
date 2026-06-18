@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.41",
-    "message":  "What\u0027s new: Fix FullSight hook target, fix IsLimitActiveHero \u0026 GetStarSkinRank types, fix checkbox ID collision",
-    "changelog":  "Fix FullSight hook target, fix IsLimitActiveHero \u0026 GetStarSkinRank types, fix checkbox ID collision",
+    "version":  "2.5.42",
+    "message":  "What\u0027s new: Create UnlockHero.h, rename header to Unlock Limits, remove dead bypass entries",
+    "changelog":  "Create UnlockHero.h, rename header to Unlock Limits, remove dead bypass entries",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "9066C7FDC4028F47BE228C0A02EB8161E68C61CE82D7FC6442F452A99891D910",
+    "arm64_sha256":  "5C30D14F6E9BE8293A7FAC6B1D11A755108CC66D7973B10DDE0DCE8881D568F7",
     "arm64_size":  5838992,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "04E58BE90DD8CBC359A50059D0455E44B259FE6CC90C03C99A04502BD724E3E1",
-    "armeabi_size":  5576200,
-    "updated_at":  "2026-06-18T08:04:14Z"
+    "armeabi_sha256":  "E5D6C9BAA71C4471955F09C4198F5BD043E68DD81B5DFDAE3212EDD614440619",
+    "armeabi_size":  5592584,
+    "updated_at":  "2026-06-18T10:35:43Z"
 }
