@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.5.38",
-    "message":  "What\u0027s new: fix: swap RiskYve=spam langsung, SafeYve=tunggu 10130",
-    "changelog":  "fix: swap RiskYve=spam langsung, SafeYve=tunggu 10130",
+    "version":  "2.5.39",
+    "message":  "What\u0027s new: fix: correct UnlockSkin hook signatures (IsForbidSkin param, static method remove extra unk, CmdHeroSkin struct)",
+    "changelog":  "fix: correct UnlockSkin hook signatures (IsForbidSkin param, static method remove extra unk, CmdHeroSkin struct)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "B66F7BE2BF547620B9B77FB19E24CEDF3D2D785B27A8756C9DAA65BA895A276C",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "2E8901FC657FD5289B1E52A8F0581C2E0C5A63D56840E95CBDB5CBAF3DDB92A1",
     "armeabi_size":  5510664,
-    "updated_at":  "2026-06-16T16:13:41Z"
+    "updated_at":  "2026-06-18T04:42:50Z"
 }
