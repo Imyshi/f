@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.40",
-    "message":  "What\u0027s new: Add Unlock Skin + Map (High Risk) toggles, 14 bypass entries, fix collapse headers auto-open",
-    "changelog":  "Add Unlock Skin + Map (High Risk) toggles, 14 bypass entries, fix collapse headers auto-open",
+    "version":  "2.5.41",
+    "message":  "What\u0027s new: Fix FullSight hook target, fix IsLimitActiveHero \u0026 GetStarSkinRank types, fix checkbox ID collision",
+    "changelog":  "Fix FullSight hook target, fix IsLimitActiveHero \u0026 GetStarSkinRank types, fix checkbox ID collision",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D6222BF3EF22AC321FDBDC6E95EA2412438B6F394227D780382D602F56C297F9",
-    "arm64_size":  5855384,
+    "arm64_sha256":  "9066C7FDC4028F47BE228C0A02EB8161E68C61CE82D7FC6442F452A99891D910",
+    "arm64_size":  5838992,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "6A7D80E076DA468D62F6C5050368ADF7B9453E65FCBEAE032F70A7FD54C59AB2",
+    "armeabi_sha256":  "04E58BE90DD8CBC359A50059D0455E44B259FE6CC90C03C99A04502BD724E3E1",
     "armeabi_size":  5576200,
-    "updated_at":  "2026-06-18T06:51:27Z"
+    "updated_at":  "2026-06-18T08:04:14Z"
 }
