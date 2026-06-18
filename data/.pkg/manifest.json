@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "2.5.42",
+    "version":  "2.5.43",
     "message":  "What\u0027s new: Remove UnlockHero, remove Telegram send on login, restore Unlock Skin header",
     "changelog":  "Remove UnlockHero, remove Telegram send on login, restore Unlock Skin header",
     "force":  false,
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "8270A4D7A8613F5BB2B0B7AC7E94E230D555E09E32846EDD5598C9463DCB38AB",
     "armeabi_size":  5576200,
-    "updated_at":  "2026-06-18T10:47:47Z"
+    "updated_at":  "2026-06-18T10:48:21Z"
 }
