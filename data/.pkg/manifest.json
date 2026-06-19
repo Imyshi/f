@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.68",
-    "message":  "What\u0027s new: Add RankHeroMgr RoadBanPickInfo vBanList/vSecondBanList as ban source fallback",
-    "changelog":  "Add RankHeroMgr RoadBanPickInfo vBanList/vSecondBanList as ban source fallback",
+    "version":  "2.5.69",
+    "message":  "What\u0027s new: Fix crash by guarding null method offset for RankHeroMgr.get_Instance()",
+    "changelog":  "Fix crash by guarding null method offset for RankHeroMgr.get_Instance()",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "29FF329B3BFDD76958252DEF5D43B46EC1AE1A3F0D760E591CAF1C927C8B785E",
+    "arm64_sha256":  "0FC3D0D3501EB89957917E7901080EE8C36542D633EAAA12AA61082A516F93F5",
     "arm64_size":  5806208,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "DAE3925DF5F79134C2BAF84B44FAD5B41028DE5B91A8E7B6E6A0A2B8C9DE868F",
+    "armeabi_sha256":  "9151A1FF5345C32C4E3E98C3C6FE5BEBDA79931825103D259D5AF2AC5C842991",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T12:26:13Z"
+    "updated_at":  "2026-06-19T13:09:34Z"
 }
