@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.51",
-    "message":  "What\u0027s new: Hapus table dari ROOM tab, hanya muncul di floating window",
-    "changelog":  "Hapus table dari ROOM tab, hanya muncul di floating window",
+    "version":  "2.5.52",
+    "message":  "What\u0027s new: Filter dump all .so cuma dari /data/, [New Window] naik 4px, table ilang dari ROOM tab",
+    "changelog":  "Filter dump all .so cuma dari /data/, [New Window] naik 4px, table ilang dari ROOM tab",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F1D9BABFF76628EAB347756CC21A57E1323AD5C776DA4BBDF62BC3BE75A7B4E2",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "E0F427E399E8ED0B5CD4343ED1EF5BB6937BC79A90501B689C18CDDC6B586785",
+    "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "549356BBB3B29DDB5FAB9B784D78C45559B8DA2EF22D4EFBD0626A3C950AEABC",
+    "armeabi_sha256":  "8F17E1E4C00D9F7C9BCD3309D449FDF726B7F583BA6C122C2B85A40E143312C0",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:12:10Z"
+    "updated_at":  "2026-06-19T07:18:04Z"
 }
