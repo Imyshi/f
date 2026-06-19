@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.48",
-    "message":  "What\u0027s new: Fix Yve keluar kotak ulti: dirDefault=true, bAlong=false, rate limit 100ms",
-    "changelog":  "Fix Yve keluar kotak ulti: dirDefault=true, bAlong=false, rate limit 100ms",
+    "version":  "2.5.49",
+    "message":  "What\u0027s new: Revert Yve ke kode asli, font GoogleSans 22f + spacing 1.5px, Impact 28f",
+    "changelog":  "Revert Yve ke kode asli, font GoogleSans 22f + spacing 1.5px, Impact 28f",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "8D2554D238B07AE4A7DFE2BC817DEB99EEFC74C9584BAD10D4F00ED825E4DC32",
-    "arm64_size":  5789832,
+    "arm64_sha256":  "667904198E609A0BC6022BED53462438B1FE4B9C23A185163446BC01CD09D0CF",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "1810169872A0BA619D6BE9BA6EB536968E02DF8A1B223C9AA21D824D81199B82",
+    "armeabi_sha256":  "0153D79E4115849D8D71A9099B98755DE51C2C4FEB791115A8478CB1162939AB",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T06:47:28Z"
+    "updated_at":  "2026-06-19T06:57:03Z"
 }
