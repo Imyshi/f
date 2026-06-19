@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.64",
-    "message":  "What\u0027s new: feat(room): implement WinRate reading from vCurSeasonRealRoadInfo, add WR column to room table",
-    "changelog":  "feat(room): implement WinRate reading from vCurSeasonRealRoadInfo, add WR column to room table",
+    "version":  "2.5.65",
+    "message":  "What\u0027s new: feat(room): add vForbidBanCommander ban list reading, fallback display for Ban column",
+    "changelog":  "feat(room): add vForbidBanCommander ban list reading, fallback display for Ban column",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "21321466D4494311F0367473D472E6469857D513CF0952BABAC06FAB19C50D74",
-    "arm64_size":  5789824,
+    "arm64_sha256":  "DEB43F8CBFE7CE8676B768F81A5B584CF7CF440402D3F9D568FB30E8F1993115",
+    "arm64_size":  5806208,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D8A6FA185AAC4E4F132B92110BB0B92FB20D66F84157ACA058429887D238E896",
+    "armeabi_sha256":  "805494E9754BE607E28F2E55CECDC910341A45CE64EFF0B8F3DD26A83206E94A",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T10:11:10Z"
+    "updated_at":  "2026-06-19T10:36:49Z"
 }
