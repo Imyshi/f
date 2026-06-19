@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.54",
-    "message":  "What\u0027s new: M Health warna match player, HP Vertical ke kiri + ukuran sama, Spell warna putih, teks HP putih",
-    "changelog":  "M Health warna match player, HP Vertical ke kiri + ukuran sama, Spell warna putih, teks HP putih",
+    "version":  "2.5.55",
+    "message":  "What\u0027s new: HP Vertical warna solid match Health bar",
+    "changelog":  "HP Vertical warna solid match Health bar",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "82ECCD9459AE3011E8DCF7DF606B2BE190AC1713CAAFAD6281E5828B7856B2B4",
+    "arm64_sha256":  "1586D382FEB059605EB1304ACA5CC9E2834265F236AB87EF3755B03C0075260E",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "78AE5F1090DC980F21CC11871171580E3231614082E6741E97BCE33229EBCA85",
+    "armeabi_sha256":  "FF4BA079139B362D5FF38A52F827B0FD1EACA36214F8FE543620EEAB8B8CBE6D",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:46:35Z"
+    "updated_at":  "2026-06-19T07:53:28Z"
 }
