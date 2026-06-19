@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.50",
-    "message":  "What\u0027s new: Revert font size ke 18f/24f, tambah GlyphExtraSpacing 1.5px, revert Yve ke kode asli",
-    "changelog":  "Revert font size ke 18f/24f, tambah GlyphExtraSpacing 1.5px, revert Yve ke kode asli",
+    "version":  "2.5.51",
+    "message":  "What\u0027s new: Hapus table dari ROOM tab, hanya muncul di floating window",
+    "changelog":  "Hapus table dari ROOM tab, hanya muncul di floating window",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F2BBCB7BAC0527CA858340E4C0E7C3AC8504C5FFACD9EE5218D892A3F38CA6A1",
+    "arm64_sha256":  "F1D9BABFF76628EAB347756CC21A57E1323AD5C776DA4BBDF62BC3BE75A7B4E2",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "2601D263FC7F3BB15D0D388F06EDCAE4C8D014D9FC660F45A87EE14F6EE13C99",
+    "armeabi_sha256":  "549356BBB3B29DDB5FAB9B784D78C45559B8DA2EF22D4EFBD0626A3C950AEABC",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:00:56Z"
+    "updated_at":  "2026-06-19T07:12:10Z"
 }
