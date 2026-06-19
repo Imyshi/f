@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.52",
-    "message":  "What\u0027s new: Filter dump all .so cuma dari /data/, [New Window] naik 4px, table ilang dari ROOM tab",
-    "changelog":  "Filter dump all .so cuma dari /data/, [New Window] naik 4px, table ilang dari ROOM tab",
+    "version":  "2.5.53",
+    "message":  "What\u0027s new: ESP monochrome, Round bulat kecil putih, Health/Name fix, Cooldown tanpa cache",
+    "changelog":  "ESP monochrome, Round bulat kecil putih, Health/Name fix, Cooldown tanpa cache",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E0F427E399E8ED0B5CD4343ED1EF5BB6937BC79A90501B689C18CDDC6B586785",
+    "arm64_sha256":  "F9A5FF447CD7D5BAC12207E0DFA5E391BB048815E320A4C77C905DAB85E39BFD",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "8F17E1E4C00D9F7C9BCD3309D449FDF726B7F583BA6C122C2B85A40E143312C0",
+    "armeabi_sha256":  "AF1BFFCF800CF27BECF2A9FDE4658E953E7177BF7E2F0871B464243B5A1AA04A",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:18:04Z"
+    "updated_at":  "2026-06-19T07:33:50Z"
 }
