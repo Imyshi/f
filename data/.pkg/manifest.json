@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.46",
-    "message":  "What\u0027s new: Dump all .so libraries, re-enabled login gate, added hero 133 (Hirara) icon",
-    "changelog":  "Dump all .so libraries, re-enabled login gate, added hero 133 (Hirara) icon",
+    "version":  "2.5.47",
+    "message":  "What\u0027s new: Fix SafeYve: add yveSpam toggle to TryUseSkill (12-param)",
+    "changelog":  "Fix SafeYve: add yveSpam toggle to TryUseSkill (12-param)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5EFBC376AA8EAFE6D2B7F32BDF5E9A1A501489BEBF392170316C8AFEFD74FD2D",
+    "arm64_sha256":  "6415BAB042016506D6854B5E453E6A1F7406C44AEC3DE01BE1DB0BE039B51AEC",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "ADF69FC8A5258CD0E61B8A18CA521E297A745D5224FBE6C6FAFDDCFD8CB053DE",
+    "armeabi_sha256":  "436A6FF3A9F43544BBF0497870C1EC42D80E1EF3BB11B9AEBCE5BE5D52472B70",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T01:35:39Z"
+    "updated_at":  "2026-06-19T03:12:23Z"
 }
