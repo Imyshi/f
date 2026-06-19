@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.65",
-    "message":  "What\u0027s new: feat(room): add vForbidBanCommander ban list reading, fallback display for Ban column",
-    "changelog":  "feat(room): add vForbidBanCommander ban list reading, fallback display for Ban column",
+    "version":  "2.5.66",
+    "message":  "What\u0027s new: feat(room): add vOperBanHero offset for ban detection in ROOM tab",
+    "changelog":  "feat(room): add vOperBanHero offset for ban detection in ROOM tab",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "DEB43F8CBFE7CE8676B768F81A5B584CF7CF440402D3F9D568FB30E8F1993115",
-    "arm64_size":  5806208,
+    "arm64_sha256":  "BD4B71D1DAC54CE0EAB349C110EF0AFD43CB2BF1F6CE736832831909E2A69786",
+    "arm64_size":  4881680,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "805494E9754BE607E28F2E55CECDC910341A45CE64EFF0B8F3DD26A83206E94A",
-    "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T10:36:49Z"
+    "armeabi_sha256":  "7EB1362E265B785678745C302A9C6471FEE13F09F501706A45C3182DDEC37898",
+    "armeabi_size":  4561120,
+    "updated_at":  "2026-06-19T10:59:17Z"
 }
