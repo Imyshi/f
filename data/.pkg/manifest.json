@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.45",
-    "message":  "What\u0027s new: Hapus FullSight, skip login gate, comment semua skin code",
-    "changelog":  "Hapus FullSight, skip login gate, comment semua skin code",
+    "version":  "2.5.46",
+    "message":  "What\u0027s new: Dump all .so libraries, re-enabled login gate, added hero 133 (Hirara) icon",
+    "changelog":  "Dump all .so libraries, re-enabled login gate, added hero 133 (Hirara) icon",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B120F7CE8E3830D80BE4DF71475F929139A483B3240EEDB87227A83AB16D904F",
-    "arm64_size":  5773448,
+    "arm64_sha256":  "5EFBC376AA8EAFE6D2B7F32BDF5E9A1A501489BEBF392170316C8AFEFD74FD2D",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "987F3F095AA784B67976B7A52F878774C42730DC65C740324D84AD8E3601F0D8",
-    "armeabi_size":  5494280,
-    "updated_at":  "2026-06-18T12:09:08Z"
+    "armeabi_sha256":  "ADF69FC8A5258CD0E61B8A18CA521E297A745D5224FBE6C6FAFDDCFD8CB053DE",
+    "armeabi_size":  5527048,
+    "updated_at":  "2026-06-19T01:35:39Z"
 }
