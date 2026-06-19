@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.49",
-    "message":  "What\u0027s new: Revert Yve ke kode asli, font GoogleSans 22f + spacing 1.5px, Impact 28f",
-    "changelog":  "Revert Yve ke kode asli, font GoogleSans 22f + spacing 1.5px, Impact 28f",
+    "version":  "2.5.50",
+    "message":  "What\u0027s new: Revert font size ke 18f/24f, tambah GlyphExtraSpacing 1.5px, revert Yve ke kode asli",
+    "changelog":  "Revert font size ke 18f/24f, tambah GlyphExtraSpacing 1.5px, revert Yve ke kode asli",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "667904198E609A0BC6022BED53462438B1FE4B9C23A185163446BC01CD09D0CF",
+    "arm64_sha256":  "F2BBCB7BAC0527CA858340E4C0E7C3AC8504C5FFACD9EE5218D892A3F38CA6A1",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0153D79E4115849D8D71A9099B98755DE51C2C4FEB791115A8478CB1162939AB",
+    "armeabi_sha256":  "2601D263FC7F3BB15D0D388F06EDCAE4C8D014D9FC660F45A87EE14F6EE13C99",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T06:57:03Z"
+    "updated_at":  "2026-06-19T07:00:56Z"
 }
