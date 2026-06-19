@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.61",
-    "message":  "What\u0027s new: Revert TouchSystem/JNIStuff, tambah Paste button di MINIMAP",
-    "changelog":  "Revert TouchSystem/JNIStuff, tambah Paste button di MINIMAP",
+    "version":  "2.5.62",
+    "message":  "What\u0027s new: feat(minimap): separate Paste buttons for Map Position X and Map Size",
+    "changelog":  "feat(minimap): separate Paste buttons for Map Position X and Map Size",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F17CCF99EEA5DBA2D9B2BBDBE82811444531B3A7B813CA8033B198417309550F",
+    "arm64_sha256":  "E893FFD60606E7E4215E131135EF41659BF4D4D0DEA9DBAD35880D0BEE971172",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "9F1739189B21C33CA593DDF803DE73FB1FAD5E88A59A15AE0905EB0C8CB8F208",
+    "armeabi_sha256":  "E24EA8AD584CC3165AA1279943A8CC9EBC814ABA482036B54785C1DD56C524AC",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T09:16:05Z"
+    "updated_at":  "2026-06-19T09:36:42Z"
 }
