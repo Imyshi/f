@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.56",
-    "message":  "What\u0027s new: Skill ID Debugger: tambah Damage Retribution display",
-    "changelog":  "Skill ID Debugger: tambah Damage Retribution display",
+    "version":  "2.5.57",
+    "message":  "What\u0027s new: Retri debug update tiap frame tanpa perlu toggle aktif",
+    "changelog":  "Retri debug update tiap frame tanpa perlu toggle aktif",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4F0F3F293D67F462748679876390B39E28F4072A1B304E99DDCFC60A68F99E6E",
-    "arm64_size":  5789832,
+    "arm64_sha256":  "4FAF5F61EE41404B7E27E1B6C5A1DCC9AA8C36035CD50975B9390BB47C8ECD11",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "114A3F83F8D7B9CD4EA62BE12DD312D963DBD1E4CB945CA696B426BF46482C0C",
+    "armeabi_sha256":  "9C0C8C637E1C74C45CC74362DDEFCCFC23A5379A425AF6B552F452D236813103",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T08:04:29Z"
+    "updated_at":  "2026-06-19T08:42:12Z"
 }
