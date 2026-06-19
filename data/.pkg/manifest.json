@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.60",
-    "message":  "What\u0027s new: Keyboard muncul otomatis pas klik input field (login + minimap slider)",
-    "changelog":  "Keyboard muncul otomatis pas klik input field (login + minimap slider)",
+    "version":  "2.5.61",
+    "message":  "What\u0027s new: Revert TouchSystem/JNIStuff, tambah Paste button di MINIMAP",
+    "changelog":  "Revert TouchSystem/JNIStuff, tambah Paste button di MINIMAP",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "5A2D1BB151F6246F4C2400CB48C26B4D3373C5D613AC583C4DBA53D3B4D79AB5",
+    "arm64_sha256":  "F17CCF99EEA5DBA2D9B2BBDBE82811444531B3A7B813CA8033B198417309550F",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "CCA025EDAA6C42369F88DF3773DFB799228BFFF79BDD0AF17336A18D87E7F900",
+    "armeabi_sha256":  "9F1739189B21C33CA593DDF803DE73FB1FAD5E88A59A15AE0905EB0C8CB8F208",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T09:07:32Z"
+    "updated_at":  "2026-06-19T09:16:05Z"
 }
