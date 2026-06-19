@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.53",
-    "message":  "What\u0027s new: ESP monochrome, Round bulat kecil putih, Health/Name fix, Cooldown tanpa cache",
-    "changelog":  "ESP monochrome, Round bulat kecil putih, Health/Name fix, Cooldown tanpa cache",
+    "version":  "2.5.54",
+    "message":  "What\u0027s new: M Health warna match player, HP Vertical ke kiri + ukuran sama, Spell warna putih, teks HP putih",
+    "changelog":  "M Health warna match player, HP Vertical ke kiri + ukuran sama, Spell warna putih, teks HP putih",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "F9A5FF447CD7D5BAC12207E0DFA5E391BB048815E320A4C77C905DAB85E39BFD",
+    "arm64_sha256":  "82ECCD9459AE3011E8DCF7DF606B2BE190AC1713CAAFAD6281E5828B7856B2B4",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "AF1BFFCF800CF27BECF2A9FDE4658E953E7177BF7E2F0871B464243B5A1AA04A",
+    "armeabi_sha256":  "78AE5F1090DC980F21CC11871171580E3231614082E6741E97BCE33229EBCA85",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:33:50Z"
+    "updated_at":  "2026-06-19T07:46:35Z"
 }
