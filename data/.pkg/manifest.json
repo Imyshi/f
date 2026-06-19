@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.70",
-    "message":  "What\u0027s new: Fix crash by using static field access (no method call) for RankHeroMgr ban source",
-    "changelog":  "Fix crash by using static field access (no method call) for RankHeroMgr ban source",
+    "version":  "2.5.71",
+    "message":  "What\u0027s new: Add ChooseHeroMgr.reportOnselectForbHeroList as ban source",
+    "changelog":  "Add ChooseHeroMgr.reportOnselectForbHeroList as ban source",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C51F8F5DF0B599B8ABD710AD7545753CE802693D3BA8B89469D25B82783C091B",
+    "arm64_sha256":  "E64D72A5ED7C9692FA59EC6A7708205B42D59069F3300A8922AA5D283F52CD53",
     "arm64_size":  5806208,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BFA037111F0190E0F5F3659B716F5E68DA54EA45E745336FFC0ACD9316DF619B",
+    "armeabi_sha256":  "C2F0A7201B96ED7AFD7294AFEFC9F01F7A0C9EAC991520E34FD6E558F7C1AEF9",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T13:30:32Z"
+    "updated_at":  "2026-06-19T14:42:58Z"
 }
