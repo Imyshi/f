@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.55",
-    "message":  "What\u0027s new: HP Vertical warna solid match Health bar",
-    "changelog":  "HP Vertical warna solid match Health bar",
+    "version":  "2.5.56",
+    "message":  "What\u0027s new: Skill ID Debugger: tambah Damage Retribution display",
+    "changelog":  "Skill ID Debugger: tambah Damage Retribution display",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "1586D382FEB059605EB1304ACA5CC9E2834265F236AB87EF3755B03C0075260E",
+    "arm64_sha256":  "4F0F3F293D67F462748679876390B39E28F4072A1B304E99DDCFC60A68F99E6E",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "FF4BA079139B362D5FF38A52F827B0FD1EACA36214F8FE543620EEAB8B8CBE6D",
+    "armeabi_sha256":  "114A3F83F8D7B9CD4EA62BE12DD312D963DBD1E4CB945CA696B426BF46482C0C",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T07:53:28Z"
+    "updated_at":  "2026-06-19T08:04:29Z"
 }
