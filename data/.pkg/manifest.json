@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.63",
-    "message":  "What\u0027s new: fix(minimap): remove Paste buttons, update defaults 74/229/25/2; feat(room): Hide Window sets Off; fix(menu): taller login window 250px; remove collapse header state from save",
-    "changelog":  "fix(minimap): remove Paste buttons, update defaults 74/229/25/2; feat(room): Hide Window sets Off; fix(menu): taller login window 250px; remove collapse header state from save",
+    "version":  "2.5.64",
+    "message":  "What\u0027s new: feat(room): implement WinRate reading from vCurSeasonRealRoadInfo, add WR column to room table",
+    "changelog":  "feat(room): implement WinRate reading from vCurSeasonRealRoadInfo, add WR column to room table",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "CBC10E51B3F7CF418819EDC6FF73DC98C65DC326F6D0899E1B18001BA3116F96",
+    "arm64_sha256":  "21321466D4494311F0367473D472E6469857D513CF0952BABAC06FAB19C50D74",
     "arm64_size":  5789824,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3C07E23BA44AE298AB3CF088463304DACE92F15946B2A6BDE8E41EA757A68EBC",
+    "armeabi_sha256":  "D8A6FA185AAC4E4F132B92110BB0B92FB20D66F84157ACA058429887D238E896",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T09:53:34Z"
+    "updated_at":  "2026-06-19T10:11:10Z"
 }
