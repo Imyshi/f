@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.47",
-    "message":  "What\u0027s new: Fix SafeYve: add yveSpam toggle to TryUseSkill (12-param)",
-    "changelog":  "Fix SafeYve: add yveSpam toggle to TryUseSkill (12-param)",
+    "version":  "2.5.48",
+    "message":  "What\u0027s new: Fix Yve keluar kotak ulti: dirDefault=true, bAlong=false, rate limit 100ms",
+    "changelog":  "Fix Yve keluar kotak ulti: dirDefault=true, bAlong=false, rate limit 100ms",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "6415BAB042016506D6854B5E453E6A1F7406C44AEC3DE01BE1DB0BE039B51AEC",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "8D2554D238B07AE4A7DFE2BC817DEB99EEFC74C9584BAD10D4F00ED825E4DC32",
+    "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "436A6FF3A9F43544BBF0497870C1EC42D80E1EF3BB11B9AEBCE5BE5D52472B70",
+    "armeabi_sha256":  "1810169872A0BA619D6BE9BA6EB536968E02DF8A1B223C9AA21D824D81199B82",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T03:12:23Z"
+    "updated_at":  "2026-06-19T06:47:28Z"
 }
