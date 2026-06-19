@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.59",
-    "message":  "What\u0027s new: Hapus Retri Level debug, HP check jadi 0, minimap input keyboard, login focus keyboard",
-    "changelog":  "Hapus Retri Level debug, HP check jadi 0, minimap input keyboard, login focus keyboard",
+    "version":  "2.5.60",
+    "message":  "What\u0027s new: Keyboard muncul otomatis pas klik input field (login + minimap slider)",
+    "changelog":  "Keyboard muncul otomatis pas klik input field (login + minimap slider)",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "9F35476F8DCCB3E45865696719C18C6147056380947A5DEC04326A8A709CA266",
+    "arm64_sha256":  "5A2D1BB151F6246F4C2400CB48C26B4D3373C5D613AC583C4DBA53D3B4D79AB5",
     "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B799B983365BDBB659A4B692238581F9325A2C24BDE36995E23CE4BF6BD34E43",
+    "armeabi_sha256":  "CCA025EDAA6C42369F88DF3773DFB799228BFFF79BDD0AF17336A18D87E7F900",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T08:59:27Z"
+    "updated_at":  "2026-06-19T09:07:32Z"
 }
