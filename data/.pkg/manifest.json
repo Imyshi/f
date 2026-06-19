@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.57",
-    "message":  "What\u0027s new: Retri debug update tiap frame tanpa perlu toggle aktif",
-    "changelog":  "Retri debug update tiap frame tanpa perlu toggle aktif",
+    "version":  "2.5.58",
+    "message":  "What\u0027s new: Retri damage formula update Patch 2.1.88: 750+150*level",
+    "changelog":  "Retri damage formula update Patch 2.1.88: 750+150*level",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4FAF5F61EE41404B7E27E1B6C5A1DCC9AA8C36035CD50975B9390BB47C8ECD11",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "F192251C90D247B0D30EE9C2CF8A421A93A69C170074E1681A8A3CAD6890F016",
+    "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "9C0C8C637E1C74C45CC74362DDEFCCFC23A5379A425AF6B552F452D236813103",
+    "armeabi_sha256":  "E9C8E93DC7C2078A4537F1746BE9278393B107F821B6029B61B97F7EC691C26B",
     "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T08:42:12Z"
+    "updated_at":  "2026-06-19T08:46:19Z"
 }
