@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.66",
-    "message":  "What\u0027s new: feat(room): add vOperBanHero offset for ban detection in ROOM tab",
-    "changelog":  "feat(room): add vOperBanHero offset for ban detection in ROOM tab",
+    "version":  "2.5.67",
+    "message":  "What\u0027s new: Add ban list vOperBanHero/vForbidBanCommander fallback reading with BanCount/BannedHeroes display",
+    "changelog":  "Add ban list vOperBanHero/vForbidBanCommander fallback reading with BanCount/BannedHeroes display",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "BD4B71D1DAC54CE0EAB349C110EF0AFD43CB2BF1F6CE736832831909E2A69786",
-    "arm64_size":  4881680,
+    "arm64_sha256":  "B934D99188CBDB1D8D6ACB99B3C113E5330D3AC410E690E3C4E8ACE5E6065982",
+    "arm64_size":  4521424,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "7EB1362E265B785678745C302A9C6471FEE13F09F501706A45C3182DDEC37898",
-    "armeabi_size":  4561120,
-    "updated_at":  "2026-06-19T10:59:17Z"
+    "armeabi_sha256":  "52017FC495D64B52A2C7C3D42CFA38E5DB74CD7F2C68F85C2EA537A9B16625B0",
+    "armeabi_size":  4177312,
+    "updated_at":  "2026-06-19T11:54:39Z"
 }
