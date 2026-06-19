@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.62",
-    "message":  "What\u0027s new: feat(minimap): separate Paste buttons for Map Position X and Map Size",
-    "changelog":  "feat(minimap): separate Paste buttons for Map Position X and Map Size",
+    "version":  "2.5.63",
+    "message":  "What\u0027s new: fix(minimap): remove Paste buttons, update defaults 74/229/25/2; feat(room): Hide Window sets Off; fix(menu): taller login window 250px; remove collapse header state from save",
+    "changelog":  "fix(minimap): remove Paste buttons, update defaults 74/229/25/2; feat(room): Hide Window sets Off; fix(menu): taller login window 250px; remove collapse header state from save",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E893FFD60606E7E4215E131135EF41659BF4D4D0DEA9DBAD35880D0BEE971172",
-    "arm64_size":  5789832,
+    "arm64_sha256":  "CBC10E51B3F7CF418819EDC6FF73DC98C65DC326F6D0899E1B18001BA3116F96",
+    "arm64_size":  5789824,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "E24EA8AD584CC3165AA1279943A8CC9EBC814ABA482036B54785C1DD56C524AC",
-    "armeabi_size":  5527048,
-    "updated_at":  "2026-06-19T09:36:42Z"
+    "armeabi_sha256":  "3C07E23BA44AE298AB3CF088463304DACE92F15946B2A6BDE8E41EA757A68EBC",
+    "armeabi_size":  5527044,
+    "updated_at":  "2026-06-19T09:53:34Z"
 }
