@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.87",
-    "message":  "What\u0027s new: Retri toggle draggable and always visible, back to 3-finger hold, Safe Yve now filters by ult area range from config",
-    "changelog":  "Retri toggle draggable and always visible, back to 3-finger hold, Safe Yve now filters by ult area range from config",
+    "version":  "2.5.88",
+    "message":  "What\u0027s new: 4-finger hold menu toggle, Safe Yve fallback range 9.0, Retri toggle draggable via body and moved to mid-left",
+    "changelog":  "4-finger hold menu toggle, Safe Yve fallback range 9.0, Retri toggle draggable via body and moved to mid-left",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "351504CB8DBC13641BBA719371F91EC7214D0FF618EC8B75397B4DA4669974E6",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "3736646E0A5DF53CBF138AB12B3139412C9EE981386D7D395BD0A6C0FEF1568B",
+    "arm64_size":  5822600,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "66B6891053C838D3F1454654C969327BFB386D1BD3CC443C5F73AC11B438223E",
+    "armeabi_sha256":  "BB27C4083CCE0BC6E1D8EC788985827FDCD4C6F2090B8F321129FE82473955F1",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T18:14:15Z"
+    "updated_at":  "2026-06-20T18:30:15Z"
 }
