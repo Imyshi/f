@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.84",
-    "message":  "What\u0027s new: Add retribution on/off toggle, shows when any retri target is active",
-    "changelog":  "Add retribution on/off toggle, shows when any retri target is active",
+    "version":  "2.5.85",
+    "message":  "What\u0027s new: Retri toggle as separate floating window, default off, shows when target active. Main menu hide now needs 3-finger hold 2.5s",
+    "changelog":  "Retri toggle as separate floating window, default off, shows when target active. Main menu hide now needs 3-finger hold 2.5s",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "04ADFC4C91EBA4C2944651683DAF5552862EB4AB9891F4E39192F4816EF376A4",
+    "arm64_sha256":  "C52BD37E399BE23A661E23320D872979D4735BC914EE046788295C7C6FCE0D1E",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F5B6A930D17BD1000A6B580AB88EC01B2F60A74F09C5D74425D778183C193CA3",
+    "armeabi_sha256":  "BACA35C43D5EDB469FA44BBE0A4B96558E9B6E832ADF62748D28D4015D244997",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T14:21:32Z"
+    "updated_at":  "2026-06-20T14:52:43Z"
 }
