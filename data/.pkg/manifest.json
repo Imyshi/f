@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.71",
-    "message":  "What\u0027s new: Add ChooseHeroMgr.reportOnselectForbHeroList as ban source",
-    "changelog":  "Add ChooseHeroMgr.reportOnselectForbHeroList as ban source",
+    "version":  "2.5.72",
+    "message":  "What\u0027s new: Add BattleNetData.m_iBanHeroCount as ban fallback source",
+    "changelog":  "Add BattleNetData.m_iBanHeroCount as ban fallback source",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "E64D72A5ED7C9692FA59EC6A7708205B42D59069F3300A8922AA5D283F52CD53",
+    "arm64_sha256":  "C8C0D6865ECECB746D492C6F18C9F572FFFC146769B6BFADF6AB970D8768950C",
     "arm64_size":  5806208,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "C2F0A7201B96ED7AFD7294AFEFC9F01F7A0C9EAC991520E34FD6E558F7C1AEF9",
+    "armeabi_sha256":  "44E4872FB709944EA7EF16BCE452EC78A64636DF63CD36C8699F33FE5894BEC8",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-19T14:42:58Z"
+    "updated_at":  "2026-06-20T00:24:33Z"
 }
