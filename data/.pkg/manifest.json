@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.75",
-    "message":  "What\u0027s new: Add per-offset ban debug display in Skill ID Debugger",
-    "changelog":  "Add per-offset ban debug display in Skill ID Debugger",
+    "version":  "2.5.76",
+    "message":  "What\u0027s new: Call RoomInfoList every 2s regardless of active tab for ban debug",
+    "changelog":  "Call RoomInfoList every 2s regardless of active tab for ban debug",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "BF345AC78B73FD65E6684B829367665104F8D5B92232EF6F6829C35C31835F56",
+    "arm64_sha256":  "67C4BAE54019520664342E69E7A2C4D436BCA15D6FD9B1D725CD476D24148743",
     "arm64_size":  5806224,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "60F2C922BB748355E8772680CB8BF81F8FE98DFBD9738F3A51205D26CA43EA44",
+    "armeabi_sha256":  "3DD75EAB632E1D5382BF3EAC501EFF769C5243895CB90F736AD46B3BC98F1F54",
     "armeabi_size":  5527060,
-    "updated_at":  "2026-06-20T01:57:11Z"
+    "updated_at":  "2026-06-20T04:14:06Z"
 }
