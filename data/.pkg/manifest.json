@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.78",
-    "message":  "What\u0027s new: fix room win rate now reads from vCurSeasonRealRoadInfo instead of hardcoded 0",
-    "changelog":  "fix room win rate now reads from vCurSeasonRealRoadInfo instead of hardcoded 0",
+    "version":  "2.5.79",
+    "message":  "What\u0027s new: Ling combo moved to Hero Extras, auto cast 8420x4 then 8410 then 8400 after ult 8430 toward sword",
+    "changelog":  "Ling combo moved to Hero Extras, auto cast 8420x4 then 8410 then 8400 after ult 8430 toward sword",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "AC1693AD832CF0566B02E8E315D88108A754E039AB958AFE69CAB4B128D70938",
+    "arm64_sha256":  "65BD19AEB62B420E036B4B37EB5A5C2E0D2EEAB0B20FA9A703D297EDA4C116FE",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3161CE33534900E614CA6CE4E055F2EA683B589EC5A2192F793F3DB1B85F4EAD",
-    "armeabi_size":  5527052,
-    "updated_at":  "2026-06-20T09:50:31Z"
+    "armeabi_sha256":  "8A403107EC442EF70952405FB29AB2D9C40EC447692F9D89F872393E917D5341",
+    "armeabi_size":  5543436,
+    "updated_at":  "2026-06-20T10:07:10Z"
 }
