@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.80",
-    "message":  "What\u0027s new: Ling combo now waits 2 seconds after ult before starting cast sequence",
-    "changelog":  "Ling combo now waits 2 seconds after ult before starting cast sequence",
+    "version":  "2.5.81",
+    "message":  "What\u0027s new: Ling combo sequential 500ms delay between each cast, first cast after 2s ult delay",
+    "changelog":  "Ling combo sequential 500ms delay between each cast, first cast after 2s ult delay",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "4111E25022474ECF4EC2AE7C826C1FE73ABAD24F861C5A56C1EB5B9E36A05CB9",
+    "arm64_sha256":  "D0E820F441469F6E75C8350CECA0D4ACD4AB664F7C10E2B2AFC046787DD1CD8C",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BD67C9CD23E6A1765A4F91D6D27D280F582C93557A3D21E06E90E06FEAC48F3E",
+    "armeabi_sha256":  "BCEBCBD457488511C571B76E13FD073E1D1DB2211EA7CEF6DFFC67CC5785241C",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T10:28:24Z"
+    "updated_at":  "2026-06-20T10:41:34Z"
 }
