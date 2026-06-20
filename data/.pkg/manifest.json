@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.79",
-    "message":  "What\u0027s new: Ling combo moved to Hero Extras, auto cast 8420x4 then 8410 then 8400 after ult 8430 toward sword",
-    "changelog":  "Ling combo moved to Hero Extras, auto cast 8420x4 then 8410 then 8400 after ult 8430 toward sword",
+    "version":  "2.5.80",
+    "message":  "What\u0027s new: Ling combo now waits 2 seconds after ult before starting cast sequence",
+    "changelog":  "Ling combo now waits 2 seconds after ult before starting cast sequence",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "65BD19AEB62B420E036B4B37EB5A5C2E0D2EEAB0B20FA9A703D297EDA4C116FE",
+    "arm64_sha256":  "4111E25022474ECF4EC2AE7C826C1FE73ABAD24F861C5A56C1EB5B9E36A05CB9",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "8A403107EC442EF70952405FB29AB2D9C40EC447692F9D89F872393E917D5341",
+    "armeabi_sha256":  "BD67C9CD23E6A1765A4F91D6D27D280F582C93557A3D21E06E90E06FEAC48F3E",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T10:07:10Z"
+    "updated_at":  "2026-06-20T10:28:24Z"
 }
