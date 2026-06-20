@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.81",
-    "message":  "What\u0027s new: Ling combo sequential 500ms delay between each cast, first cast after 2s ult delay",
-    "changelog":  "Ling combo sequential 500ms delay between each cast, first cast after 2s ult delay",
+    "version":  "2.5.82",
+    "message":  "What\u0027s new: Ling auto combo now scans sword without Ling Tap flag, last cast 8410 to 8400 only 100ms then stop",
+    "changelog":  "Ling auto combo now scans sword without Ling Tap flag, last cast 8410 to 8400 only 100ms then stop",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D0E820F441469F6E75C8350CECA0D4ACD4AB664F7C10E2B2AFC046787DD1CD8C",
+    "arm64_sha256":  "54FB6D8A69FDD7DC8C92180731556436D2CD0DA49203A3D0B27C0B20D1E85FB6",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BCEBCBD457488511C571B76E13FD073E1D1DB2211EA7CEF6DFFC67CC5785241C",
+    "armeabi_sha256":  "37A6B92955FA4F6146C16D1E34C5346F5A15358A8FE77C996B556A9FB331D902",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T10:41:34Z"
+    "updated_at":  "2026-06-20T12:46:49Z"
 }
