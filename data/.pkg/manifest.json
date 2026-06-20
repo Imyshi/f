@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.73",
-    "message":  "What\u0027s new: Add ChooseHeroMgr.GetBanPickHeros managed call as final ban source",
-    "changelog":  "Add ChooseHeroMgr.GetBanPickHeros managed call as final ban source",
+    "version":  "2.5.74",
+    "message":  "What\u0027s new: Display GetBanPickHeros raw string in Skill ID Debugger",
+    "changelog":  "Display GetBanPickHeros raw string in Skill ID Debugger",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "0240BA8B4917A740FA87EB4FB9A16410A913686FA4AB42DDBECB308C048A664D",
+    "arm64_sha256":  "26C39C9F4274C5A8904570FD5EC4F3FEEA901FDE728DE9A881706404B626BBEE",
     "arm64_size":  5806208,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0D30996E377B2978324628A9D1AF0ACB5269566067B4F8FA4598F693AC0D3997",
+    "armeabi_sha256":  "D03CC6A94DC1FA32AD6115F99C85BCA5B00F8FA71E6CFFBE8C8CCED44EDB80B9",
     "armeabi_size":  5527044,
-    "updated_at":  "2026-06-20T00:55:08Z"
+    "updated_at":  "2026-06-20T01:22:19Z"
 }
