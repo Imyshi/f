@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.76",
-    "message":  "What\u0027s new: Call RoomInfoList every 2s regardless of active tab for ban debug",
-    "changelog":  "Call RoomInfoList every 2s regardless of active tab for ban debug",
+    "version":  "2.5.77",
+    "message":  "What\u0027s new: Fix ban hero ROOM tab: hook UIRankHero.ReceBanHero untuk capture ban real-time (RoomData.banHero tidak ter-populate), hapus macro GetBanPickHeros yang salah class, debug display pakai atomic",
+    "changelog":  "Fix ban hero ROOM tab: hook UIRankHero.ReceBanHero untuk capture ban real-time (RoomData.banHero tidak ter-populate), hapus macro GetBanPickHeros yang salah class, debug display pakai atomic",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "67C4BAE54019520664342E69E7A2C4D436BCA15D6FD9B1D725CD476D24148743",
-    "arm64_size":  5806224,
+    "arm64_sha256":  "C77A40F3CB86376B4C0E2E0DE77415DA27708B13DFB0A5ED5E870C07751631FC",
+    "arm64_size":  4845112,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "3DD75EAB632E1D5382BF3EAC501EFF769C5243895CB90F736AD46B3BC98F1F54",
-    "armeabi_size":  5527060,
-    "updated_at":  "2026-06-20T04:14:06Z"
+    "armeabi_sha256":  "829AAF4696742E9BA212B917666F7A97ACC25C02F3F9BEE930EA4F82FF10AFA0",
+    "armeabi_size":  4509252,
+    "updated_at":  "2026-06-20T06:24:50Z"
 }
