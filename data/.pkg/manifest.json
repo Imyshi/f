@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.83",
-    "message":  "What\u0027s new: Ling auto combo stops at 8410 (removed final 8400 cast)",
-    "changelog":  "Ling auto combo stops at 8410 (removed final 8400 cast)",
+    "version":  "2.5.84",
+    "message":  "What\u0027s new: Add retribution on/off toggle, shows when any retri target is active",
+    "changelog":  "Add retribution on/off toggle, shows when any retri target is active",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D2BACCE3EABDE46B588A48DC9AABC466A3E0018A636B3CEA1FD98D2BE17A8042",
+    "arm64_sha256":  "04ADFC4C91EBA4C2944651683DAF5552862EB4AB9891F4E39192F4816EF376A4",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D58D8E57014CD8E24787C9CE7623B68D4214E2C6BBD6244FF841D6954DED8596",
+    "armeabi_sha256":  "F5B6A930D17BD1000A6B580AB88EC01B2F60A74F09C5D74425D778183C193CA3",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T13:43:53Z"
+    "updated_at":  "2026-06-20T14:21:32Z"
 }
