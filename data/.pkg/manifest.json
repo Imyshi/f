@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.74",
-    "message":  "What\u0027s new: Display GetBanPickHeros raw string in Skill ID Debugger",
-    "changelog":  "Display GetBanPickHeros raw string in Skill ID Debugger",
+    "version":  "2.5.75",
+    "message":  "What\u0027s new: Add per-offset ban debug display in Skill ID Debugger",
+    "changelog":  "Add per-offset ban debug display in Skill ID Debugger",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "26C39C9F4274C5A8904570FD5EC4F3FEEA901FDE728DE9A881706404B626BBEE",
-    "arm64_size":  5806208,
+    "arm64_sha256":  "BF345AC78B73FD65E6684B829367665104F8D5B92232EF6F6829C35C31835F56",
+    "arm64_size":  5806224,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "D03CC6A94DC1FA32AD6115F99C85BCA5B00F8FA71E6CFFBE8C8CCED44EDB80B9",
-    "armeabi_size":  5527044,
-    "updated_at":  "2026-06-20T01:22:19Z"
+    "armeabi_sha256":  "60F2C922BB748355E8772680CB8BF81F8FE98DFBD9738F3A51205D26CA43EA44",
+    "armeabi_size":  5527060,
+    "updated_at":  "2026-06-20T01:57:11Z"
 }
