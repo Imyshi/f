@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.77",
-    "message":  "What\u0027s new: Fix ban hero ROOM tab: hook UIRankHero.ReceBanHero untuk capture ban real-time (RoomData.banHero tidak ter-populate), hapus macro GetBanPickHeros yang salah class, debug display pakai atomic",
-    "changelog":  "Fix ban hero ROOM tab: hook UIRankHero.ReceBanHero untuk capture ban real-time (RoomData.banHero tidak ter-populate), hapus macro GetBanPickHeros yang salah class, debug display pakai atomic",
+    "version":  "2.5.78",
+    "message":  "What\u0027s new: fix room win rate now reads from vCurSeasonRealRoadInfo instead of hardcoded 0",
+    "changelog":  "fix room win rate now reads from vCurSeasonRealRoadInfo instead of hardcoded 0",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "C77A40F3CB86376B4C0E2E0DE77415DA27708B13DFB0A5ED5E870C07751631FC",
-    "arm64_size":  4845112,
+    "arm64_sha256":  "AC1693AD832CF0566B02E8E315D88108A754E039AB958AFE69CAB4B128D70938",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "829AAF4696742E9BA212B917666F7A97ACC25C02F3F9BEE930EA4F82FF10AFA0",
-    "armeabi_size":  4509252,
-    "updated_at":  "2026-06-20T06:24:50Z"
+    "armeabi_sha256":  "3161CE33534900E614CA6CE4E055F2EA683B589EC5A2192F793F3DB1B85F4EAD",
+    "armeabi_size":  5527052,
+    "updated_at":  "2026-06-20T09:50:31Z"
 }
