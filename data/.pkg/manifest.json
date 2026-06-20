@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.86",
-    "message":  "What\u0027s new: Retri toggle moved to bottom-left, transparent bg, 2-finger hold 2.5s menu hide, Yve label separated, shorter login window",
-    "changelog":  "Retri toggle moved to bottom-left, transparent bg, 2-finger hold 2.5s menu hide, Yve label separated, shorter login window",
+    "version":  "2.5.87",
+    "message":  "What\u0027s new: Retri toggle draggable and always visible, back to 3-finger hold, Safe Yve now filters by ult area range from config",
+    "changelog":  "Retri toggle draggable and always visible, back to 3-finger hold, Safe Yve now filters by ult area range from config",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "71542BFC5C9D891A37FA4C8281FD3DA658713C03AABF3489439180D64E265A6C",
+    "arm64_sha256":  "351504CB8DBC13641BBA719371F91EC7214D0FF618EC8B75397B4DA4669974E6",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "96AE03737313E697E609D7E5067EC6E73EC0AC788A7B89419E4BF9EC3D46027B",
+    "armeabi_sha256":  "66B6891053C838D3F1454654C969327BFB386D1BD3CC443C5F73AC11B438223E",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T15:41:46Z"
+    "updated_at":  "2026-06-20T18:14:15Z"
 }
