@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "2.5.88",
-    "message":  "What\u0027s new: 4-finger hold menu toggle, Safe Yve fallback range 9.0, Retri toggle draggable via body and moved to mid-left",
-    "changelog":  "4-finger hold menu toggle, Safe Yve fallback range 9.0, Retri toggle draggable via body and moved to mid-left",
+    "version":  "2.5.89",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
     "arm64_sha256":  "3736646E0A5DF53CBF138AB12B3139412C9EE981386D7D395BD0A6C0FEF1568B",
@@ -9,5 +9,5 @@
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
     "armeabi_sha256":  "BB27C4083CCE0BC6E1D8EC788985827FDCD4C6F2090B8F321129FE82473955F1",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-20T18:30:15Z"
+    "updated_at":  "2026-06-21T00:55:39Z"
 }
