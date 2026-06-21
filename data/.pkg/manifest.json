@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.94",
-    "message":  "What\u0027s new: Tab merata isi lebar menu, ukuran window disesuaikan",
-    "changelog":  "Tab merata isi lebar menu, ukuran window disesuaikan",
+    "version":  "2.5.95",
+    "message":  "What\u0027s new: Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
+    "changelog":  "Added launcher support UI and rebuilt native libraries with Android 15 16 KB alignment.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "805EE8519E9BC541B3E59194F1247EB5C54043D9B5EB892FD68C4232FA14674E",
-    "arm64_size":  4891304,
+    "arm64_sha256":  "C7C40D3355C82A95CD7E49FFF7C1F9988BDAA54303469A9D7EDEAFC7B17E165F",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "0E57D0078EC7F2561116B56D54D370EEBC09FB9A5FADA5751BE97E1E35FBB744",
-    "armeabi_size":  4572176,
-    "updated_at":  "2026-06-21T02:05:07Z"
+    "armeabi_sha256":  "22367221884B7D52AA3EA319C1E38711790BAA2349325F4A43B591EA8E18FE3B",
+    "armeabi_size":  5543436,
+    "updated_at":  "2026-06-21T03:35:17Z"
 }
