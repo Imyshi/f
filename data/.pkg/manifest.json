@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.99",
-    "message":  "What\u0027s new: Remove time badge HH:MM DAY/NIGHT from DrawSectionTitle. Remove GetMenuSceneTime/MenuSceneTime struct.",
-    "changelog":  "Remove time badge HH:MM DAY/NIGHT from DrawSectionTitle. Remove GetMenuSceneTime/MenuSceneTime struct.",
+    "version":  "2.6.0",
+    "message":  "What\u0027s new: Menu UI overhaul: Impact font, stretch tab bar, toggle switches, floating Retri toggle, remove master toggles and time badge, rename Kimmy/Yve aim settings",
+    "changelog":  "Menu UI overhaul: Impact font, stretch tab bar, toggle switches, floating Retri toggle, remove master toggles and time badge, rename Kimmy/Yve aim settings",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "B1B19D1ECB4A3E0069B1DE47C8EF031308A3F61DD47C9B2CF9CDC967DEA9292A",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "2377EA8AA68373E386EFC2538975E9A9CE5330C9EB572F50ACE37BF0DA39FA2A",
+    "arm64_size":  4867008,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BC5053303B0711A0DF8C14FA6773DAC04F6DC2E4678BA19504230DC8A8BF624B",
-    "armeabi_size":  5527052,
-    "updated_at":  "2026-06-21T07:45:25Z"
+    "armeabi_sha256":  "1254ABF157F2E80F7107E59D506B5EDD2A6D44EFC1762188720DFFCF995BAB33",
+    "armeabi_size":  4533168,
+    "updated_at":  "2026-06-21T10:38:23Z"
 }
