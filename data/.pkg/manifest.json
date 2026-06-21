@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.90",
-    "message":  "What\u0027s new: Pindahkan toggle Retribution ke tengah layar (pivot 0.5, 0.5)",
-    "changelog":  "Pindahkan toggle Retribution ke tengah layar (pivot 0.5, 0.5)",
+    "version":  "2.5.91",
+    "message":  "What\u0027s new: Nav menu dipindah ke atas (horizontal), toggle Retribution ke tengah layar",
+    "changelog":  "Nav menu dipindah ke atas (horizontal), toggle Retribution ke tengah layar",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "3736646E0A5DF53CBF138AB12B3139412C9EE981386D7D395BD0A6C0FEF1568B",
-    "arm64_size":  5822600,
+    "arm64_sha256":  "6C896A542F4EC0B234656E999AEAA4E8FC61AB88A0AAE7F9BB976BFC3670CBC6",
+    "arm64_size":  4891240,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "BB27C4083CCE0BC6E1D8EC788985827FDCD4C6F2090B8F321129FE82473955F1",
-    "armeabi_size":  5543436,
-    "updated_at":  "2026-06-21T00:57:05Z"
+    "armeabi_sha256":  "0F01F8A6872A1754365947E1D1706B193F1196BD310D0CE85F791DD2AA452938",
+    "armeabi_size":  4572128,
+    "updated_at":  "2026-06-21T01:22:45Z"
 }
