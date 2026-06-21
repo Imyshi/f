@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.96",
-    "message":  "What\u0027s new: Tab navigation: ImGuiTabBar style, keep all modern features",
-    "changelog":  "Tab navigation: ImGuiTabBar style, keep all modern features",
+    "version":  "2.5.97",
+    "message":  "What\u0027s new: RetriToggle: DrawToggleSwitch with 1.5x scale. TabBar ResizeDown. Time badge in DrawSectionTitle right side.",
+    "changelog":  "RetriToggle: DrawToggleSwitch with 1.5x scale. TabBar ResizeDown. Time badge in DrawSectionTitle right side.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "CDF8699B0B265C148F7359908BCD67F1DB031C2D86AA01C857EFF369D1FBF125",
+    "arm64_sha256":  "FD36390CE155D6AA6AE513D38701913BFCBE2EDABA2C72E556A321275F794A75",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "F7EEC1180035BBAD0A219F90891390935C7118A4982F5787BFE6E8DF7C1251DE",
+    "armeabi_sha256":  "4449157D3B0C3A62ABC3C035FB70A1D08587C789D51A5597C1047476398B4DBE",
     "armeabi_size":  5543436,
-    "updated_at":  "2026-06-21T04:38:10Z"
+    "updated_at":  "2026-06-21T05:39:13Z"
 }
