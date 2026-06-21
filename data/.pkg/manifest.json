@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.92",
-    "message":  "What\u0027s new: Nav menu jadi 2 baris (3-3) di atas, perbaiki tab tidak responsif",
-    "changelog":  "Nav menu jadi 2 baris (3-3) di atas, perbaiki tab tidak responsif",
+    "version":  "2.5.93",
+    "message":  "What\u0027s new: Tab nav compact auto-size ikut MINIMAP, hemat ruang",
+    "changelog":  "Tab nav compact auto-size ikut MINIMAP, hemat ruang",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "71DD0042514E06353DA8E4BBB1E71F528D8038E55E747AFEB9E54C04CA2A5AC2",
-    "arm64_size":  4891304,
+    "arm64_sha256":  "2AD6FE9C9DADED1AA5E2A1C6FCA423B48538F8B6B0DD31866E6F88B96AA087B6",
+    "arm64_size":  4891480,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "29A26FF1EF51E51172F81C81A1D213581B5FF4DEAD99A4CB9B6FEFF47107D76E",
-    "armeabi_size":  4572176,
-    "updated_at":  "2026-06-21T01:41:33Z"
+    "armeabi_sha256":  "40F4ACF1AAB2CAE28B84F5C98A630A12B7DE729C8986FF0A6790E7D172F464B6",
+    "armeabi_size":  4572432,
+    "updated_at":  "2026-06-21T01:52:29Z"
 }
