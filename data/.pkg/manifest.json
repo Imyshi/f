@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.97",
-    "message":  "What\u0027s new: RetriToggle: DrawToggleSwitch with 1.5x scale. TabBar ResizeDown. Time badge in DrawSectionTitle right side.",
-    "changelog":  "RetriToggle: DrawToggleSwitch with 1.5x scale. TabBar ResizeDown. Time badge in DrawSectionTitle right side.",
+    "version":  "2.5.98",
+    "message":  "What\u0027s new: Remove animated DrawCosmicBackdrop. Solid dark background. Remove DrawHighDetailSun/Moon/Clamp01.",
+    "changelog":  "Remove animated DrawCosmicBackdrop. Solid dark background. Remove DrawHighDetailSun/Moon/Clamp01.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "FD36390CE155D6AA6AE513D38701913BFCBE2EDABA2C72E556A321275F794A75",
+    "arm64_sha256":  "684179B9C140A9D91A917C17CBCE1DEAA460C9EFB83B54FEC9566550D04D9FD3",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "4449157D3B0C3A62ABC3C035FB70A1D08587C789D51A5597C1047476398B4DBE",
-    "armeabi_size":  5543436,
-    "updated_at":  "2026-06-21T05:39:13Z"
+    "armeabi_sha256":  "94FC98C3675D79FE5A87BD5FF2ADE4E36E229A0BDF463E306B19C3E0A1E1290A",
+    "armeabi_size":  5527052,
+    "updated_at":  "2026-06-21T07:34:46Z"
 }
