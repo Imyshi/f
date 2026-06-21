@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.98",
-    "message":  "What\u0027s new: Remove animated DrawCosmicBackdrop. Solid dark background. Remove DrawHighDetailSun/Moon/Clamp01.",
-    "changelog":  "Remove animated DrawCosmicBackdrop. Solid dark background. Remove DrawHighDetailSun/Moon/Clamp01.",
+    "version":  "2.5.99",
+    "message":  "What\u0027s new: Remove time badge HH:MM DAY/NIGHT from DrawSectionTitle. Remove GetMenuSceneTime/MenuSceneTime struct.",
+    "changelog":  "Remove time badge HH:MM DAY/NIGHT from DrawSectionTitle. Remove GetMenuSceneTime/MenuSceneTime struct.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "684179B9C140A9D91A917C17CBCE1DEAA460C9EFB83B54FEC9566550D04D9FD3",
+    "arm64_sha256":  "B1B19D1ECB4A3E0069B1DE47C8EF031308A3F61DD47C9B2CF9CDC967DEA9292A",
     "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "94FC98C3675D79FE5A87BD5FF2ADE4E36E229A0BDF463E306B19C3E0A1E1290A",
+    "armeabi_sha256":  "BC5053303B0711A0DF8C14FA6773DAC04F6DC2E4678BA19504230DC8A8BF624B",
     "armeabi_size":  5527052,
-    "updated_at":  "2026-06-21T07:34:46Z"
+    "updated_at":  "2026-06-21T07:45:25Z"
 }
