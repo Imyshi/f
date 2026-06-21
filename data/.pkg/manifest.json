@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.5.93",
-    "message":  "What\u0027s new: Tab nav compact auto-size ikut MINIMAP, hemat ruang",
-    "changelog":  "Tab nav compact auto-size ikut MINIMAP, hemat ruang",
+    "version":  "2.5.94",
+    "message":  "What\u0027s new: Tab merata isi lebar menu, ukuran window disesuaikan",
+    "changelog":  "Tab merata isi lebar menu, ukuran window disesuaikan",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "2AD6FE9C9DADED1AA5E2A1C6FCA423B48538F8B6B0DD31866E6F88B96AA087B6",
-    "arm64_size":  4891480,
+    "arm64_sha256":  "805EE8519E9BC541B3E59194F1247EB5C54043D9B5EB892FD68C4232FA14674E",
+    "arm64_size":  4891304,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "40F4ACF1AAB2CAE28B84F5C98A630A12B7DE729C8986FF0A6790E7D172F464B6",
-    "armeabi_size":  4572432,
-    "updated_at":  "2026-06-21T01:52:29Z"
+    "armeabi_sha256":  "0E57D0078EC7F2561116B56D54D370EEBC09FB9A5FADA5751BE97E1E35FBB744",
+    "armeabi_size":  4572176,
+    "updated_at":  "2026-06-21T02:05:07Z"
 }
