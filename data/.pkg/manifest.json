@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.6.0",
-    "message":  "What\u0027s new: Disable license login gate. IS_VALID() always returns true.",
-    "changelog":  "Disable license login gate. IS_VALID() always returns true.",
+    "message":  "What\u0027s new: Fix font scope: Impact only for window title, Google Sans for all content.",
+    "changelog":  "Fix font scope: Impact only for window title, Google Sans for all content.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "6A73B9FD3141CFC900EEF9C33903B3FB6CEC1EB53BD6946EB5B83FF9E7359E8A",
-    "arm64_size":  5806216,
+    "arm64_sha256":  "D7DA33FD9E099DD436E04013260476ED32BC2E5438A3B646DF391B6D0CBD4B14",
+    "arm64_size":  5789832,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "12C80926646D56BF29D0E6ED80C46EDA9FA99EB663D4BB2FBC147D474D2E3BB2",
+    "armeabi_sha256":  "B55065BF851E77BF06D6C1D7EB0D383526B3EEBB3A862F4A35B73DD3569C41FB",
     "armeabi_size":  5527052,
-    "updated_at":  "2026-06-28T01:58:22Z"
+    "updated_at":  "2026-06-28T02:12:09Z"
 }
