@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.6.0",
-    "message":  "What\u0027s new: Menu UI overhaul: Impact font, stretch tab bar, toggle switches, floating Retri toggle, remove master toggles and time badge, rename Kimmy/Yve aim settings",
-    "changelog":  "Menu UI overhaul: Impact font, stretch tab bar, toggle switches, floating Retri toggle, remove master toggles and time badge, rename Kimmy/Yve aim settings",
+    "message":  "What\u0027s new: Disable license login gate. IS_VALID() always returns true.",
+    "changelog":  "Disable license login gate. IS_VALID() always returns true.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "2377EA8AA68373E386EFC2538975E9A9CE5330C9EB572F50ACE37BF0DA39FA2A",
-    "arm64_size":  4867008,
+    "arm64_sha256":  "6A73B9FD3141CFC900EEF9C33903B3FB6CEC1EB53BD6946EB5B83FF9E7359E8A",
+    "arm64_size":  5806216,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "1254ABF157F2E80F7107E59D506B5EDD2A6D44EFC1762188720DFFCF995BAB33",
-    "armeabi_size":  4533168,
-    "updated_at":  "2026-06-21T10:38:23Z"
+    "armeabi_sha256":  "12C80926646D56BF29D0E6ED80C46EDA9FA99EB663D4BB2FBC147D474D2E3BB2",
+    "armeabi_size":  5527052,
+    "updated_at":  "2026-06-28T01:58:22Z"
 }
