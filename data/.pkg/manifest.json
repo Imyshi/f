@@ -1,13 +1,13 @@
 ﻿{
     "version":  "2.6.0",
-    "message":  "What\u0027s new: Fix font scope: Impact only for window title, Google Sans for all content.",
-    "changelog":  "Fix font scope: Impact only for window title, Google Sans for all content.",
+    "message":  "What\u0027s new: Replace GoogleSans with default ImGui font. Impact only for title.",
+    "changelog":  "Replace GoogleSans with default ImGui font. Impact only for title.",
     "force":  false,
     "arm64_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a64.dat",
-    "arm64_sha256":  "D7DA33FD9E099DD436E04013260476ED32BC2E5438A3B646DF391B6D0CBD4B14",
-    "arm64_size":  5789832,
+    "arm64_sha256":  "1CC00FEF644288E8B76A2306C40EEEE899EFC9333406574AA63877741DEF9259",
+    "arm64_size":  5724296,
     "armeabi_url":  "https://raw.githubusercontent.com/Imyshi/f/64/data/.pkg/a32.dat",
-    "armeabi_sha256":  "B55065BF851E77BF06D6C1D7EB0D383526B3EEBB3A862F4A35B73DD3569C41FB",
-    "armeabi_size":  5527052,
-    "updated_at":  "2026-06-28T02:12:09Z"
+    "armeabi_sha256":  "968A3A85784ED7EC6070730689F86A2509B7F6499DD45EEB965EBF7115D3AF10",
+    "armeabi_size":  5445132,
+    "updated_at":  "2026-06-28T02:20:52Z"
 }
